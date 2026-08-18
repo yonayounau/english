@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<!--
+  index.html - 홈/날짜 선택 화면 (정적 사이트 버전)
+  docs/data/index.json을 fetch해서 날짜 목록을 그리고, 검색을 처리한다.
+-->
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="빨모쌤과 함께하는 개인 영어 학습 웹앱. Notion 연동 영어 표현 반복 학습.">
+  <meta name="theme-color" content="#0a0e1a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="빨모쌤 영어">
+
+  <title>날짜 선택 - 빨모쌤 영어공부</title>
+
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+
+  <div class="app-container">
+
+    <header class="app-header">
+      <h2 class="header-title">📚 빨모쌤 영어공부</h2>
+    </header>
+
+    <main class="page-content">
+
+      <!-- ── 히어로 섹션 ── -->
+      <section class="home-hero">
+        <span class="home-hero-emoji">🎯</span>
+        <h1>빨모쌤과 함께하는 영어공부</h1>
+        <p>날짜를 선택해서 오늘의 학습을 시작하세요!</p>
+      </section>
+
+      <!-- ── 자동 동기화 안내 (정적 사이트: 서버 버튼 대신 안내 문구) ── -->
+      <p style="text-align:center; font-size:0.8rem; color:var(--color-text-muted); margin-bottom:24px;">
+        🤖 매일 자동으로 최신 데이터와 동기화됩니다
+      </p>
+
+      <!-- ── 검색창 ── -->
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" class="search-input"
+               placeholder="제목이나 영어 표현으로 검색" autocomplete="off">
+      </div>
+
+      <p class="section-label" id="section-label">📖 학습 기록</p>
+
+      <p id="search-empty" class="empty-state" style="display:none;">
+        <span class="empty-icon">🔍</span>
+        <span>검색 결과가 없습니다.</span>
+      </p>
+
+      <div class="date-list" id="date-list"></div>
+
+      <div class="empty-state" id="no-data-state" style="display:none;">
+        <span class="empty-icon">📭</span>
+        <p>아직 학습 데이터가 없습니다.</p>
+      </div>
+
+    </main>
+
+    <nav class="bottom-nav" aria-label="메인 메뉴">
+      <a href="index.html" class="nav-item" id="nav-home">
+        <span class="nav-icon">📅</span>
+        <span>날짜선택</span>
+      </a>
+      <a href="book.html" class="nav-item" id="nav-book">
+        <span class="nav-icon">📚</span>
+        <span>책공부</span>
+      </a>
+    </nav>
+
+  </div>
+
+  <script src="static/js/tts-control.js"></script>
+  <script src="static/js/ko-en-toggle.js"></script>
+  <script src="static/js/sentence-player.js"></script>
+  <script src="static/js/main.js"></script>
+  <script src="static/js/static-helpers.js"></script>
+
+  <script>
+    // ============================================================
+    // 날짜 목록 렌더링 + 검색 (제목 최우선, 키워드 영어 표현도 대상)
+    // ============================================================
+
+    function renderDateCard(date, lesson) {
+      const dateDisplay = formatDateDisplay(date);
+      const name = lesson.name || '';
+
+      const youtubeLink = lesson.youtube_url
+        ? `<a href="${escapeAttr(lesson.youtube_url)}" target="_blank" rel="noopener noreferrer"
+              class="youtube-link" title="유튜브 영상 보기" onclick="event.stopPropagation()">🎬</a>`
+        : '';
+
+      const card = document.createElement('div');
+      card.className = 'date-card';
+      card.dataset.searchTitle = (name || '').toLowerCase();
+      card.dataset.searchKw = (lesson.search_keywords || '');
+
+      card.innerHTML = `
+        <div class="date-card-header">
+          <span class="date-label">📅 ${dateDisplay}${name ? ` <span class="date-name">| ${name}</span>` : ''}</span>
+          ${youtubeLink}
+        </div>
+        <div class="date-card-stats">
+          <span class="stat-badge">키워드 ${lesson.keywords_count}문장</span>
+          <span class="stat-badge">나만의 ${lesson.my_sentences_count}문장</span>
+        </div>
+        <div class="date-card-actions">
+          <a href="keywords.html?date=${date}" class="action-btn-small">📖 키워드</a>
+          <a href="practice.html?date=${date}" class="action-btn-small">🗣️ 연습</a>
+          <a href="my-sentences.html?date=${date}" class="action-btn-small">✍️ 나만의</a>
+        </div>
+      `;
+      return card;
+    }
+
+    async function init() {
+      const indexData = await fetchJsonSafe('data/index.json');
+      const dateList = document.getElementById('date-list');
+      const sectionLabel = document.getElementById('section-label');
+
+      if (!indexData || !indexData.dates || indexData.dates.length === 0) {
+        document.getElementById('no-data-state').style.display = '';
+        sectionLabel.style.display = 'none';
+        return;
+      }
+
+      const dates = indexData.dates;
+      sectionLabel.textContent = `📖 학습 기록 (${dates.length}일)`;
+
+      dates.forEach(date => {
+        dateList.appendChild(renderDateCard(date, indexData.lessons[date]));
+      });
+
+      // ── 검색: 제목이 최우선 검색 대상, 키워드 영어 표현도 대상에 포함 ──
+      const input = document.getElementById('search-input');
+      const emptyState = document.getElementById('search-empty');
+      const originalOrder = Array.from(dateList.querySelectorAll('.date-card'));
+
+      input.addEventListener('input', () => {
+        const query = input.value.trim().toLowerCase();
+
+        if (!query) {
+          originalOrder.forEach(card => {
+            card.style.display = '';
+            dateList.appendChild(card);
+          });
+          emptyState.style.display = 'none';
+          return;
+        }
+
+        const titleMatches = [];
+        const keywordMatches = [];
+        const noMatches = [];
+
+        originalOrder.forEach(card => {
+          const title = card.dataset.searchTitle || '';
+          const kw    = card.dataset.searchKw || '';
+          if (title.includes(query)) {
+            titleMatches.push(card);
+          } else if (kw.includes(query)) {
+            keywordMatches.push(card);
+          } else {
+            noMatches.push(card);
+          }
+        });
+
+        [...titleMatches, ...keywordMatches, ...noMatches].forEach(card => dateList.appendChild(card));
+
+        titleMatches.forEach(card => { card.style.display = ''; });
+        keywordMatches.forEach(card => { card.style.display = ''; });
+        noMatches.forEach(card => { card.style.display = 'none'; });
+
+        emptyState.style.display = (titleMatches.length + keywordMatches.length === 0) ? '' : 'none';
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initBackButton();
+      initSyncButton(); // 정적 사이트에는 sync-btn이 없어 즉시 no-op
+      updateNavActive();
+      document.documentElement.style.scrollBehavior = 'smooth';
+      init();
+    });
+  </script>
+</body>
+</html>

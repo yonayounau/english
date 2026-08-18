@@ -1,0 +1,11 @@
+# Flask 웹 프레임워크
+Flask==3.0.3
+
+# 환경변수(.env) 파일 로드용
+python-dotenv==1.0.1
+
+# Notion API HTTP 요청용
+requests==2.32.3
+
+# 자동 동기화 스케줄러
+APScheduler==3.11.3

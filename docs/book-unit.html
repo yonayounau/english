@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<!--
+  book-unit.html - 책공부 UNIT 상세 학습 화면 (정적 사이트 버전)
+  ?unit=UNIT15 형태로 지정된 UNIT을 docs/data/book_units.json에서 찾아 표시한다.
+-->
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0a0e1a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="빨모쌤 영어">
+
+  <title>책공부 UNIT - 빨모쌤 영어공부</title>
+
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+
+  <div class="app-container">
+
+    <header class="app-header">
+      <button class="header-back-btn" aria-label="뒤로가기" title="뒤로가기">←</button>
+      <h2 class="header-title" id="header-title">📚 책공부</h2>
+    </header>
+
+    <main class="page-content">
+
+      <div class="player-screen">
+
+        <div class="progress-area">
+          <div class="progress-info">
+            <span class="progress-count" id="progress-count">1 / 0</span>
+            <span class="progress-percent" id="progress-percent">0%</span>
+          </div>
+          <div class="progress-bar-track">
+            <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
+          </div>
+        </div>
+
+        <div class="sentence-card" id="sentence-card" role="button" tabindex="0">
+          <p class="sentence-en" id="sentence-en">불러오는 중...</p>
+          <p class="sentence-ko" id="sentence-ko"></p>
+          <span class="tap-hint">탭하면 다음 문장 →</span>
+        </div>
+
+        <div class="player-controls">
+          <div class="controls-row">
+            <button class="ctrl-btn" id="prev-btn" aria-label="이전 문장">◀</button>
+            <button class="tts-play-btn" id="tts-play-btn" aria-label="TTS 재생">▶</button>
+            <button class="ctrl-btn" id="next-btn" aria-label="다음 문장">▶</button>
+          </div>
+
+          <div class="controls-row">
+            <div class="speed-control">
+              <button class="speed-btn" id="speed-down" aria-label="속도 낮추기">−</button>
+              <span class="speed-label">속도</span>
+              <span class="speed-value" id="speed-value">1.00x</span>
+              <button class="speed-btn" id="speed-up" aria-label="속도 올리기">＋</button>
+            </div>
+            <button class="ko-toggle-btn active" id="ko-toggle-btn" aria-label="한국어 표시 토글">
+              🇰🇷 <span class="toggle-text">한국어 ON</span>
+            </button>
+            <button class="toc-btn" id="toc-btn" aria-label="목차 보기">
+              ☰ <span>목차</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="controls-row" id="unit-nav" style="margin-top:8px; gap:8px;"></div>
+
+      </div>
+
+      <div class="modal-overlay" id="toc-modal" role="dialog" aria-modal="true">
+        <div class="modal-sheet">
+          <div class="modal-header">
+            <h3 class="modal-title" id="toc-title">📚 목차</h3>
+            <button class="modal-close-btn" id="toc-close-btn">✕</button>
+          </div>
+          <div class="toc-list" id="toc-list"></div>
+        </div>
+      </div>
+
+    </main>
+
+    <nav class="bottom-nav" aria-label="메인 메뉴">
+      <a href="index.html" class="nav-item" id="nav-home">
+        <span class="nav-icon">📅</span>
+        <span>날짜선택</span>
+      </a>
+      <a href="book.html" class="nav-item" id="nav-book">
+        <span class="nav-icon">📚</span>
+        <span>책공부</span>
+      </a>
+    </nav>
+
+  </div>
+
+  <script src="static/js/tts-control.js"></script>
+  <script src="static/js/ko-en-toggle.js"></script>
+  <script src="static/js/sentence-player.js"></script>
+  <script src="static/js/main.js"></script>
+  <script src="static/js/static-helpers.js"></script>
+
+  <script>
+    function unitSortKey(unitId) {
+      const m = unitId.match(/(\d+)/);
+      return m ? parseInt(m[1], 10) : 9999;
+    }
+
+    async function init() {
+      const unitId = (getQueryParam('unit') || '').toUpperCase();
+      const data = await fetchJsonSafe('data/book_units.json');
+
+      if (!data || !unitId || !data[unitId]) {
+        document.getElementById('sentence-card').innerHTML =
+          '<p style="color:#94a3b8;">해당 UNIT을 찾을 수 없습니다.</p>';
+        return;
+      }
+
+      const unit = data[unitId];
+      document.getElementById('header-title').textContent = unit.title;
+      document.getElementById('toc-title').textContent = `📚 ${unit.title} 목차`;
+      document.title = `${unit.title} - 빨모쌤 영어공부`;
+
+      const sentences = unit.sentences || [];
+      if (sentences.length === 0) {
+        document.getElementById('sentence-card').innerHTML =
+          '<p style="color:#94a3b8;">문장이 없습니다.</p>';
+        return;
+      }
+
+      // 이전/다음 UNIT 계산
+      const allIds = Object.keys(data).sort((a, b) => unitSortKey(a) - unitSortKey(b));
+      const curIdx = allIds.indexOf(unitId);
+      const prevUnit = curIdx > 0 ? allIds[curIdx - 1] : null;
+      const nextUnit = curIdx < allIds.length - 1 ? allIds[curIdx + 1] : null;
+
+      const navHtml = `
+        ${prevUnit
+          ? `<a href="book-unit.html?unit=${prevUnit}" class="action-btn-small"
+                style="flex:1; display:flex; align-items:center; justify-content:center; gap:4px;"
+                onclick="ttsControl.stop()">← ${prevUnit}</a>`
+          : '<span style="flex:1;"></span>'}
+        <a href="book.html" class="action-btn-small"
+           style="flex:0; padding:7px 16px; white-space:nowrap;"
+           onclick="ttsControl.stop()">📚 목차</a>
+        ${nextUnit
+          ? `<a href="book-unit.html?unit=${nextUnit}" class="action-btn-small"
+                style="flex:1; display:flex; align-items:center; justify-content:center; gap:4px;"
+                onclick="ttsControl.stop()">${nextUnit} →</a>`
+          : '<span style="flex:1;"></span>'}
+      `;
+      document.getElementById('unit-nav').innerHTML = navHtml;
+
+      const player = new SentencePlayer(sentences, ttsControl);
+      initSpeedControl(ttsControl);
+      const koToggle = new KoEnToggle('#ko-toggle-btn', '#sentence-ko');
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initBackButton();
+      updateNavActive();
+      document.documentElement.style.scrollBehavior = 'smooth';
+      init();
+    });
+  </script>
+</body>
+</html>

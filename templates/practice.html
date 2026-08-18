@@ -1,0 +1,232 @@
+{% extends "base.html" %}
+{#
+  practice.html - 연습하기 화면
+  해당 날짜의 키워드 + 나만의 문장 전체를 스크롤 목록으로 표시.
+  문장을 탭하면 그 문장만 TTS로 읽어준다.
+#}
+
+{% block title %}연습하기 {{ date }} - 빨모쌤 영어공부{% endblock %}
+
+{% set parts = date.split('-') %}
+{% set date_display = parts[0][2:] + '/' + parts[1] + '/' + parts[2] %}
+
+{% block header_title %}🗣️ 연습하기{% endblock %}
+{% block header_badge %}
+  <span class="header-date-badge">{{ date_display }}</span>
+{% endblock %}
+
+{% set show_back = true %}
+
+{% block content %}
+
+  <!-- ── 연습 화면 헤더 ── -->
+  <div class="practice-header">
+    <h1 class="practice-title">오늘의 연습 문장</h1>
+    <p class="practice-sub">문장을 탭하면 영어로 읽어드립니다 🔊</p>
+  </div>
+
+  <!-- ── 자동재생 플로팅 버튼 ── -->
+  <div class="auto-play-fab-wrap">
+    <button class="auto-play-btn" id="auto-play-btn" title="자동 재생">
+      <span class="auto-play-icon">▶</span>
+      <span class="auto-play-text">자동재생</span>
+    </button>
+  </div>
+
+  <!-- ── 키워드 문장 섹션 ── -->
+  {% if lesson.keywords %}
+    <p class="section-label">📖 학습 키워드</p>
+    <div class="practice-list" id="keywords-list">
+      {% for s in lesson.keywords %}
+        <div class="practice-item"
+             data-en="{{ s.en }}"
+             data-idx="{{ loop.index0 }}"
+             onclick="playPractice(this)"
+             role="button"
+             tabindex="0"
+             aria-label="{{ s.en }}">
+          <div class="practice-item-num">{{ loop.index }}번</div>
+          <div class="practice-item-en">{{ s.en|safe }}</div>
+          <div class="practice-item-ko">{{ s.ko }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <!-- ── 나만의 문장 섹션 ── -->
+  {% if lesson.my_sentences %}
+    <p class="section-label" style="margin-top:24px;">✍️ 나만의 문장</p>
+    <div class="practice-list" id="my-sentences-list">
+      {% for s in lesson.my_sentences %}
+        <div class="practice-item"
+             data-en="{{ s.en }}"
+             data-idx="{{ loop.index0 }}"
+             onclick="playPractice(this)"
+             role="button"
+             tabindex="0"
+             aria-label="{{ s.en }}">
+          <div class="practice-item-num">{{ loop.index }}번</div>
+          <div class="practice-item-en">{{ s.en|safe }}</div>
+          <div class="practice-item-ko">{{ s.ko }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <!-- 문장이 전혀 없을 때 빈 상태 -->
+  {% if not lesson.keywords and not lesson.my_sentences %}
+    <div class="empty-state">
+      <span class="empty-icon">📭</span>
+      <p>연습할 문장이 없습니다.</p>
+    </div>
+  {% endif %}
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  // ============================================================
+  // 연습하기 화면 - 문장 탭 TTS 재생
+  // ============================================================
+
+  // 현재 재생 중인 문장 아이템 참조 (하이라이트 제거용)
+  let currentPlayingItem = null;
+
+  /**
+   * 탭한 문장 아이템을 TTS로 읽어준다.
+   * @param {HTMLElement} item - 클릭된 .practice-item 요소
+   */
+  function playPractice(item) {
+    // 자동재생 중에 수동으로 문장을 탭하면 자동재생은 멈춘다
+    if (autoPlaying) stopAutoPlay();
+
+    // 이전 재생 중인 아이템 하이라이트 해제
+    if (currentPlayingItem && currentPlayingItem !== item) {
+      currentPlayingItem.classList.remove('playing');
+    }
+
+    // 이미 재생 중인 같은 아이템이면 중지
+    if (currentPlayingItem === item && ttsControl.playing) {
+      ttsControl.stop();
+      item.classList.remove('playing');
+      currentPlayingItem = null;
+      return;
+    }
+
+    // 새 문장 재생
+    const enText = item.dataset.en;
+    if (!enText) return;
+
+    currentPlayingItem = item;
+    item.classList.add('playing');
+
+    // TTS 재생 종료 시 하이라이트 해제
+    ttsControl.onEnd = () => {
+      item.classList.remove('playing');
+      if (currentPlayingItem === item) currentPlayingItem = null;
+    };
+
+    ttsControl.speak(enText);
+  }
+
+  // ── 키보드 접근성 지원 (Enter/Space로 탭 효과) ──
+  document.querySelectorAll('.practice-item').forEach(item => {
+    item.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        playPractice(item);
+      }
+    });
+  });
+
+  // ============================================================
+  // 자동재생 - 순서대로 문장을 재생하며 자동으로 다음 문장으로 넘어간다
+  // 영어가 있으면 TTS로 읽고 4초 후 다음으로, 한글만 있으면(영어 없음)
+  // TTS 없이 2초 후 다음으로 넘어간다.
+  // ============================================================
+  let autoPlaying   = false;
+  let autoPlayTimer = null;
+  let autoPlayIdx   = -1;
+  let autoPlayItems = [];
+
+  const AUTO_PLAY_EN_DELAY_MS = 4000;
+  const AUTO_PLAY_KO_DELAY_MS = 2000;
+
+  function updateAutoPlayBtn(playing) {
+    const btn = document.getElementById('auto-play-btn');
+    if (!btn) return;
+    btn.classList.toggle('playing', playing);
+    btn.querySelector('.auto-play-icon').textContent = playing ? '⏸' : '▶';
+    btn.querySelector('.auto-play-text').textContent = playing ? '정지' : '자동재생';
+  }
+
+  function stopAutoPlay() {
+    autoPlaying = false;
+    if (autoPlayTimer) {
+      clearTimeout(autoPlayTimer);
+      autoPlayTimer = null;
+    }
+    ttsControl.stop();
+    if (currentPlayingItem) {
+      currentPlayingItem.classList.remove('playing');
+      currentPlayingItem = null;
+    }
+    updateAutoPlayBtn(false);
+  }
+
+  function playAutoStep() {
+    if (!autoPlaying) return;
+
+    // 이전 문장 하이라이트 해제
+    if (currentPlayingItem) currentPlayingItem.classList.remove('playing');
+
+    if (autoPlayIdx >= autoPlayItems.length) {
+      stopAutoPlay();
+      return;
+    }
+
+    const item = autoPlayItems[autoPlayIdx];
+    currentPlayingItem = item;
+    item.classList.add('playing');
+    item.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+    // HTML 태그를 걷어낸 순수 텍스트 기준으로 영어가 있는지 판단
+    const enText = item.dataset.en || '';
+    const hasEn  = enText.replace(/<[^>]+>/g, '').trim().length > 0;
+
+    if (hasEn) {
+      ttsControl.speak(enText);
+      autoPlayTimer = setTimeout(() => {
+        autoPlayIdx++;
+        playAutoStep();
+      }, AUTO_PLAY_EN_DELAY_MS);
+    } else {
+      // 한글만 있는 문장은 읽지 않고 대기 후 바로 다음으로
+      autoPlayTimer = setTimeout(() => {
+        autoPlayIdx++;
+        playAutoStep();
+      }, AUTO_PLAY_KO_DELAY_MS);
+    }
+  }
+
+  function startAutoPlay() {
+    autoPlayItems = Array.from(document.querySelectorAll('.practice-item'));
+    if (autoPlayItems.length === 0) return;
+    autoPlaying  = true;
+    autoPlayIdx  = 0;
+    updateAutoPlayBtn(true);
+    playAutoStep();
+  }
+
+  const autoPlayBtn = document.getElementById('auto-play-btn');
+  if (autoPlayBtn) {
+    autoPlayBtn.addEventListener('click', () => {
+      if (autoPlaying) {
+        stopAutoPlay();
+      } else {
+        startAutoPlay();
+      }
+    });
+  }
+</script>
+{% endblock %}

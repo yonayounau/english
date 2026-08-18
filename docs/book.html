@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<!--
+  book.html - 책공부 UNIT 목차 화면 (정적 사이트 버전)
+-->
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0a0e1a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="빨모쌤 영어">
+
+  <title>책공부 - 빨모쌤 영어공부</title>
+
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+
+  <div class="app-container">
+
+    <header class="app-header">
+      <h2 class="header-title">📚 책공부하기</h2>
+    </header>
+
+    <main class="page-content">
+
+      <div class="book-hero">
+        <span class="book-hero-emoji">📖</span>
+        <h1>빨모쌤의 라이브 영어회화</h1>
+        <p>UNIT을 선택해서 학습을 시작하세요</p>
+      </div>
+
+      <p class="section-label" id="section-label" style="display:none;"></p>
+
+      <div class="unit-grid" id="unit-grid"></div>
+
+      <div class="empty-state" id="empty-state" style="display:none;">
+        <span class="empty-icon">📭</span>
+        <p>책공부 데이터가 없습니다.</p>
+      </div>
+
+    </main>
+
+    <nav class="bottom-nav" aria-label="메인 메뉴">
+      <a href="index.html" class="nav-item" id="nav-home">
+        <span class="nav-icon">📅</span>
+        <span>날짜선택</span>
+      </a>
+      <a href="book.html" class="nav-item" id="nav-book">
+        <span class="nav-icon">📚</span>
+        <span>책공부</span>
+      </a>
+    </nav>
+
+  </div>
+
+  <script src="static/js/tts-control.js"></script>
+  <script src="static/js/ko-en-toggle.js"></script>
+  <script src="static/js/sentence-player.js"></script>
+  <script src="static/js/main.js"></script>
+  <script src="static/js/static-helpers.js"></script>
+
+  <script>
+    function unitSortKey(unitId) {
+      const m = unitId.match(/(\d+)/);
+      return m ? parseInt(m[1], 10) : 9999;
+    }
+
+    async function init() {
+      const data = await fetchJsonSafe('data/book_units.json');
+      const grid = document.getElementById('unit-grid');
+      const label = document.getElementById('section-label');
+
+      if (!data || Object.keys(data).length === 0) {
+        document.getElementById('empty-state').style.display = '';
+        return;
+      }
+
+      const unitIds = Object.keys(data).sort((a, b) => unitSortKey(a) - unitSortKey(b));
+
+      label.style.display = '';
+      label.textContent = `📋 UNIT 목록 (${unitIds.length}개)`;
+
+      unitIds.forEach(unitId => {
+        const unit = data[unitId];
+        const a = document.createElement('a');
+        a.href = `book-unit.html?unit=${unitId}`;
+        a.className = 'unit-card';
+        a.id = `unit-card-${unitId}`;
+        a.innerHTML = `
+          <div class="unit-num">UNIT ${unitId.replace('UNIT', '')}</div>
+          <div class="unit-title">${escapeAttr(unit.title)}</div>
+          <div class="unit-count">${unit.sentences.length}문장</div>
+        `;
+        grid.appendChild(a);
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initBackButton();
+      updateNavActive();
+      document.documentElement.style.scrollBehavior = 'smooth';
+      init();
+    });
+  </script>
+</body>
+</html>

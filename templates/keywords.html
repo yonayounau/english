@@ -1,0 +1,134 @@
+{% extends "base.html" %}
+{#
+  keywords.html - 학습 키워드 화면
+  선택한 날짜의 키워드 문장을 SentencePlayer로 순차 학습한다.
+  - 문장 카드 탭 → 다음 문장 + TTS 재생
+  - ◀ ▶ 버튼으로 이전/다음 이동
+  - 한국어 on/off 토글
+  - 속도 조절 (0.5x ~ 2.0x)
+  - 목차 버튼으로 전체 문장 리스트 확인 및 바로 이동
+#}
+
+{% block title %}학습 키워드 {{ date }} - 빨모쌤 영어공부{% endblock %}
+
+{% set parts = date.split('-') %}
+{% set date_display = parts[0][2:] + '/' + parts[1] + '/' + parts[2] %}
+
+{% block header_title %}📖 학습 키워드{% endblock %}
+{% block header_badge %}
+  <span class="header-date-badge">{{ date_display }}</span>
+{% endblock %}
+
+{# 뒤로가기 버튼 표시 #}
+{% set show_back = true %}
+
+{% block content %}
+
+  <!-- 문장 플레이어 화면 -->
+  <div class="player-screen">
+
+    <!-- ── 진행 상황 표시 바 ── -->
+    <div class="progress-area">
+      <div class="progress-info">
+        <span class="progress-count" id="progress-count">1 / {{ sentences|length }}</span>
+        <span class="progress-percent" id="progress-percent">0%</span>
+      </div>
+      <div class="progress-bar-track">
+        <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
+      </div>
+    </div>
+
+    <!-- ── 문장 카드 (탭하면 다음 문장으로 이동) ── -->
+    <div class="sentence-card" id="sentence-card" role="button" tabindex="0"
+         aria-label="카드를 탭하면 다음 문장으로 이동합니다">
+
+      {# 첫 번째 문장으로 초기화 (JS가 이후 제어) #}
+      <p class="sentence-en" id="sentence-en">
+        {{ sentences[0].en|safe if sentences else '문장이 없습니다.' }}
+      </p>
+      <p class="sentence-ko" id="sentence-ko">
+        {{ sentences[0].ko if sentences else '' }}
+      </p>
+      <span class="tap-hint">탭하면 다음 문장 →</span>
+    </div>
+
+    <!-- ── 컨트롤 영역 ── -->
+    <div class="player-controls">
+
+      <!-- 1행: 이전 | TTS재생 | 다음 버튼 -->
+      <div class="controls-row">
+        <button class="ctrl-btn" id="prev-btn" aria-label="이전 문장" title="이전 문장">◀</button>
+        <button class="tts-play-btn" id="tts-play-btn" aria-label="TTS 재생">▶</button>
+        <button class="ctrl-btn" id="next-btn" aria-label="다음 문장" title="다음 문장">▶</button>
+      </div>
+
+      <!-- 2행: 속도 조절 + 한국어 토글 + 목차 -->
+      <div class="controls-row">
+        <!-- 속도 조절 -->
+        <div class="speed-control">
+          <button class="speed-btn" id="speed-down" aria-label="속도 낮추기">−</button>
+          <span class="speed-label">속도</span>
+          <span class="speed-value" id="speed-value">1.00x</span>
+          <button class="speed-btn" id="speed-up" aria-label="속도 올리기">＋</button>
+        </div>
+
+        <!-- 한국어 on/off 토글 -->
+        <button class="ko-toggle-btn active" id="ko-toggle-btn" aria-label="한국어 표시 토글">
+          🇰🇷 <span class="toggle-text">한국어 ON</span>
+        </button>
+
+        <!-- 목차 버튼 -->
+        <button class="toc-btn" id="toc-btn" aria-label="목차 보기">
+          ☰ <span>목차</span>
+        </button>
+      </div>
+
+    </div><!-- /.player-controls -->
+
+  </div><!-- /.player-screen -->
+
+  <!-- ── 목차 모달 (전체 문장 리스트) ── -->
+  <div class="modal-overlay" id="toc-modal" role="dialog" aria-modal="true" aria-label="문장 목차">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">📋 전체 문장 목차</h3>
+        <button class="modal-close-btn" id="toc-close-btn" aria-label="목차 닫기">✕</button>
+      </div>
+      <!-- 목차 리스트 (JS가 동적으로 채움) -->
+      <div class="toc-list" id="toc-list"></div>
+    </div>
+  </div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  // ============================================================
+  // 학습 키워드 화면 초기화
+  // ============================================================
+
+  // 서버에서 Jinja2로 렌더링한 문장 데이터를 JS 배열로 변환
+  // |tojson 필터: Python dict → JSON 문자열 (XSS 안전 처리 포함)
+  const SENTENCES = {{ sentences | tojson }};
+
+  // DOM 로드 후 컴포넌트 초기화
+  document.addEventListener('DOMContentLoaded', () => {
+
+    // 문장이 없으면 초기화 중단
+    if (!SENTENCES || SENTENCES.length === 0) {
+      document.getElementById('sentence-card').innerHTML =
+        '<p style="color:#94a3b8;">학습 키워드가 없습니다.</p>';
+      return;
+    }
+
+    // ── SentencePlayer 초기화 ──
+    const player = new SentencePlayer(SENTENCES, ttsControl);
+
+    // ── 속도 조절 UI 초기화 ──
+    initSpeedControl(ttsControl);
+
+    // ── 한국어 토글 초기화 ──
+    const koToggle = new KoEnToggle('#ko-toggle-btn', '#sentence-ko');
+  });
+</script>
+{% endblock %}

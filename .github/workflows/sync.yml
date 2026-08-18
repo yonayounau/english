@@ -1,0 +1,47 @@
+name: Notion 동기화 + 정적 사이트 빌드
+
+on:
+  schedule:
+    # 21:00 UTC = 06:00 KST (매일)
+    - cron: '0 21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: Notion 동기화 (증분)
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DB_ID_YOUTUBE: ${{ secrets.NOTION_DB_ID_YOUTUBE }}
+          NOTION_DB_ID_BOOK: ${{ secrets.NOTION_DB_ID_BOOK }}
+        run: python sync_notion.py all
+
+      - name: 정적 사이트 데이터 빌드
+        run: python build_static.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "sync-bot"
+          git config user.email "actions@github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "변경사항 없음, 커밋 생략"
+          else
+            git commit -m "chore: daily Notion sync ($(date -u +%Y-%m-%d))"
+            git push
+          fi

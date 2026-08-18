@@ -1,0 +1,3762 @@
+{
+  "UNIT1": {
+    "title": "UNIT 1. ‘일단은’이라고 말할 때는 for now : Let’s use this for now.(일단은 이거 쓰자)",
+    "sentences": [
+      {
+        "en": "for now.",
+        "ko": "일단은, 지금은",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "Let’s just use this <span style=\"color:#B84C75\"><strong>for now</strong></span>",
+        "ko": "일단은 그냥 이거 쓰자",
+        "bold_words": [
+          "for now"
+        ],
+        "id": 2
+      },
+      {
+        "en": "This is it <span style=\"color:#B84C75\"><strong>for now</strong></span>",
+        "ko": "일단은 이게 다에요",
+        "bold_words": [
+          "for now"
+        ],
+        "id": 3
+      },
+      {
+        "en": "This will be enough <span style=\"color:#B84C75\"><strong>for now</strong></span>",
+        "ko": "일단 이거면 돼(충분해)",
+        "bold_words": [
+          "for now"
+        ],
+        "id": 4
+      },
+      {
+        "en": "A: What do we call her?",
+        "ko": "뭘라고 부르지?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "B: How about Friday?",
+        "ko": "프라이데이 어때?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "A: Friday? Are you serious?",
+        "ko": "프레이데이? 진짜로?",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "B: What? that’s a legit girl’s name",
+        "ko": "왜? 그거 진짜 있는 여자이름이야",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "A: Fine. We’ll call her Friday <span style=\"color:#B84C75\"><strong>for now</strong></span>,",
+        "ko": "",
+        "bold_words": [
+          "for now"
+        ],
+        "id": 9
+      },
+      {
+        "en": "but let’s see what else we can come up with",
+        "ko": "",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "I want to give her a pretty name",
+        "ko": "알았어, 일단은 프라이데이라고 부르고,",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "다른 것도 생각해보자.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "This isn’t a long term solution, but <span style=\"color:#B84C75\"><strong>for now,</strong></span> it’s the best we’ve got",
+        "ko": "예쁜이름 지어주고 싶단 말이야.",
+        "bold_words": [
+          "for now,"
+        ],
+        "id": 13
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>For now</strong></span>, Let’s just keep this between us until we have more certainty",
+        "ko": "장기적인 해결책은 아니지만, 지금으로서는 이게 최선이야",
+        "bold_words": [
+          "For now"
+        ],
+        "id": 14
+      },
+      {
+        "en": "Something came up at work and it looks like I’m going to have to put my travel plans on hold<span style=\"color:#B84C75\"><strong> for now</strong></span>",
+        "ko": "더 확실해 질때까지 일단은 우리만 알고 있자",
+        "bold_words": [
+          "for now"
+        ],
+        "id": 15
+      },
+      {
+        "en": "I know you want to help, but you’re still new and it’ll be a while before you can start doing any real work.",
+        "ko": "회사에 일이 생겨서 일단은 여행계획을 보류해야 되겠어.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "So <span style=\"color:#B84C75\"><strong>for now,</strong></span> just focus on learning as much as you can",
+        "ko": "돕고 싶은 건 알지만 시작한 지 얼마 안됐으니까 제대로 된 일을 하기 시작하려면 시간이 좀 걸릴거야,",
+        "bold_words": [
+          "for now,"
+        ],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "그러니까 일단은 최대한 많이 배우는 데 집중하도록 해",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "I think we’ve done enough <span style=\"color:#B84C75\"><strong>for today</strong></span>, Let’s continue tomorrow",
+        "ko": "⇒ 한국어로 ‘오늘은’ ’오늘 밤에는‘ 이번 주에는’ ‘당분간은’이라고 하듯이, 영어도 마찬가지",
+        "bold_words": [
+          "for today"
+        ],
+        "id": 19
+      },
+      {
+        "en": "It looks like they’ve closed <span style=\"color:#B84C75\"><strong>for the day</strong></span>.",
+        "ko": "오늘은 충분히 한 것 같아. 내일 이어서하자.",
+        "bold_words": [
+          "for the day"
+        ],
+        "id": 20
+      },
+      {
+        "en": "Let’s come back tomorrow.",
+        "ko": "오늘은 영업이 끝난 모양이네. 내일 다시오자",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "Thanks, but I’m good.",
+        "ko": "",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "I think I’ve had enough to drink<span style=\"color:#B84C75\"><strong> for tonight</strong></span>.",
+        "ko": "고맙지만, 난 됐어.",
+        "bold_words": [
+          "for tonight"
+        ],
+        "id": 23
+      },
+      {
+        "en": "It says here, they’re fully booked <span style=\"color:#B84C75\"><strong>for the week</strong></span>",
+        "ko": "오늘밤은 충분히 마신것 같아.",
+        "bold_words": [
+          "for the week"
+        ],
+        "id": 24
+      },
+      {
+        "en": "The earliest is next month",
+        "ko": "이번 주는 예약이 다찼다고 나오네.",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "There’s been a slight delay,",
+        "ko": "가장 빠른 게 다음달이야",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "so it looks like we’re going to have make do with what we have <span style=\"color:#B84C75\"><strong>for the time being.</strong></span>",
+        "ko": "약간의 지연이 있었어요.",
+        "bold_words": [
+          "for the time being."
+        ],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "그래서 당분간은 있는 것으로 버텨야 할 것 같아요.",
+        "bold_words": [],
+        "id": 28
+      }
+    ]
+  },
+  "UNIT2": {
+    "title": "UNIT 2. 100%가 아니라면 For the most part : I enjoyed it for the most part.(난 대체로 재미있었어)",
+    "sentences": [
+      {
+        "en": "for the most part",
+        "ko": "전반적으로 대체로",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "I enjoyed the movie for the most part 난 그 영화 대체적으로 재미있게 봤어",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "The date went OK for the most part 소개팅은 전반적으로 괜찮았어",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "I prefer cats over dogs for the most part 저는 대체로 개보다는 고양이를 더 좋아해요",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "A: This movie looks fun 이 영화 재미있겠다.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "B: Oh, that? I saw it right when it came out 아. 그거? 난 나오자마자 봤는데",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "A: You did? How was it?봤다고? 어떘어?",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "B: It was OK for the most part. It’s not that different from the one that came out a few years ago. 전반적으로 괜찮았어. 몇 년 전에 나온 것과 크게 다르진 않았어.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "A: I didn’t realize there was a prequel 전편이 있는 줄 몰랐네",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "B: Oh. this one isn’t really a sequel. It’s more like a reboot. 아, 이건 후속편이라기보다는 리부트에 더 가깝겠다.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "For the most part, I think that it was a smart decision. 전반적으로는 잘 결정한 것 같아.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "For the most part, I’d say she’s been adapting pretty well 그녀가 대체로 잘 적응하고 있다고 봐요.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "For the most part, learning a foreign language is similar to adapting to a foreign culture. 외국어를 배우는 것은 외국 문화에 적응하는 것과 대체적으로 비슷해요.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "for the most part vs mostly",
+        "ko": "We were met with a few critical moments, but I feel like we handled each one pretty well for the most part 위기의 순간들을 몇 번 직면했지만,우리는 매번 나름 잘 대처했다고 생각해요.",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "→ 비슷한 점이 많지만 맥락상 구분해야 될 때도 많다.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "A: Wow, you have a lot of emails to catch up on 와, 읽어야 할 메일이 엄청 많네",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "B: Not really. They’re mostly just spam mail. 아냐. 거의 스팸메일이야",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "for the most part는 하나의 대상이 대체적으로 어떻다고 얘기할 떄 어울리고,‘ 여러개’의 읽지 않은 메일에 대해 얘기하고 있기 떄문에 mostly로 말하는 게 자연스럽다.",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "",
+        "ko": "Yes or no로 답이 가능한 상황에서는 for the most part를 사용하면 대화가 성의 있어보인다.",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "A: Did you have a nice trip? 여행 잘 다녀왔어?",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "B: For the most part, yes. 응 전반적으로 괜찮았어요",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "A: Is this what you had in mind? 이런거 생각한 거야?",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "B: Not entirely, but for the most part. yes 완전히는 아닌데, 대체적으로는 맞아.",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "B: I’d say we are <span style=\"color:#B84C75\"><strong>for the most part</strong></span>.  We do argue a lot but all brothers and sisters do that, right?",
+        "ko": "A ; Are you close with your sister? 누나랑은 사이 좋아요?",
+        "bold_words": [
+          "for the most part"
+        ],
+        "id": 24
+      },
+      {
+        "en": "",
+        "ko": "대체적으로는 그런 것 같아요. 자주 다투기는 하지만 남매들이 원래 다 그렇지 않나요.",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "B: Well, <span style=\"color:#B84C75\"><strong>for the most part</strong></span>, it was a complete disaster.",
+        "ko": "A: How did the interview go? 면접은 어땠어?",
+        "bold_words": [
+          "for the most part"
+        ],
+        "id": 26
+      },
+      {
+        "en": "But I actually learned a few things about the company that gave me second thoughts us working there.",
+        "ko": "뭐, 완전 망한거나 다름없어, 그렇지만, 그 회사에 대해 몇가지 새로 알게된 사실이 있는데, 거기서 일하는 것에 대해 다시 생각해보게 되더라",
+        "bold_words": [],
+        "id": 27
+      }
+    ]
+  },
+  "UNIT3": {
+    "title": "UNIT 3. ‘~치고는’이라는 뜻을 가진 전치사 For: You’re good for a beginner.(초보자치고는 잘하네)",
+    "sentences": [
+      {
+        "en": "<strong>for</strong>",
+        "ko": "~을 위헤 + ~치고는",
+        "bold_words": [
+          "for"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "You’re pretty good for a beginner 초보자 치고는 꽤 잘하네",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "She looks really good for her age 그녀는 나이에 비해 진짜 젊어보여",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "For a weekday, it was pretty crowded 평일치고는 사람이 꽤 많았어",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "A: Where did you find her? 어디서 찾은 거예요?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "B: In the parking lot, she was hiding under a car. so How does she look? 주차장에서요. 차 밑에 숨어있었어요. 상태는 좀 어떤가요?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "A: Well, for a stray, she looks to be in fairly good condition. I’d put her somewhere around 4 months old 음. 유기견치고는 상태가 꽤 좋은 것 같아요.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "4개월정도된것으로 추정되네요.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "B: Really? She’s kind of small for a 4 month old.right? 그래요? 4개월치고는 좀 작은 것 같은데, 그렇죠?",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "A: I guess you could say that. Do you own any other dogs? 그렇다고 할 수 있쬬. 다른개도 키우세요?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "B: No I don’t 아니요",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "A: Really? For someone who doesn’t own a dog, you seem to be quite comfortable handling her. 정말요? 개를 안키우는 분치고는 꽤 잘다루시는 것 같은데",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "B: I have a lot of friends who do. 키우는 친구들이 많아요",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "A: That’s good. 잘됐네요",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "It’s not bad<span style=\"color:#B84C75\"><strong> for a ten-thousand won pizza</strong></span>",
+        "ko": "만원짜리 피자치고는 꽤 맛있네",
+        "bold_words": [
+          "for a ten-thousand won pizza"
+        ],
+        "id": 15
+      },
+      {
+        "en": "It’s offers a lot of privacy <span style=\"color:#B84C75\"><strong>for an apartment</strong></span>",
+        "ko": "아파트치고는 사생활보호가 좋은편이에요",
+        "bold_words": [
+          "for an apartment"
+        ],
+        "id": 16
+      },
+      {
+        "en": "It’s in really good condition <span style=\"color:#B84C75\"><strong>for such an old hotel</strong></span>. They must spend a lot on maintenance",
+        "ko": "It’s kind of expensive for a compact car. I think we should keep looking경차 치고는 좀 비싼대. 계속 찾아보는게 좋을 것 같아",
+        "bold_words": [
+          "for such an old hotel"
+        ],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "와 이렇게 오래된 호텔치고는 상태가 꽤 괜찮네,유지보수에 돈을 꽤 많이 투자하는 모양이야",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "Are you sure you want to work there? It’s kind of far <span style=\"color:#B84C75\"><strong>for a part-time job</strong></span>",
+        "ko": "너 정말 거기서 일하고 싶은거야? 아르바이트치고는 좀 먼데",
+        "bold_words": [
+          "for a part-time job"
+        ],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "for +<누구/ 무엇> 에서 “누구/무엇”에 해당하는 내용을 관계절로 확장시킬수 있다.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "For a computer that’s well over 10 years old, it’s still quite usable 10년도 훨씬 더 된 컴퓨터치고는 아직도 꽤 쓸만해",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>For a dog that</strong></span>’s been neglected for so long, it’s in surprisingly good health and spirits",
+        "ko": "그렇게 오래 방치된 개 치고는 정서 상태가 의외로 좋네",
+        "bold_words": [
+          "For a dog that"
+        ],
+        "id": 22
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>For someone who</strong></span> has never had any formal training,",
+        "ko": "",
+        "bold_words": [
+          "For someone who"
+        ],
+        "id": 23
+      },
+      {
+        "en": "I’d say she did an excellent job",
+        "ko": "제대로 된 교육(훈련)을 받은 적이 없는 사람치고는 정말 잘했다고 생각해요",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>For a TV show that</strong></span> is only in its first season,",
+        "ko": "",
+        "bold_words": [
+          "For a TV show that"
+        ],
+        "id": 25
+      },
+      {
+        "en": "it has already been gaining a lot of attention",
+        "ko": "아직 첫번째 시즌인 드라마치고는 벌써 꽤 많은 관심을 끌고 있어",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>For someone who</strong></span> has just lost his job, you’re in a surprisingly good mood.",
+        "ko": "너, 방금 실직한 사람치고는 의외로 기분이 좋네.",
+        "bold_words": [
+          "For someone who"
+        ],
+        "id": 27
+      }
+    ]
+  },
+  "UNIT4": {
+    "title": "UNIT 4. ‘~인 것도 아니잖아’라고 말할 때 쓰는 It’s not like ~: It’s not like I do that every day.(내가 매일 그러는 건 아니잖아)",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "It’ not like: ~인 것은 아니잖아",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "Come on. It’s not like I do that everyday 아, 좀. 내가 매일 그러는 것도 아닌데",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "What’s the big deal? It’s not like I cursed or anything. 그게 무슨 대수야? 내가 무슨 욕을 한것도 아니고",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "A: The other day, Frank told me about this business idea he had and I just told him what I thought and now he’s upset with m<span style=\"color:#B84C75\"><strong>e. It’s not like I said</strong></span> his idea was dumb",
+        "ko": "I’m so worried. It’s not like I have friends there 참 걱정이야. 거기에 친구가 있는 것이아니라서.",
+        "bold_words": [
+          "e. It’s not like I said"
+        ],
+        "id": 4
+      },
+      {
+        "en": "B: What did you say exactly?",
+        "ko": "며칠전에 프랭크가 자기가 구상한 사업 아이디어에대해 나한테 얘끼해줬거든. 난 그냥 솔직한 내 의견을 말해줬을 뿐인데, 지금나한테 화가났어. 내가 걔 아이디어에 대해 바보같다고 한것도 아니고",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "A: I said that it didn’t seem like it was enough to appeal to modern consumers.",
+        "ko": "네가 뭐라고 했는데?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not like</strong></span> I have to agree with him everything, right?",
+        "ko": "현대 소비자들에게 어필하기에는 부족해보인다고 했어.",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "내기 항상 걔생각에 동의해야하는 것도 아니잖아. 안그래?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "Don’t worry. <span style=\"color:#B84C75\"><strong>It’s not like </strong></span>we don’t have other options.",
+        "ko": "걱정하지마. 우리에게 다른 선택지가 없는것도 아니잖아.",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 9
+      },
+      {
+        "en": "I think it’s too fast<span style=\"color:#B84C75\"><strong>. It’s not like</strong></span> we know each other that well",
+        "ko": "이거 너무 빠른 것 같아. 우리가 서로를 그렇게 잘아는 사이도 아니잖아",
+        "bold_words": [
+          ". It’s not like"
+        ],
+        "id": 10
+      },
+      {
+        "en": "Don’t worry about it<span style=\"color:#B84C75\"><strong>. It’s not like</strong></span> you broke the law.",
+        "ko": "",
+        "bold_words": [
+          ". It’s not like"
+        ],
+        "id": 11
+      },
+      {
+        "en": "Plus, they know you. I’m sure they’ll understand",
+        "ko": "신경 쓰지 마. 법을 어긴 것도 아닌데 뭘.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "Don’t be so hard on him.<span style=\"color:#B84C75\"><strong> It’s not like </strong></span>it was on purpose.",
+        "ko": "게다가 그들이 널 알잖아. 분명 이해해줄거야",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 13
+      },
+      {
+        "en": "And he already apologized to you twice, didn’t he?",
+        "ko": "걔 좀 봐줘. 고의도 아니었는데, 게다가 벌써 두번이나 너한테 사과하잖아.",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "This is a great opportunity for you",
+        "ko": "",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "You shouldn’t be worried about Allan.",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not like</strong></span> the two of you are married.",
+        "ko": "이건 너한테 너무 좋은 기회야.",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "앨런 걱정을 하고 있을 때가아니라고",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "This isn’t that bad.",
+        "ko": "둘이 결혼한 사이도 아니잖아.",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "It used to be a lot worse.",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "Don’t worry. You’ll get used to it.",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "Besides,<span style=\"color:#B84C75\"><strong> It’s not like </strong></span>we have any other choice.",
+        "ko": "이정도면 그렇게 나쁘지 않아",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "예전에는 훨씬더 불편했어",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "",
+        "ko": "걱정마 금방익숙해질거야",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "We should probably just get someone to do it.",
+        "ko": "게다가 우리에게 다른방법이 있는 것도 아니잖아",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "You know. Hire someone.",
+        "ko": "",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not like </strong></span>any of us done this before or know how to do it.",
+        "ko": "아무래도 누구한테 그 일을 맡기는 게 좋겠어.",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "사람을 고용하는 거야",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "Why are you so nervous?<span style=\"color:#B84C75\"><strong> It’s not like</strong></span> they’re interviewing you.",
+        "ko": "우리 중에 이걸 해봤거나 어떻게 하는지 아는 사람이 없잖아",
+        "bold_words": [
+          "It’s not like"
+        ],
+        "id": 29
+      },
+      {
+        "en": "Besides. You’ve met them before.",
+        "ko": "",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "Just be yourself and you’ll be fine",
+        "ko": "왜 그렇게 긴장했어? 면접보는 것도 아닌데",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "",
+        "ko": "게다가 전에도 만나봤잖아.",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "",
+        "ko": "그냥 평소 너답게 행동하면 괜찮을거야",
+        "bold_words": [],
+        "id": 33
+      }
+    ]
+  },
+  "UNIT5": {
+    "title": "UNIT 5. otherwise의 다양한 의미와 활용 :Otherwise, it’s in really good condition.(그것만 빼면, 상태는 정말좋아)",
+    "sentences": [
+      {
+        "en": "<strong>otherwise</strong>",
+        "ko": "if~not ‘그렇지 않으면’ +’ 그것과 반대로, 다르게’ ‘그것을 제외하면’",
+        "bold_words": [
+          "otherwise"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "It could use a new finish. Otherwise, it’s in really good condition. 새로 칠만 해주면 좋겠네요. 그것 말고는 훌륭한 상태예요.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "We should probably let everyone know we’re brothers and sisters before they start thinking otherwise.아무래도 사람들이 오해하기 전에 우리가 남매라는 것을 알려주는 게 좋겠어.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "A: WE should get going. Otherwise we’ll miss the beginning. You know I can’t drive fast like you. 출발해야겠다. 안 그러면 앞 부분 놓치겠어. 난 당신처럼 운전을 빨리 못하잖아",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "B: Right Why did I have to hurt my ankle? Otherwise, I woulnd’t have yo drive in the rain. 맞네. 으, 하필이면 왜 발목을 다쳤지? 안그랬으면, 비오는데 당신한테 운전을 시키지 않았을텐데",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: Don’t worry. I am slow but otherwise, pretty comfortable behind the wheel . 걱정마. 느리긴 하지만 그것만 빼면 꽤 잘하는 편이라고",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "B ;I know. And can I be real honest with you? I’m actually psyched I got injured. What would’ve otherwise been a normal week at work is now a vacation week with you 알아. 그리고 진짜 솔직히 말해도돼? 사실 부상당해서 너무 좋아. 안그랬으면 직장에서 평범하게 보냈을 한 주였을텐데, 이제는 당신이랑 일주일 휴가잖아",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "Remember to save the work frequently, otherwise you can lose hours of precious work",
+        "ko": "그렇지 않으면",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "We had to leave early. Otherwise, we wouldn’t have made it on time.",
+        "ko": "잊지말고 작업을 최대한 자주 저장해. 안 그러면 몇 시간 동안 열심히 한 일을 날릴 수도 있어",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "일찍 출발해야했어. 안그랬으면 제시간에 도착 못했을 거야",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "(가정법으로 사용)",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "The missing child was found several days later slightly malnourished,",
+        "ko": "(앞에서 언급한) 그것을 제외하면",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "but otherwise, unhurt and in fairly good health",
+        "ko": "실종된 아이는 며칠 뒤에 발견됐는데, 가벼운 영양실조 증상외에는 부상도 없이 꽤 건강한 상태였어요",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "Investigators have concluded that it was just a very unfortunate accident,",
+        "ko": "(앞에서 언급한) 그것과 다르게/반대로",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "but there is still a large number of people who believe otherwise.",
+        "ko": "조사관들은 그냥 아주 안타까운 사고였던 것으로 결론을 냈지만,",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "아직 많은 사람들이 다르게 믿고 있어요.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "What would have otherwise been (그것만 아니었다만) ~했을 수도 있었떤",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "(otherwise",
+        "ko": "‘그것을 제외하면‘)",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "The weather was completly  ruined what would have otherwise been a perfect evening.",
+        "ko": "완벽 할  수도 있었던 저녁을 날씨가 완전히 망쳤어",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "매우 성공적이었을수도 있엇던 그의커리어는 그 스캔들로 물거품이 됐어요",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "suggest otherwise",
+        "ko": "그렇지 않다는 걸 나타낸다.(otherwise : 그것과 다르게/ 반대로)",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "She claims she had no knowledge of that, but all of her actions suggest otherwise",
+        "ko": "그녀는 그것에 대해 전혀 아는 게 없었다고 주장하지만,",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "Generally speaking, higher education leads to better quality of life,",
+        "ko": "그녀의 모든 행동은 그 반대를 가르키고 있어요",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "but there are plenty of real life cases that suggest otherwise",
+        "ko": "일반적으로 더 높은 수준의 교육이 더 나은 삶으로 이어진다고 말하지만,",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "",
+        "ko": "꼭 그런 건 아니라고 말해주는 실제 사례들도 많이 있어요.",
+        "bold_words": [],
+        "id": 25
+      }
+    ]
+  },
+  "UNIT6": {
+    "title": "UNIT 6. go over의 다양한 의미와 활용 :Does anybody want me to go over the rules again? (규칙을 다시 알려줬으면 하는 분이 있나요?)",
+    "sentences": [
+      {
+        "en": "<strong>go over</strong>",
+        "ko": "검토하다, 그냥 한번보다, 확인하다, 다루다, 설명해주다, 숙지하다",
+        "bold_words": [
+          "go over"
+        ],
+        "id": 1
+      },
+      {
+        "en": "Does anybody want me to <span style=\"color:#B84C75\"><strong>go over</strong></span> rules once more before we start the game?",
+        "ko": "게임을 시작하기 전에 규칙을 한 번 더 알려드렸으면 하는 분 있나요?",
+        "bold_words": [
+          "go over"
+        ],
+        "id": 2
+      },
+      {
+        "en": "I <span style=\"color:#B84C75\"><strong>went over </strong></span>it in my head again and again",
+        "ko": "머릿속으로 그걸 여러번 반복해서 생각해봤어",
+        "bold_words": [
+          "went over"
+        ],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "A: Come on, Andrew, We’ve gone over this a dozen times. You can’t keep acting on your own like this 왜 이래 앤드루, 열번도 넘게 얘기한 거잖아 계속 이렇게 개인 행동을 하면 안돼",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "B: I know. but all that does is  slow everything down. You trust my judgment, right? When have I been wrong? 아는데 그러면 모든 게 느려지기만 한단 말이야. 내 판단 믿잖아. 그렇지? 내가 틀린적 있어?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: It’s not about that. We’ve all part of a team. If something like this comes up, you have to share it with the rest of us so we could go over it and come to a decision together. That’s the only way a system can work. 그게 문제가 아니잖아 우리는 모두 한 팀의 구성원이라고, 이런일이 생기면, 나머지 사람들과 공유해서 함꼐 확인하고 결정해야 돼. 그래야만 체계가 유지되는 거야",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "Can I <span style=\"color:#B84C75\"><strong>go over</strong></span> it one last time before I hand it over?",
+        "ko": "검토하다",
+        "bold_words": [
+          "go over"
+        ],
+        "id": 7
+      },
+      {
+        "en": "I just want to make sure everything is right",
+        "ko": "넘겨드리기 전에 마지막으로 한번 검토해도 될까요?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "틀린 것이 없는지 확인하게 하고 싶어서요.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I carefully <span style=\"color:#B84C75\"><strong>went over</strong></span> the documents a couple of times,",
+        "ko": "훑어보다 + 파악하다.",
+        "bold_words": [
+          "went over"
+        ],
+        "id": 10
+      },
+      {
+        "en": "but there’s always a chance that I missed something.",
+        "ko": "문서를 자세히 몇 번 훑어봤지만, 내가 뭔가를 놓쳤을 가능성은 언제나 있지",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "(go over는 처음부터 끝까지 죽 보면서 그 내용을 파악한다,",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "훑어보다의 의미는 go through는 오류를 찾아내기 위해 샅샅이 살펴본다의 느낌을 강조할때 사용)",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "확인하다",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "Before we get started, there are couple of things that we have to<span style=\"color:#B84C75\"><strong> go over</strong></span> first.",
+        "ko": "시작하기 전에 먼저 몇 가지 확인해야 할 것들이 있어요.",
+        "bold_words": [
+          "go over"
+        ],
+        "id": 15
+      },
+      {
+        "en": "We’d better <span style=\"color:#B84C75\"><strong>go over</strong></span> the story a few more times just in case.",
+        "ko": "숙지하다",
+        "bold_words": [
+          "go over"
+        ],
+        "id": 16
+      },
+      {
+        "en": "He’s like a human lie detector and he can smell a lie from a mile away",
+        "ko": "혹시 모르니까 우리 이야기를 몇 번 더 연습하는 게 좋겠어.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "걔는 인간 거짓말 탐지기 같아서 멀리서도 거짓말을 귀신같이 알아채거든",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "In her books, she <span style=\"color:#B84C75\"><strong>goes over </strong></span>a lot of very interesting details about the incidents",
+        "ko": "다루다",
+        "bold_words": [
+          "goes over"
+        ],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "그 책에서 그녀는 그 사건에 대한 매우 흥미로운 세부내용들을 많이 다룬다.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "Why are you bringing this up again? I thought we <span style=\"color:#B84C75\"><strong>went over </strong></span>this.",
+        "ko": "어떤 것에 대해 얘기를 해서 서로 같은 의견에 이르다",
+        "bold_words": [
+          "went over"
+        ],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "이 얘기는 왜 또 꺼내는데? 끝난 얘기 아니었어?",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "Don’t worry. You don’t have to remember everything.",
+        "ko": "어떤 절차 따위에 대해서 설명해주다",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "I’m just <span style=\"color:#B84C75\"><strong>going over</strong></span> it once now to give you a rough idea.",
+        "ko": "",
+        "bold_words": [
+          "going over"
+        ],
+        "id": 24
+      },
+      {
+        "en": "I’ll<span style=\"color:#B84C75\"><strong> go over</strong></span> it with you again later.",
+        "ko": "걱정마세요! 다 기억해야 하는 건 아니에요.",
+        "bold_words": [
+          "go over"
+        ],
+        "id": 25
+      },
+      {
+        "en": "",
+        "ko": "지금은 일단 대략적으로 알 수 있게 설명해 드리는 거예요.",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "",
+        "ko": "나중에 한번 설명해드릴거예요.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "She will need some hands on experience before we put her to any real work,",
+        "ko": "어떤 과정 등을 누구에게 가르칠 목적으로 보여주다.",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "but she’s fairly familiar with the workflow.",
+        "ko": "",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "I’ve <span style=\"color:#B84C75\"><strong>gone over</strong></span><span style=\"color:#B84C75\"> </span>it with her several times.",
+        "ko": "그녀에게 제대로 된 일을 맡기려면 실질적인 경험이 좀 필요하겠지만,",
+        "bold_words": [
+          "gone over"
+        ],
+        "id": 30
+      },
+      {
+        "en": "",
+        "ko": "워크플로우를 꽤 잘 파악하고 있는 상태야.",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "",
+        "ko": "내가 여러 번 보여줬거든",
+        "bold_words": [],
+        "id": 32
+      }
+    ]
+  },
+  "UNIT7": {
+    "title": "UNIT 7. make sure에 대한 오해와 진실 : I’ll make sure everyone knows. 모두한테 확실하게 전할게",
+    "sentences": [
+      {
+        "en": "<strong>make sure</strong>",
+        "ko": "‘확실히 파악하다’ (to V/ that 문장)",
+        "bold_words": [
+          "make sure"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "1) 상대방에게 꼭 그렇게 하라고 말하다",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "2) 나 자신이 꼭 그렇게 하겠다고 말하다",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "Please <span style=\"color:#B84C75\"><strong>make sure</strong></span> to double check before you submit it",
+        "ko": "제출하기 전에 다시 한번 검토하세요",
+        "bold_words": [
+          "make sure"
+        ],
+        "id": 4
+      },
+      {
+        "en": "Don’t worry. I‘ll <span style=\"color:#B84C75\"><strong>make sure</strong></span> that she gets the message",
+        "ko": "걱정하지마. 그녀에게 확실하게 메시지를 전할게",
+        "bold_words": [
+          "make sure"
+        ],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: Hey. Why is the package still here? I thought you would’ve taken it to the post office by now 야, 저 상자가 왜 아직도 여기 있어? 지금쯤이면 우체국에 가지고 갔을 줄 알았는데",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "B ; Don’t worry. It’s on my to-do list 걱정하지마. 할거야.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "A: You better make sure that it’s in the mail with in the next couple of days. The holidays are coming up  앞으로 며칠 안으로는 꼭 발송해야 된다. 이제 곧 명절이잖아.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "B: I’m going to mail it today. Don’t worry about it.오늘 중으로 발송할 거야. 걱정하지 말라고",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "<strong>make sure to + RV</strong>",
+        "ko": "A: And make sure to double check the address. We can’t afford another mistake like last time.그리고 주소 다시 한번 꼭 확인하고, 지난 번처럼 실수하면 감당 안된다.",
+        "bold_words": [
+          "make sure to + RV"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Make  sure to</strong></span> review it at least twice before you submit it",
+        "ko": "제출하기 전에 최소 두 번은 꼭 검토하도록 해",
+        "bold_words": [
+          "Make  sure to"
+        ],
+        "id": 11
+      },
+      {
+        "en": "Please. <span style=\"color:#B84C75\"><strong>make sure to </strong></span>wash your hands before you eat",
+        "ko": "먹기전에 반드시 손을 씻으세요.",
+        "bold_words": [
+          "make sure to"
+        ],
+        "id": 12
+      },
+      {
+        "en": "Did you <span style=\"color:#B84C75\"><strong>make sure to</strong></span> lock the doors?",
+        "ko": "문 단속은 확실하게 했지?",
+        "bold_words": [
+          "make sure to"
+        ],
+        "id": 13
+      },
+      {
+        "en": "Did you <span style=\"color:#B84C75\"><strong>make sure to</strong></span> turn off all the lights before you left?",
+        "ko": "나오기 전에 모든 불을 확실하게 다 끄고 나온 거 맞지?",
+        "bold_words": [
+          "make sure to"
+        ],
+        "id": 14
+      },
+      {
+        "en": "I <span style=\"color:#B84C75\"><strong>made sure</strong></span> that it was the right size",
+        "ko": "make sure (that) +문장형식",
+        "bold_words": [
+          "made sure"
+        ],
+        "id": 15
+      },
+      {
+        "en": "I always <span style=\"color:#B84C75\"><strong>make sure</strong></span> my phone is fully charged before I leave in the morning.",
+        "ko": "사이즈가 맞는 지 확인했어요.",
+        "bold_words": [
+          "make sure"
+        ],
+        "id": 16
+      },
+      {
+        "en": "How can I <span style=\"color:#B84C75\"><strong>make sure</strong></span> that my child is getting all the nutrients he needs and is not being overfed?",
+        "ko": "나는 아침에 나가기 전에 항상 핸드폰을 꼭 완전히 충전시켜",
+        "bold_words": [
+          "make sure"
+        ],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "어떻게 하면 내 아이가 필요한 영양소를 다 섭취하고 있고, 너무 많이 먹고 있지 않다는 것을 확실히 알 수 있죠?",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "You need to <span style=\"color:#B84C75\"><strong>make sure not to</strong></span> allow something like this to happen again.",
+        "ko": "절대 ~하지 않도록 하다 부정문의 형태는 make sure not to",
+        "bold_words": [
+          "make sure not to"
+        ],
+        "id": 19
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Make sure never to</strong></span> talk about it in front of your kids.",
+        "ko": "이런 일이 다시는 일어나지 않도록 해야 합니다",
+        "bold_words": [
+          "Make sure never to"
+        ],
+        "id": 20
+      },
+      {
+        "en": "It can cause a lot of confusion and anxiety.",
+        "ko": "아이들 앞에서는 절대로 그것에 대해서 얘기하지 않도록 하세요.",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "그들에게 많은 혼란과 불안감을 줄 수 있어요.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "(not 대신 never을 써서 더 강하고 단호하게 말할 수 있다.)",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "Don’t worry. It’ll be safe. I’ll <span style=\"color:#B84C75\"><strong>make sure of</strong></span> it.",
+        "ko": "무엇을 했다는 얘기를 한 뒤에 나오는 make sure of it : 확실해/ 틀림없다니까/ 보장할게",
+        "bold_words": [
+          "make sure of"
+        ],
+        "id": 24
+      },
+      {
+        "en": "I sent the email this morning. I <span style=\"color:#B84C75\"><strong>made sure of </strong></span>it. I’m pretty sure she’s seen it by now.",
+        "ko": "걱정하지마. 안전할거야. 내가 보장할게",
+        "bold_words": [
+          "made sure of"
+        ],
+        "id": 25
+      },
+      {
+        "en": "",
+        "ko": "오늘 아침에 이메일 보냈어. 확실해. 아마 지금쯤 봤을거야.",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "",
+        "ko": "A: 주소 맞게 넣은 거 확실해? Are you sure you put in the correct address?",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "B: 응 확실하게 했어. 확인하고 또 확인했어 Yeah. I made sure of it. I checked and double checked.",
+        "bold_words": [],
+        "id": 28
+      }
+    ]
+  },
+  "UNIT8": {
+    "title": "UNIT 8. 이럴 땐 follow 말고 keep up with : We can’t keep up with all the changes. (모든 변화를 다 따라갈 수 없어)",
+    "sentences": [
+      {
+        "en": "<strong>follow</strong>",
+        "ko": "“누군가를 따라가다 follow someone” “하라는 대로 따르다 follow the rules”",
+        "bold_words": [
+          "follow"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "keep up with비슷한 수준에 있는 사람에게 뒤처지지 않고 따라가는 것, 또는 지금 진행되는 일들을 놓치지 않고 따라가는 것",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "We can’t <span style=\"color:#B84C75\"><strong>keep up with</strong></span> all the changes.",
+        "ko": "모든 변화를 다 따라갈 수는 없어",
+        "bold_words": [
+          "keep up with"
+        ],
+        "id": 3
+      },
+      {
+        "en": "I couldn’t <span style=\"color:#B84C75\"><strong>keep up with</strong></span> the rest of the class",
+        "ko": "다른 애들을 못 따라가겠더라",
+        "bold_words": [
+          "keep up with"
+        ],
+        "id": 4
+      },
+      {
+        "en": "They’re struggling to <span style=\"color:#B84C75\"><strong>keep up with</strong></span> their competitors.",
+        "ko": "그들은 경쟁사들에게 뒤처지지 않으려고 애쓰고 있어요.",
+        "bold_words": [
+          "keep up with"
+        ],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: So, what’s new in AI? 요즘 인공지능 관련해서 뭐 새로운 거 있니?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "B: I haven’t really been keeping up with the latest, but not a whole lot I think 나도 최근 소식까지는 파악하고 있지는 않은데 별로 없는 것 같아",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "A: Maybe that’s a good thing. I remember people saying that they need to slow down the developement",
+        "ko": "어쩌면 그게 좋을 일일 수도 있겠다. 개발 속도를 늦춰야 한다고 사람들이 그러던데..",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "I must be getting old. I can’t <span style=\"color:#B84C75\"><strong>keep up with</strong></span> all the slangs that people are using.",
+        "ko": "B: They’re still saying that, but I think people are just overreacting. It’s probably going to be like the Y2K scare back in the day. 지금도 그렇게 말하고 있는데 내 생각에는 그냥 오버하는 것 같아. 아마 예전 Y2K 사건처럼 될 것 같아.",
+        "bold_words": [
+          "keep up with"
+        ],
+        "id": 9
+      },
+      {
+        "en": "I am not proud of this either, but how else are we going to <span style=\"color:#B84C75\"><strong>keep up with</strong></span> our competitors?",
+        "ko": "내가 늙었나봐. 사람들이 쓰는 은어(슬랭)를 못 따라가겠어",
+        "bold_words": [
+          "keep up with"
+        ],
+        "id": 10
+      },
+      {
+        "en": "I had a little hard time  <span style=\"color:#B84C75\"><strong>keeping up with</strong></span> the conversation, but I really enjoyed it nonetheless",
+        "ko": "나도 이러는 게 자랑스럽진 않지만 경쟁자들을 상대로 뒤처지지 않으려면 달리 어떤 방법이 있겠어?",
+        "bold_words": [
+          "keeping up with"
+        ],
+        "id": 11
+      },
+      {
+        "en": "I’m so busy with work these days that I can’t even <span style=\"color:#B84C75\"><strong>keep up with</strong></span> my favorite TV show.",
+        "ko": "대화를 따라가기가 좀 힘들긴 했어도 너무 즐거웠어요.",
+        "bold_words": [
+          "keep up with"
+        ],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "요즘 일 때문에 너무 바빠서 좋아하는 TV 프로그램도 제때 못봐요.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "따라가는 대상을 얘기하지 않을 떄는 with 없이 그냥 keep up이라고 한다.",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "We’re almost there. Try to <span style=\"color:#487CA5\"><strong>keep up</strong></span>.",
+        "ko": "거의 다왔어. 뒤처지지 말고 잘 따라와",
+        "bold_words": [
+          "keep up"
+        ],
+        "id": 15
+      },
+      {
+        "en": "<span style=\"color:#487CA5\"><strong>Keep up</strong></span> the great work",
+        "ko": "잘하고 있어, 계속 그렇게 하는 거야",
+        "bold_words": [
+          "Keep up"
+        ],
+        "id": 16
+      },
+      {
+        "en": "<strong>catch up on</strong>",
+        "ko": "빠진 것을 채우거나 못한 것을 만회해서 따라잡다.",
+        "bold_words": [
+          "catch up on"
+        ],
+        "id": 17
+      },
+      {
+        "en": "We have a lot of work to <span style=\"color:#487CA5\"><strong>catch up on.</strong></span>",
+        "ko": "우리 일이 많이 밀렸어(따라잡아야 할 일이 많다.)",
+        "bold_words": [
+          "catch up on."
+        ],
+        "id": 18
+      },
+      {
+        "en": "the meetings are entirely recorded, so you can <span style=\"color:#487CA5\"><strong>catch up on</strong></span> anything you might’ve missed",
+        "ko": "일이 밀렸다. I have a lot to catch up on/ I have a lot of catching up to do.",
+        "bold_words": [
+          "catch up on"
+        ],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "회의내용은 전부 녹음되니까, 놓친 건 나중에 얼마든지 따라잡을 수 있어요.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "<strong>catch up with</strong>",
+        "ko": "앞서 가고 있는 ’누구‘를 따라잡다.",
+        "bold_words": [
+          "catch up with"
+        ],
+        "id": 21
+      },
+      {
+        "en": "Come on. Let’s get moving. We have to <span style=\"color:#487CA5\"><strong>catch up with </strong></span>the others",
+        "ko": "자, 어서가자. 다른 사람들을 따라잡아야 해.",
+        "bold_words": [
+          "catch up with"
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>fall behind</strong>",
+        "ko": "뒤처지다.",
+        "bold_words": [
+          "fall behind"
+        ],
+        "id": 23
+      },
+      {
+        "en": "Things are not looking good for them. They have <span style=\"color:#487CA5\"><strong>fallen</strong></span> far <span style=\"color:#487CA5\"><strong>behind</strong></span> their competitors",
+        "ko": "거기 상황이 좀 안 좋아 보여요. 경쟁사들한테 많이 뒤쳐져 있어요.",
+        "bold_words": [
+          "fallen",
+          "behind"
+        ],
+        "id": 24
+      },
+      {
+        "en": "Once you <span style=\"color:#487CA5\"><strong>fall behin</strong></span>d, it’s really hard to<span style=\"color:#487CA5\"> </span><span style=\"color:#487CA5\"><strong>catch up</strong></span>. So do whatever you can to <span style=\"color:#487CA5\"><strong>keep up</strong></span>",
+        "ko": "한번 뒤쳐지면 따라잡기 정말 힘드니까 어떻게든 따라가도록 해.",
+        "bold_words": [
+          "fall behin",
+          "catch up",
+          "keep up"
+        ],
+        "id": 25
+      }
+    ]
+  },
+  "UNIT9": {
+    "title": "UNIT 9. 이럴 땐 know 말고 keep track of : This app keeps track of your location. (이 앱은 너의 위치를 줘)",
+    "sentences": [
+      {
+        "en": "<strong>keep track of</strong>",
+        "ko": "지속적으로 바뀌는 것을 파악하고 그 상태를 유지하는 것",
+        "bold_words": [
+          "keep track of"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "(식사마다 먹는 음식을 기록하고, 몸무게 변화를 매일 확인하고, 연예인 활동을 꾸준히 추적하고 다는 행등…)",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "This app <span style=\"color:#B84C75\"><strong>keeps track of</strong></span> your location.",
+        "ko": "이 앱은 너의 위치를 추적해줘",
+        "bold_words": [
+          "keeps track of"
+        ],
+        "id": 3
+      },
+      {
+        "en": "You have to <span style=\"color:#B84C75\"><strong>keep track of </strong></span>your expenses everyday.",
+        "ko": "매일 너의 지출에 대해 파악하고 있어야 해.",
+        "bold_words": [
+          "keep track of"
+        ],
+        "id": 4
+      },
+      {
+        "en": "You can’t <span style=\"color:#B84C75\"><strong>keep track of </strong></span>everything just by memory.",
+        "ko": "모든 것을 기억만으로 다 파악할 수는 없어",
+        "bold_words": [
+          "keep track of"
+        ],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: Are you keeping track of everything you’re eating like I asked you? 제가 요청한 대로 뭘 먹고 있는지 파악하고 있는 거죠?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: Yes. I may have <span style=\"color:#487CA5\"><strong>lost track of </strong></span>one or two meals.  but I have been ding my best. here. I have it all on my phone",
+        "ko": "네.. 어쩌면 한두 끼니는 놓쳤을 수도 있는데 최선을 다하고 있어요. 여기요. 제 핸드폰에 다 있어요.",
+        "bold_words": [
+          "lost track of"
+        ],
+        "id": 7
+      },
+      {
+        "en": "A: This will be valuable date later on. Make sure you <span style=\"color:#B84C75\"><strong>keep track of</strong></span> every single thing you eat and drink",
+        "ko": "이게 나중에 중요한 데이터가 될 거예요. 섭취하는 모든 음식과 음료를 일일이 파악하고 있어야 해요.",
+        "bold_words": [
+          "keep track of"
+        ],
+        "id": 8
+      },
+      {
+        "en": "This app does a really good job of <span style=\"color:#B84C75\"><strong>keeping track of</strong></span> all your passwords safely.",
+        "ko": "이 앱은 모든 암호를 안전하게 저장해주는 기능이 정말 뛰어나다.",
+        "bold_words": [
+          "keeping track of"
+        ],
+        "id": 9
+      },
+      {
+        "en": "It<span style=\"color:#B84C75\"><strong> keeps track of </strong></span>your viewing pattern and gives you recommendations based on that",
+        "ko": "너의 시청패턴을 파악하고 그걸 토대로 추천해줘",
+        "bold_words": [
+          "keeps track of"
+        ],
+        "id": 10
+      },
+      {
+        "en": "If you’re not organized. It’s going to get really difficult to<span style=\"color:#B84C75\"><strong> keep track of</strong></span> everything",
+        "ko": "정리를 잘 안하면, 뭐가 뭔지 파악하기 정말 어려워 질거야.",
+        "bold_words": [
+          "keep track of"
+        ],
+        "id": 11
+      },
+      {
+        "en": "We learned some very basic survival techniques like how to <span style=\"color:#B84C75\"><strong>keep track of </strong></span><strong>y</strong>our location and movement without any electronic devices.",
+        "ko": "아무런 전자기기 없이 자신의 위치와 이동 경로를 파악하는 것 같은 아주 기본적인 생존 기술들을 몇 가지 배웠어요.",
+        "bold_words": [
+          "keep track of",
+          "y"
+        ],
+        "id": 12
+      },
+      {
+        "en": "Schools usually advice parents to <span style=\"color:#B84C75\"><strong>keep track of </strong></span>how their children are doing on school and the best way to do that is to be in frequent touch with their teachers.",
+        "ko": "보통 학교에서는 부모에게 자녀가 학교에서 어떻게 지내고 있는 지를 잘 파악하고 있으라고 권고하는데, 그러기 위한 가장 좋은 방법은 선생님들과 꾸준히 소통하는 거에요",
+        "bold_words": [
+          "keep track of"
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>lost track of</strong>",
+        "ko": "추적하던 정보의 흐름을 놓쳤을 때",
+        "bold_words": [
+          "lost track of"
+        ],
+        "id": 14
+      },
+      {
+        "en": "Sorry. I <span style=\"color:#487CA5\">lost track of </span>time",
+        "ko": "미안, 시간이 벌써 이렇게 된줄 몰랐어",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "At some point, I just kind of <span style=\"color:#487CA5\"><strong>lost track of </strong></span>why I was doing it.",
+        "ko": "어느순간, 내가 왜 그렇게 하고 있는지를 모르겠더라고.",
+        "bold_words": [
+          "lost track of"
+        ],
+        "id": 16
+      },
+      {
+        "en": "The carrier<strong> </strong><span style=\"color:#B84C75\"><strong>keeps a very detailed track of </strong></span>the location of a ll their packages.",
+        "ko": "수식어를 활용해 keep track of의 의미를 확잘할 수 있다.",
+        "bold_words": [
+          "keeps a very detailed track of"
+        ],
+        "id": 17
+      },
+      {
+        "en": "You can get an hourly update on their websites",
+        "ko": "그 운송업체는 모든 물품의 위치를 아주 상세하게 추적해",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Keep track of</strong></span> your things everybody.",
+        "ko": "웹사이트에 가면 시간대별로 업데이트를 확인할 수 잇어",
+        "bold_words": [
+          "Keep track of"
+        ],
+        "id": 19
+      },
+      {
+        "en": "We constantly have people losing their belongings here",
+        "ko": "자기 물건 잘들 챙기세요.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "We’re lucky we only lost a few things this time.",
+        "ko": "여기서 사람들이 물건 분실을 수시로 해요.",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "We need to start<span style=\"color:#B84C75\"><strong> keeping better track of </strong></span>our equipment from now on",
+        "ko": "이번에는 운이 좋아서 몇 개만 잃어버렸지만",
+        "bold_words": [
+          "keeping better track of"
+        ],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "앞으로는 장비 관리를 더 잘해야 돼",
+        "bold_words": [],
+        "id": 23
+      }
+    ]
+  },
+  "UNIT10": {
+    "title": "UNIT 10. ‘~이 중요하다’라고 말할 때 쓰는 It’s about ~ : It’s not about money.(중요한 건 돈이 아니야)",
+    "sentences": [
+      {
+        "en": "<strong>It’s about ~</strong>",
+        "ko": "~은 무엇이 핵심인지 이야기할때도 쓰임.",
+        "bold_words": [
+          "It’s about ~"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "‘관해’ 말할 때 말고도 ‘중요한 건~다“”결국은 ~다“ 처럼 어던 행동이나 취지, 핵심 목적에 대해서도 말할 때도 It’s not about~ , It’s about~ (중요한 것은 가 아니라~ 다)",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not about</strong></span> money, <span style=\"color:#B84C75\"><strong>It’s about</strong></span> sending a message.",
+        "ko": "중요한 것은 돈이 아니라 메시지를 전하는 것이다.",
+        "bold_words": [
+          "It’s not about",
+          "It’s about"
+        ],
+        "id": 3
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not about</strong></span> being perfect, <span style=\"color:#B84C75\"><strong>It’s about</strong></span> making progress.",
+        "ko": "중요한 것은 완벽하게 하는 게 아니라 발전하는 거야",
+        "bold_words": [
+          "It’s not about",
+          "It’s about"
+        ],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "A: How do you feel?기분은 어때?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "B: I feel great, I’m ready. How do I look.좋아 준비 됐어. 나 어때보여?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "A: you look like you’re going to get a job. Remember what I said? It’s not just about the right thins. 합격할 것 처럼 보여. 내가 한 말 잘 기억하고 있찌? 대답만 잘하는 게 중요한 게 아니야",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "B: Yeah. I remember. It’s about making a strong first impression 응 기억하고 있어. 중요한 건 강한 첫인상을 주는거라고",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "A: Excellent. They’re going to love you. Now. go. 좋아. 널 아주 마음에 들어 할 거야. 어서가.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "When it comes to sleep,<span style=\"color:#B84C75\"><strong> It’s not about</strong></span> quantity, <span style=\"color:#B84C75\">It’s about </span>quality",
+        "ko": "It’s not about~~, It’s about ~~ 형식으로 제시했지만 항상 이렇게 같이 써야하는 것은 아니다.",
+        "bold_words": [
+          "It’s not about"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not about</strong></span> what method we  use, <span style=\"color:#B84C75\"><strong>It’s about</strong></span> being persistent",
+        "ko": "잠은 말이야, 양이 중요한 게 아니라 질이 중요한 거야",
+        "bold_words": [
+          "It’s not about",
+          "It’s about"
+        ],
+        "id": 11
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not about</strong></span> how much money you make, <span style=\"color:#B84C75\">It’s about</span> how you spend your money.",
+        "ko": "어떤 방법을 활용하는지가 중요한 게 아니야. 포기하지 않는 끈기가 중요한거야.",
+        "bold_words": [
+          "It’s not about"
+        ],
+        "id": 12
+      },
+      {
+        "en": "people often get so caught up in the methodology of learning another language,",
+        "ko": "돈을 얼마나 버는지가 아니라 돈을 어떻게 쓰는지가 중요한 거야",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "but <span style=\"color:#B84C75\"><strong>it’s not about</strong></span> what method you use",
+        "ko": "",
+        "bold_words": [
+          "it’s not about"
+        ],
+        "id": 14
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s about </strong></span>how much you repeat it.",
+        "ko": "사람들은 다른 언어를 배우는 데 있어서 방법론에 집착하는 경우가 많아,",
+        "bold_words": [
+          "It’s about"
+        ],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "하지만 어떤 방법으로 하는지가 아니라",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "I really hate the way ads are done nowadays.",
+        "ko": "얼마나 많이 반복하는지가 중요한 거야.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "I<span style=\"color:#B84C75\"><strong>t’s no longer about</strong></span> how well they introduce the products",
+        "ko": "",
+        "bold_words": [
+          "t’s no longer about"
+        ],
+        "id": 18
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s more about</strong></span> which celebrities they get to promote them.",
+        "ko": "난 요즘 광고하는 방식은 진짜 싫어.",
+        "bold_words": [
+          "It’s more about"
+        ],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "더 이상 상품을 얼마나 잘 소개하는지가 아니라",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "어느 유명인사가 등장하는지에만 관심이 있는 것 같아.",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "It’s all about",
+        "ko": "~이 가장 중요하다.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s all about</strong></span> how well you can adapt to new environments.",
+        "ko": "가장 중요한 것은 새로운 환경에 얼마나 잘 적응할 수 있느냐야",
+        "bold_words": [
+          "It’s all about"
+        ],
+        "id": 23
+      },
+      {
+        "en": "It’s not about that",
+        "ko": "(앞서 언급한 것을 가르키며) 그게 중요한 게 아니다",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "I know she’s cute, but <span style=\"color:#B84C75\"><strong>It’s not about that</strong></span>",
+        "ko": "그 여자가 예쁘다는 것은 아는데 그게 중요한 게 아니잖아",
+        "bold_words": [
+          "It’s not about that"
+        ],
+        "id": 25
+      },
+      {
+        "en": "Working hard is important, but <span style=\"color:#B84C75\"><strong>it’s not only about</strong></span> that.",
+        "ko": "only/just ~ also 를 써서 그것만 아니라 이것도 중요하다고 말할 수 있어요.",
+        "bold_words": [
+          "it’s not only about"
+        ],
+        "id": 26
+      },
+      {
+        "en": "<span style=\"color:#B84C75\">It’s also about </span>how efficient you are",
+        "ko": "열심히 일하는 것도 중요하지만 그것만 있으면 되는 게 아니야.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "얼마나 효율적인지도 중요해",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not just about</strong></span> what he did.",
+        "ko": "It’s about ~ that makes + <무엇> + <어떻게> 라는 구성으로 ‘~이 무엇을 어떻게 만든다’ 라고 설명",
+        "bold_words": [
+          "It’s not just about"
+        ],
+        "id": 29
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s also about</strong></span> how he did it that makes this so concering.",
+        "ko": "그가 한 행동 자체만이 아니에요.",
+        "bold_words": [
+          "It’s also about"
+        ],
+        "id": 30
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s not just about</strong></span> how much they stole",
+        "ko": "어떤 방식으로 그렇게 했는지 또한 매우 우려가되는 부분이에요.",
+        "bold_words": [
+          "It’s not just about"
+        ],
+        "id": 31
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>It’s also about</strong></span>  who they stole from <span style=\"color:#B84C75\"><strong>that makes</strong></span> this scam especially cruel.",
+        "ko": "그들이 얼만큼 훔쳤는지만 중요한게 아니에요.",
+        "bold_words": [
+          "It’s also about",
+          "that makes"
+        ],
+        "id": 32
+      },
+      {
+        "en": "",
+        "ko": "누구로부터 훔쳤는지 또한 이 사기사건을 특히 더 잔인한 것으로 만들고 있죠.",
+        "bold_words": [],
+        "id": 33
+      }
+    ]
+  },
+  "UNIT11": {
+    "title": "UNIT 11. ‘~을 잘한다’라고 말할 때 쓰는 do a good job of + 동사ing( He does a good job of managing his money.(그는 돈관리를 잘해)",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "be good at :능력, 기술에 관해 말할 때 (I’m good at math : 난 수학을 잘해)",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "As president of the club, he<span style=\"color:#B84C75\"> </span><span style=\"color:#B84C75\"><strong>does a good job of managing</strong></span><span style=\"color:#B84C75\"> </span>the funds.",
+        "ko": "do a good job of + 동사ing : 사물이나, 서비스에 대해서 사용",
+        "bold_words": [
+          "does a good job of managing"
+        ],
+        "id": 2
+      },
+      {
+        "en": "It <span style=\"color:#B84C75\"><strong>does a </strong></span><span style=\"color:#B84C75\">good job of protecting</span> your computers from malware",
+        "ko": "동호회 회장으로서 그는 돈 관리를 잘했어",
+        "bold_words": [
+          "does a"
+        ],
+        "id": 3
+      },
+      {
+        "en": "A: Oh. this is bug zapper, right? I’ve been looking to get one of these. How is it?",
+        "ko": "악성코드로부터 여러분의 컴퓨터를 보호하는 기능을 잘해냅니다.",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "B: Well, It seems to<span style=\"color:#B84C75\"><strong> do a good job of killing</strong></span> bugs.",
+        "ko": "어, 이거 살충기지? 나도 이런거하나 사려고 알아보고 있는데, 어때?",
+        "bold_words": [
+          "do a good job of killing"
+        ],
+        "id": 5
+      },
+      {
+        "en": "A: Does it <span style=\"color:#B84C75\"><strong>do a good job of attracting</strong></span> them as well?",
+        "ko": "뭐, 벌레 죽이는 일은 잘하는 것 같아.",
+        "bold_words": [
+          "do a good job of attracting"
+        ],
+        "id": 6
+      },
+      {
+        "en": "B: I can’t really say. Bugs are attracted to light, right?",
+        "ko": "벌레를 잘 유인하기도 해?",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "I don’t know if it’s doing anything beyond that.",
+        "ko": "글쎄, 그건 잘 모르겠어. 벌레들이 원래 빛이 유인되는거 맞지?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "I think they <span style=\"color:#B84C75\"><strong>did a </strong></span><span style=\"color:#B84C75\">really</span><span style=\"color:#B84C75\"><strong> good job of pacing</strong></span> the story",
+        "ko": "그이상으로는 뭘하는 지 뭐하 는지는 잘 모르겠어",
+        "bold_words": [
+          "did a",
+          "good job of pacing"
+        ],
+        "id": 9
+      },
+      {
+        "en": "She<span style=\"color:#B84C75\"><strong> did a really good job of keeping the </strong></span>passengers calm",
+        "ko": "그들은 이야기를 적절한 속도로 정말 잘 전달한 것 같아",
+        "bold_words": [
+          "did a really good job of keeping the"
+        ],
+        "id": 10
+      },
+      {
+        "en": "They <span style=\"color:#B84C75\"><strong>did a very good job of capturing </strong></span>the essenece of the 90’s",
+        "ko": "그녀는 승객들을 안심시키는 역할을 아주 잘해냈어요.",
+        "bold_words": [
+          "did a very good job of capturing"
+        ],
+        "id": 11
+      },
+      {
+        "en": "The new model <span style=\"color:#B84C75\"><strong>does a much better job of dissipating</strong></span> heat",
+        "ko": "90년대의 느낌을 아주 잘살렸어.",
+        "bold_words": [
+          "does a much better job of dissipating"
+        ],
+        "id": 12
+      },
+      {
+        "en": "Whoever wrote this<span style=\"color:#B84C75\"><strong> did a good job of laying out</strong></span> the facts in an unbiased manner.",
+        "ko": "새 모델이 열을 분산시키는 일을 훨씬 더 잘해.",
+        "bold_words": [
+          "did a good job of laying out"
+        ],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "누가 썼는지는 몰라도 편파적이지 않게 사실만 잘 정리했네",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "He didn’t<span style=\"color:#B84C75\"><strong> do a very good job of hiding</strong></span> his tracks.",
+        "ko": "어떤 기능이나 역할을 잘 못했을 때",
+        "bold_words": [
+          "do a very good job of hiding"
+        ],
+        "id": 15
+      },
+      {
+        "en": "They’re <span style=\"color:#B84C75\"><strong>doing a poor job of understanding</strong></span> their customer",
+        "ko": "그는 자신의 행적을 잘 감추지 못했어요.",
+        "bold_words": [
+          "doing a poor job of understanding"
+        ],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "그들은 고객들의 마음을 잘 이해하지 못하고 있어",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "→bad라고 해도 될 것 같지만 실제로는 poor를 더 많이 사용한다.",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "We need to<span style=\"color:#B84C75\"><strong> do a better job of staying organized</strong></span> from now on.",
+        "ko": "앞으로 어떤 역할이나 기능을 더 잘해야 한다고 말할 때",
+        "bold_words": [
+          "do a better job of staying organized"
+        ],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "앞으로는 정리를 더 잘하면서 해야 돼",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "→stay organized 라고 하면 ‘정리된 상태를 유지하다’, 즉 다른 무엇을 하면서 정리한 상태를 유지한다는 의미",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "They <span style=\"color:#8A67AB\"><strong>did a really good job with</strong></span> the special effects",
+        "ko": "동사ing가 아니라 명사가 나올 때는 of대신 with을 쓰는 게 일반적이다.",
+        "bold_words": [
+          "did a really good job with"
+        ],
+        "id": 22
+      },
+      {
+        "en": "They <span style=\"color:#8A67AB\"><strong>do a terrible job with</strong></span> the menu design",
+        "ko": "특수효과를 정말 잘 만들었어",
+        "bold_words": [
+          "do a terrible job with"
+        ],
+        "id": 23
+      },
+      {
+        "en": "",
+        "ko": "메뉴 디자인이 너무별로야",
+        "bold_words": [],
+        "id": 24
+      }
+    ]
+  },
+  "UNIT12": {
+    "title": "UNIT 12. 이럴 땐 use말고 make use of : We can make use of the leftover later.(남은 건 나중에 활용할 있어)",
+    "sentences": [
+      {
+        "en": "make use of",
+        "ko": "이용하다/ 활용하다 → 남기는 거 없이, 낭비하는 구석없이",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "It’s free. There’s no reason not to <span style=\"color:#B84C75\"><strong>make use of</strong></span> it.",
+        "ko": "공짜 잖아. 이용하지 않을 이유가 없어",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 2
+      },
+      {
+        "en": "Don’t throw that away. We can <span style=\"color:#B84C75\"><strong>make use of </strong></span>it later",
+        "ko": "그거 버리지마. 나중에 활용할 수 있어",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 3
+      },
+      {
+        "en": "We can <span style=\"color:#B84C75\"><strong>make use of</strong></span> the leftovers ingredients from the pizza we made the other day.",
+        "ko": "며칠 전에 피자 만들고 남은 재료를 활용할 수 있을거야.",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "A: What should we put this?이건 어디에 둘까?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "B: Umm. Good question. How about we move that table somewhere else? I think we can<span style=\"color:#B84C75\"><strong> make use of</strong></span> that space",
+        "ko": "흠. 글쎄. 저 테이블을 다른 데로 옮기는 건 어떨까? 그 공간을 활용할 수 있을 것 같은데.",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "A  Oh. That’s a good idea아 그거 좋은 생각이네",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "We have all that space down in the basement. We should try to <span style=\"color:#B84C75\"><strong>make use of</strong></span> it.",
+        "ko": "B: Yeah. We hardly ever use that table anyway. 응, 어처피 저 테이블은 거의 쓰지도 않으니까",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 8
+      },
+      {
+        "en": "It is a good way to <span style=\"color:#B84C75\"><strong>make use of </strong></span>all the extra plastic bags that you might have lying around",
+        "ko": "지하에 그 많은 공간이 다 있잖아. 활용해봐야지",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 9
+      },
+      {
+        "en": "I prefer to commute using public transportation. I can <span style=\"color:#B84C75\"><strong>make use of</strong></span> the time to do some reading.",
+        "ko": "집에 남아도는 비닐봉투를 활용하기에 참 좋은 방법이야",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 10
+      },
+      {
+        "en": "I wish there was a way to <span style=\"color:#B84C75\"><strong>make use of </strong></span>it. It seems like such a w to just throw it out.",
+        "ko": "저는 대중교통으로 출퇴근하는 걸 더 좋아해요. 그 시간을 활용해서 독서를 할 수 있거든요.",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 11
+      },
+      {
+        "en": "It’s a shame that we hardly actually <span style=\"color:#B84C75\"><strong>make use of</strong></span> the things we learned in school.",
+        "ko": "이걸 활용하는 방법이 좀 있었으면 좋겠다. 그냥 버리기는 좀 아까운데",
+        "bold_words": [
+          "make use of"
+        ],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "학교에서 배운 것들을 실제로 활용할 일이 거의 없다는 게 참 암타까워요.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "I feel like they <span style=\"color:#B84C75\"><strong>made very good use of</strong></span> space",
+        "ko": "수식어로 활용의 정도를 다양하게 표현할 수 있습니다.",
+        "bold_words": [
+          "made very good use of"
+        ],
+        "id": 14
+      },
+      {
+        "en": "we should’ve <span style=\"color:#B84C75\"><strong>make better use of</strong></span> our time",
+        "ko": "거긴 공간 활용을 정말 잘한 것 같아",
+        "bold_words": [
+          "make better use of"
+        ],
+        "id": 15
+      },
+      {
+        "en": "She <span style=\"color:#B84C75\"><strong>made terrible use of</strong></span> her talent",
+        "ko": "시간 활용을 더 잘했어야 했어",
+        "bold_words": [
+          "made terrible use of"
+        ],
+        "id": 16
+      },
+      {
+        "en": "With her inter personal skills, she could’ve built a successful business or something.",
+        "ko": "그녀는 재능을 너무 썩혔어.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "저런 대인 관계능력이라면 사업 같은 거 해서 성공할 수 있었을텐데",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "<strong>make the most out of</strong>",
+        "ko": "최대한으로 활용한다",
+        "bold_words": [
+          "make the most out of"
+        ],
+        "id": 19
+      },
+      {
+        "en": "Let’s just focus on<span style=\"color:#8A67AB\"> making the most out of</span> what we have.",
+        "ko": "일단은 있을 것을 최대한으로 활용하는 데만 집중하자",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "Opportunities like this don’t come very often. We should try to <span style=\"color:#8A67AB\"><strong>make the most out of</strong></span> it..",
+        "ko": "이러기회는 자주 오지 않아. 최대한으로 이용해야겠어",
+        "bold_words": [
+          "make the most out of"
+        ],
+        "id": 21
+      }
+    ]
+  },
+  "UNIT13": {
+    "title": "UNIT 13. ‘어치’를 말할 때 쓰는 worth of : I bought ten-thousand-won’s worth of apples.",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "‘일정 금액이나 시간의 양’을 말할 때 쓰는 표현 worth of",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "I bought <span style=\"color:#B84C75\">ten thousand’s worth of </span>apples",
+        "ko": "(ten-thousand-won’s worth of + <무엇> : 만원어치) , worth앞에는 소유격을 써야한다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "We lost almost <span style=\"color:#B84C75\"><strong>two week’s worth of</strong></span> work",
+        "ko": "사과를 만원어치 샀어",
+        "bold_words": [
+          "two week’s worth of"
+        ],
+        "id": 3
+      },
+      {
+        "en": "I got <span style=\"color:#B84C75\"><strong>sixty thousand’s worth of</strong></span> gas for my car",
+        "ko": "거의 2주 차의 작업량을 날렸어요.",
+        "bold_words": [
+          "sixty thousand’s worth of"
+        ],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "차에 기름을 6만원 어치 넣었어",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: 뭐가 많네  That’s a lot of stuff.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "B: 응, 뭐 , 장을 30만원 정도 봤으니까 Yeah, It’s about three-hundred won’s worth of groceries",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "A: 와. 그 정도면 한 달치는 되겠는데 Wow. That must be like a month’s worth of stuff.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "No. Actually, it’s only about<span style=\"color:#B84C75\"><strong> a week’s worth. </strong></span>We are big family. We burned this much is less than a week",
+        "ko": "B: 아니. 사실은 일주일 치밖에 안돼. 우리 집은 식구가 많아서 이정도는 한 주도 못 가",
+        "bold_words": [
+          "a week’s worth."
+        ],
+        "id": 9
+      },
+      {
+        "en": "We ordered almost <span style=\"color:#B84C75\"><strong>a hundred-thousand -won’s worth of</strong></span> food",
+        "ko": "일정 금액에 해당하는 양을 표현하는 법",
+        "bold_words": [
+          "a hundred-thousand -won’s worth of"
+        ],
+        "id": 10
+      },
+      {
+        "en": "He had <span style=\"color:#B84C75\"><strong>several-million-won’s worth of plastic surgery </strong></span>done in less than a year",
+        "ko": "음식을 거의 10만원 어치 주문했어",
+        "bold_words": [
+          "several-million-won’s worth of plastic surgery"
+        ],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "그는 1년도 안돼서 수백만원짜리 성형수술을 받았어.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I took almost  <span style=\"color:#B84C75\"><strong>a year’s worth of</strong></span> reading material",
+        "ko": "일정 시간에 해당하는 양을 말할 때",
+        "bold_words": [
+          "a year’s worth of"
+        ],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "거의 1년 치 읽을거리를 가져갔어요.",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "They stretched their <span style=\"color:#B84C75\"><strong>two month’s worth of </strong></span>stuff supplies and lasted almost 6 months",
+        "ko": "(reading material은 책 뿐만 아니라 잡지, 논문 등을 포함하는 더 광범위한 읽을거리)",
+        "bold_words": [
+          "two month’s worth of"
+        ],
+        "id": 15
+      },
+      {
+        "en": "Maybe if we had more people, but I’d say this is about <span style=\"color:#B84C75\"><strong>three months </strong></span>work",
+        "ko": "그들은 2개월치의 물품을 아껴 써서 거의 6개월을 버텼어요.",
+        "bold_words": [
+          "three months"
+        ],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "사람이 더있으면 모를까, 내가 보기에 이거는 3개월 치 정도의 작업량인데",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "(작업량에 대해 말할 때는 이처럼 worth of 를 생략할수도 있다)",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "I paid for <span style=\"color:#8A67AB\"><strong>fifty-litters of gas</strong></span>",
+        "ko": "kg/ cm/ m/ gb(gigabyte)처럼 정확한 단위가 정해져 있는 것은 worth of가 아니라 of만 사용",
+        "bold_words": [
+          "fifty-litters of gas"
+        ],
+        "id": 19
+      },
+      {
+        "en": "there is about <span style=\"color:#8A67AB\"><strong>200 gigabytes of data</strong></span>",
+        "ko": "50리터만큼의 기름값을 냈어",
+        "bold_words": [
+          "200 gigabytes of data"
+        ],
+        "id": 20
+      },
+      {
+        "en": "I eat about<span style=\"color:#8A67AB\"><strong> a hundred and fifty grams of meat every meal</strong></span>",
+        "ko": "데이터가 대략 200기가바이트는 돼요",
+        "bold_words": [
+          "a hundred and fifty grams of meat every meal"
+        ],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "나는 매 끼니마다 고기 150gram정도 먹어",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "It’s been said that the hurricain caused more that <span style=\"color:#8A67AB\"><strong>five hundred million won in damages</strong></span>",
+        "ko": "‘얼마만큼의 금전적 손해 또는 피해’라고 말할떄는 일반적으로 ‘(금액)+in damages’",
+        "bold_words": [
+          "five hundred million won in damages"
+        ],
+        "id": 23
+      },
+      {
+        "en": "",
+        "ko": "태풍에 의해 5억원 이상의 피해가 발생한 것으로 알려져 있다.",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "The company will be paying almost <span style=\"color:#8A67AB\"><strong>a thousand million won in fines</strong></span>",
+        "ko": "마찬가지로 ‘얼마만큼의 벌금’이라고 말할 때는 ‘(금액) + in fines’",
+        "bold_words": [
+          "a thousand million won in fines"
+        ],
+        "id": 25
+      },
+      {
+        "en": "",
+        "ko": "그 회사는 거의 1억 원의 벌금을 내게 될거예요",
+        "bold_words": [],
+        "id": 26
+      }
+    ]
+  },
+  "UNIT14": {
+    "title": "UNIT 14. 변수나 상황에 따라 달라진다는 의미의 depend on : It depends on the price.",
+    "sentences": [
+      {
+        "en": "<strong>depend on</strong>",
+        "ko": "~에 의존하다/ 의지하다",
+        "bold_words": [
+          "depend on"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "어떤 변수나 상황에 따라 선택이나 결과가 달라진다",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "It<span style=\"color:#B84C75\"><strong> depends</strong></span>",
+        "ko": "상황에 따라 달라",
+        "bold_words": [
+          "depends"
+        ],
+        "id": 3
+      },
+      {
+        "en": "It <span style=\"color:#B84C75\"><strong>depends on</strong></span> the day and time",
+        "ko": "요일과 시간에 따라 달라",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 4
+      },
+      {
+        "en": "It <span style=\"color:#B84C75\"><strong>depends on</strong></span> a lot of things.",
+        "ko": "여러가지 변수에 따라 달라져",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: Do you think I should to get a cordless vacuum? 무선 진공 청소기를 사는 게 좋을까?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "B: Maybe. But It depends. 어쩌면, 그건 상황에 따라 다른데",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "A: It depends on what? My budget? 무슨 상황에 따라? 내 예산?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "B: Yeah. that too. 응 그것도 있지.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "But. But it depends more on what you’re going to use it for.근데 그보다 뭐에 쓸 거냐에 따라 다르지",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "From what I understand, the cordless vacuum  have noticeably weaker suction power and  although battery performance has improved a lot,내가 알기로, 무선 청소기가 흡입력이 확실히 딸리는 편이고 배터리 성능이 비록 많이 좋아지긴 했어도",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "you’re still running on battery어쨌든 배터리로 돌아가는 거거든",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "So, it really depends on your environment and how you’re using it.그래서, 사용 환경이랑 방식에 따라 좋을 수도 있고 안 좋을 수도 있어",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "It <span style=\"color:#B84C75\"><strong>depends on </strong></span>what time we get there.",
+        "ko": "depend on + 간접의문문",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 14
+      },
+      {
+        "en": "It <span style=\"color:#B84C75\"><strong>depends on</strong></span> what the weather is like that day.",
+        "ko": "몇 시에 거기 도착하는 지에 따라 달라",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 15
+      },
+      {
+        "en": "It <span style=\"color:#B84C75\"><strong>depends on</strong></span> whether or not it’s legal",
+        "ko": "그건 그날 날씨가 어떻냐에 따라 달라지겠지",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "그게 합법적인 것인지 아닌 지에 달려 있어",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "depends on 과 함께 써서 ‘여부(~인지 아닌지)에 따라 달라진다’라고 말할 수 있다.",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "A: Joe and I are going to the movies tonight.",
+        "ko": "It depends / That depends 기본적인 의미 외에도 맥락에 따라 다양하게 해석",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "Do you want to come?조랑 오늘 밤에 영화보러 가는데, 너도 갈래?",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "B: That depends. What time is the movie? 글쎄. 영화가 몇 시 인데?",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "A: So, Are you going to take the job? 그래서 (제안받은 일 도는 일자리)하겠다고 할거야?",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "B: Umm. That depends. 흠, 그건 두고 봐야 할 것 같아",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "<strong>depending on</strong>",
+        "ko": "“~에 따라서” 라는 뜻을 가진 부사구",
+        "bold_words": [
+          "depending on"
+        ],
+        "id": 24
+      },
+      {
+        "en": "They go for around one to one point two million won in the secondhand market <span style=\"color:#B84C75\"><strong>depending on </strong></span>the condition",
+        "ko": "그것들은 중고시장에서 상태에 따라 100만~120만원에 거래되고 있어",
+        "bold_words": [
+          "depending on"
+        ],
+        "id": 25
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Depending on </strong></span>the time of day, It can take as little as 20 minutes to as long as an hour",
+        "ko": "시간대에 따라서, 적게는 20분에서 길게는 한 시간까지도 걸릴 수 있어",
+        "bold_words": [
+          "Depending on"
+        ],
+        "id": 26
+      },
+      {
+        "en": "While the overall cost will vary <span style=\"color:#B84C75\"><strong>depending on </strong></span>which agency you go through, the process is pretty the same",
+        "ko": "어느 기관을 통해서 하는 지에 따라 총 비용은 달라지겠지만,",
+        "bold_words": [
+          "depending on"
+        ],
+        "id": 27
+      },
+      {
+        "en": "You can’t really draw a clear line between the hero and the villain in this movie",
+        "ko": "절차는 거의 비슷해",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "One could easily be the other<span style=\"color:#B84C75\"><strong> depending on</strong></span> how you look it for.",
+        "ko": "이 영화에서는 영웅과 악당 사이를 명확히 구분할 수 없어요.",
+        "bold_words": [
+          "depending on"
+        ],
+        "id": 29
+      },
+      {
+        "en": "",
+        "ko": "어떻게 보는지에 따라서 누구든 어느 쪽이 될 수 있어요.",
+        "bold_words": [],
+        "id": 30
+      }
+    ]
+  },
+  "UNIT15": {
+    "title": "UNIT 15. 정도나 수준을 표현해주는 on some level : I think we all knew it on some level.(우리 모두 어느정도는 알고 있었어",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "‘어느정도’ : on some level -무엇을 아주 높은 수준으로는 아니더라도 적당한 수준에서 또는 약간의 정도로 무엇을 한다고 말할 때 자주쓰는 말.",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "우리 모두 어느 정도는 무슨 일이 일어나고 있는 지 알고 있었어",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "난 어느 정도 늘 우울했던 것 같아.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "A: JP가 이혼을 하게 되다니 믿을수가 없다.",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "B: 에이. 솔직히 다들 이렇게 될 줄 어느정도는 알고 있었잖아",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "A: 뭐? 그게 무슨소리야?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "B: 뭐, 이렇게 빠를 줄은 몰랐겠지만, 에이 왜 그래? 걔네 처음 만나기 시작할 때부터 늘 좀 불안했잖아.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "내가 미쳤다고 하겠지만, JP도 심지어 어느 정도는 알고 있었다고 봐",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "인정하기 싫지만 그녀가 어느정도 맞다고 생각해요.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "응 그들이 어떤 마음에서 그렇게 말하는 건지 어느 정도는 이해할 수 있을 것 같아.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "시간을 좀 갖고 생각해보겠다고 말을 했는데 사실 어느정도는 이미 결정을 한 것 같아.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "나보고 미쳤다고 하겠지만, 난 그사람들이 어떤 면에서는 좀 안된 것 같아.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "그시리즈에 등장하는 인물들 정말 잘썼더라. 누구든지 그 시리즈에 나오는 모든 등장인물에 대해서 어느정도는 다 공감할 수 있을 것 같아.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "to an extent 는 ‘어느정도까지만’처럼 제한의의미를 강조할 떄 많이 사용",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "그들이 상황에 똑똑하게 대처하고 있고, 효과도 있을거라고 생각은 하지만 한계가 있어요.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "제 생각에 이건 잘해도 임시 해결책에 지나지 않아요.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "in some ways 는 해석은 비슷하지만 정도나 양보다는 방식/방향/종류에 대해 얘기할 때 사용",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "on many levels, in a lot of ways 등 다양한 응용표현을소개",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "",
+        "ko": "해석의 맥락에 다라’여러모로’ 여러 방면에서’ 여러 수준으로’ 등으로 달라짐.",
+        "bold_words": [],
+        "id": 19
+      }
+    ]
+  },
+  "UNIT16": {
+    "title": "UNIT 16. 내적 갈등을 표현해주는 there’s a part of me that ~ : There’s a part of me that feels guilty.",
+    "sentences": [
+      {
+        "en": "<strong>There’s a part of me that</strong>",
+        "ko": "~한 나의 일부가 있다",
+        "bold_words": [
+          "There’s a part of me that"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "‘한편에는 ~한 마음이나 생각이 있다’ 선택이나 결정을 내리는 과정에서 겪는 내적갈등이나 그로인한 아쉬운 마음",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I know it’s not my fault. but<span style=\"color:#B84C75\"><strong> there’s</strong></span> still <span style=\"color:#B84C75\"><strong>a part of me that </strong></span>feel guilty",
+        "ko": "내 탓이 아니라는 것은 알지만, 한편으로는 계속 죄책감이 들어",
+        "bold_words": [
+          "there’s",
+          "a part of me that"
+        ],
+        "id": 3
+      },
+      {
+        "en": "I don’t think of myself as a religious person,",
+        "ko": "",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "but<span style=\"color:#B84C75\"><strong> there’s a part of me that</strong></span> wants to believe",
+        "ko": "스스로 종교인이라고 생각하지는 않지만,",
+        "bold_words": [
+          "there’s a part of me that"
+        ],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "믿고싶은 마음도 있어",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "A: How can you let that man talk to you like that? You should’ve said something",
+        "ko": "넌 어떻게 저 남자가 그렇게 둘 수 있니?  뭐라고 했어야지",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "B: Why would I say anything? That’s probably exactly what he wanted.",
+        "ko": "뭐하러 대꾸를 해? 저사람은 딱 그걸 바랏을 텐데",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "A: Wow I don’t know how you<strong> keep your cool</strong> in situation like that",
+        "ko": "와, 저런 상황에서 넌 어떻게 참는 지 모르겠다.",
+        "bold_words": [
+          "keep your cool"
+        ],
+        "id": 9
+      },
+      {
+        "en": "B: Of course, <span style=\"color:#B84C75\"><strong>There’s always a part of me that </strong></span>would love to just go off on people like that, But I know that would never end well",
+        "ko": "물론 저런 사람한테 쏘아대고 싶은 마음이야 항상있지, 하지만 그게 절대로 좋게 끝날리가 없잖아",
+        "bold_words": [
+          "There’s always a part of me that"
+        ],
+        "id": 10
+      },
+      {
+        "en": "I knew it wasn’t the safest move,",
+        "ko": "",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "but I think<span style=\"color:#B84C75\"><strong> there was a part of me that</strong></span> wanted to be impulsive for once",
+        "ko": "가장 안전한 선택이 아닌 건 알고 있는데,",
+        "bold_words": [
+          "there was a part of me that"
+        ],
+        "id": 12
+      },
+      {
+        "en": "I know this is the right thing to do,",
+        "ko": "한번쯤은 충종적이고 싶은 마음도 있었던 것 같다.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "but I know<span style=\"color:#B84C75\"><strong> there will always be a part of m</strong></span>e that will regret it",
+        "ko": "이게 옳은 일이라는 것은 알지만, 후회하는 마음은 평생 남아있을거야",
+        "bold_words": [
+          "there will always be a part of m"
+        ],
+        "id": 14
+      },
+      {
+        "en": "I’m pretty happy with where I am in life,",
+        "ko": "",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "but<span style=\"color:#B84C75\"><strong> there is a part of me that</strong></span><strong> wonders</strong> what I would do if I could do it all over again",
+        "ko": "내 인생에 있어서 현재에 꽤 만족하는 편이지만,",
+        "bold_words": [
+          "there is a part of me that",
+          "wonders"
+        ],
+        "id": 16
+      },
+      {
+        "en": "Of course,<span style=\"color:#B84C75\"><strong> there’s a part of me that </strong></span>wants to put all this behind and move on,",
+        "ko": "처음부터 다시 인생을 산다면 어떻게 할 지 궁금한 마음도 있어",
+        "bold_words": [
+          "there’s a part of me that"
+        ],
+        "id": 17
+      },
+      {
+        "en": "but wouldn’t that be selfish?",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "It just doesn’t feel right for someone in my position to stay silent",
+        "ko": "물론 이 모든걸 뒤로 하고 그냥 살아가고 싶은 마음도 있지만,",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "그러면 이기적인 것이 아닐까?",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "지금 내상황에서 침묵하고 있는 건 옳지 않은 느낌이야",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "always, small 같은 수식어를 써서 그런 마음이 얼마나 오래 지속되었고, 어느정도 크기가 구체적인지 말해보자!",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "There’s always a very small part of me that wishes I could just disappear for a while",
+        "ko": "한동안 그냥 사라져버리고 싶은 마음도 늘 아주 조금 있어",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>There’s a part of me</strong></span> that understands Mr.Castro cant’ make everyone happy,",
+        "ko": "a- another/ a - bigger/ small -big 같은 조합으로 마음의 양면을 모두 얘기해보자",
+        "bold_words": [
+          "There’s a part of me"
+        ],
+        "id": 24
+      },
+      {
+        "en": "but I feel like<span style=\"color:#B84C75\"><strong> there’s another part of m</strong></span>e that always resents him",
+        "ko": "카스트로씨가 모두를 만족시킬 수 없다는 걸 이해는 하지만,",
+        "bold_words": [
+          "there’s another part of m"
+        ],
+        "id": 25
+      },
+      {
+        "en": "",
+        "ko": "한편으로는 그를 원망하는 마음이 늘 있는 것 같아",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "",
+        "ko": "There is 와 that 없이 a part of me만 주어로 쓰기도 한다.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "I’m not going to lie. <span style=\"color:#B84C75\"><strong>A part of me</strong></span> wants to just quit and forget the whole thing ever happened",
+        "ko": "거짓말하지 않을게. 그냥 포기하고 이 모든것을 없던 일로 하고싶은 마음도 물론 있어",
+        "bold_words": [
+          "A part of me"
+        ],
+        "id": 28
+      },
+      {
+        "en": "but<strong> </strong><span style=\"color:#B84C75\"><strong>another part of me</strong></span> knows I’ll regret it if I don’t see  it through",
+        "ko": "하지만 끝까지 하지 않으면 후회할 거라는 것도 알고 있어",
+        "bold_words": [
+          "another part of me"
+        ],
+        "id": 29
+      },
+      {
+        "en": "",
+        "ko": "part 대신 side를 써서 성격이나 성향에 대해 ‘~한 면이 있다’라고 말할 수 있다.",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "I’m sure<span style=\"color:#B84C75\"><strong> there’s a</strong></span><span style=\"color:#8A67AB\"><strong> side </strong></span><span style=\"color:#B84C75\"><strong>of him </strong></span>that enjoys the challenge",
+        "ko": "그에게는 도전 자체를 즐기는 면이 분명히 있을 거야,",
+        "bold_words": [
+          "there’s a",
+          "side",
+          "of him"
+        ],
+        "id": 31
+      },
+      {
+        "en": "Otherwise, he would never have achieved as much as he has",
+        "ko": "안그랬으면 그만큼 이루지 못했겠지",
+        "bold_words": [],
+        "id": 32
+      }
+    ]
+  },
+  "UNIT17": {
+    "title": "UNIT 17. ‘그런’을 표현해주는 one of those : It’s one of those days. (그런날인가보네)",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "‘그런날 인가봐’ 살다보면 그런 일도 있지’ 그런사람들이 원래 그래’",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "그런 것/ 일/ 날 을 말할 때 one of those___",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "A: wow. You certainly are in a good mood today",
+        "ko": "와, 너 오늘 기분 엄청 좋아 보이네",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "B: I am?",
+        "ko": "그래?",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "A: Yeah. what’s up?",
+        "ko": "응 무슨일 있어?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "B: Nothing. I guess it’s<span style=\"color:#B84C75\"><strong> one of those days</strong></span>",
+        "ko": "없는데 , 일단 그런 날인가봐",
+        "bold_words": [
+          "one of those days"
+        ],
+        "id": 6
+      },
+      {
+        "en": "A: Wait your bag.",
+        "ko": "잠깐 . 네 가방",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "B: Oh, right. Thanks. So. I’ll see you at four",
+        "ko": "아 맞다. 고마워, 그럼 4시에 보는거지?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "A: Two",
+        "ko": "2시",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "B: What?",
+        "ko": "응?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "A: We said two o’clock. remember? At first, we said four, then we said we should meet a two 2시라고 했잖아. 기억 안 나? 처음에는 4시라고 했다가 2시에 만나자고 했잖아",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "B: of course Sorry. OK. Then I’ll see you later at two",
+        "ko": "그렇지 참. 미안. 알았어 그럼 이따가 2시에 보자",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "A: Wait. Isn’t this your phone?  잠깐 잠깐 이거 네폰 아니야?",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "B: Argh. What is wrong with me today?",
+        "ko": "어휴, 나 오늘 왜 이러지?",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "A: I guess it’s <span style=\"color:#B84C75\"><strong>one of those days</strong></span>",
+        "ko": "오늘 그런날 인가 보지 뭐",
+        "bold_words": [
+          "one of those days"
+        ],
+        "id": 15
+      },
+      {
+        "en": "Don’t mind her. She’s just <span style=\"color:#B84C75\"><strong>one of those people</strong></span>",
+        "ko": "걔 신경쓰지마! 어딜가든 저런사람 있잖아",
+        "bold_words": [
+          "one of those people"
+        ],
+        "id": 16
+      },
+      {
+        "en": "Hey. It’s just<span style=\"color:#B84C75\"><strong> one of those things</strong></span>. Forget about it, OK?",
+        "ko": "아 살다보면 있는일이야! 그냥 잊어 알았지?",
+        "bold_words": [
+          "one of those things"
+        ],
+        "id": 17
+      },
+      {
+        "en": "Oh I’m on a roll. today! I guess it’s <span style=\"color:#B84C75\"><strong>one of those days.</strong></span>",
+        "ko": "좋아 나 오늘 좀 하는데? 오늘 그런 날인가봐",
+        "bold_words": [
+          "one of those days."
+        ],
+        "id": 18
+      },
+      {
+        "en": "I’m just upset about this morning. My boyfriend and I had a little arguement",
+        "ko": "오늘 아침에 있었던 일때문에 그냥 속상해.",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "It was just one of those things, you know?",
+        "ko": "남자친구랑 좀 다퉜거든, 그냥 그런거 있잖아",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "Hmm. I’ll bet its’ on of those places. you know?",
+        "ko": "흠 내가 장담하는데 아마 그런 곳 일거야",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "관계절을 활용해 ‘그런 게 뭔지’ 더 구체적으로 얘기할 수 있습니다.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "Don’t mind her. She’s just <span style=\"color:#B84C75\"><strong>one of those people </strong></span>that think everyting is a competition",
+        "ko": "신경쓰지마. 모든 것을 경쟁으로 생각하는 그런 사람이니까",
+        "bold_words": [
+          "one of those people"
+        ],
+        "id": 23
+      },
+      {
+        "en": "Hey. It just <span style=\"color:#B84C75\"><strong>one of those things</strong></span> in life that you have no control over",
+        "ko": "아, 살다보면 네가 통제할 수 없는 그런 일도 있는 거야.",
+        "bold_words": [
+          "one of those things"
+        ],
+        "id": 24
+      },
+      {
+        "en": "Stop beating yourself over it",
+        "ko": "그만자책해",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "I can’t explain it, but I’m having<span style=\"color:#B84C75\"><strong> one of those days </strong></span>where I feel like I have all the answers",
+        "ko": "",
+        "bold_words": [
+          "one of those days"
+        ],
+        "id": 26
+      },
+      {
+        "en": "So just trust me on this.",
+        "ko": "내가 설명은 못하겠는데, 오늘 왠지 모든 것에 대한 정답을 다 가지고 있는 것 같은 그런 날이거든",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "그러니까 이건 나만 믿어",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "I’m just upset about this morning, I and my friend had argument, It was just <span style=\"color:#B84C75\"><strong>one of those things </strong></span>that you fight over for nothing. you know?",
+        "ko": "오늘 아침에 있었던 일 때문에 그냥 속상해서 남자친구랑 좀 다퉜거든, 아무것도 아닌 것 가지고 싸우는 그런거 있잖아",
+        "bold_words": [
+          "one of those things"
+        ],
+        "id": 29
+      },
+      {
+        "en": "Hmm. I’ll bet It’s<span style=\"color:#B84C75\"><strong> one of those place</strong></span> that dazzle you with fancy name and introduction, and then serve you really crappy food",
+        "ko": "흠, 내가 장담하는데 화려한 이름이랑 소개로 꼬신다음에 완전 별로인 음식만 주는 그런곳 일거야.",
+        "bold_words": [
+          "one of those place"
+        ],
+        "id": 30
+      }
+    ]
+  },
+  "UNIT18": {
+    "title": "UNIT 18. 그 자체만 놓고 본다고 강조할 땐 in and of itself : It’s not a bad idea in and of itself.",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "in and of itself  ‘그 자체만 놓고 보면’ ‘그자체만으로’",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "의미만 높고 보면 그냥 itself로 바꿔 말해도 크게 문제되진 않지만, 강조를 위한 표현이라 전체를 그대로 말하는 경우가 흔하다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "외부의 것을 신경쓰거나 고려하지 않고 그것만 독립적으로 본다는 느낌",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "It’s not a bad idea<span style=\"color:#B84C75\"><strong> in and of itself</strong></span>",
+        "ko": "아이디어 자체는 나쁘지 않아",
+        "bold_words": [
+          "in and of itself"
+        ],
+        "id": 4
+      },
+      {
+        "en": "What she did wasn’t a problem<span style=\"color:#B84C75\"><strong> in and of itself</strong></span>. It was just very bad timing",
+        "ko": "그녀가 한 일 자체는 문제는 아니었어. 타이밍이 안좋았던 거지",
+        "bold_words": [
+          "in and of itself"
+        ],
+        "id": 5
+      },
+      {
+        "en": "A: Wow. There’s a state in the U.S that passed a law restricting minors from using social media without their parent’s consent",
+        "ko": "와. 미국의 어느 주는 미성년자가 부모 동의 없이는 sns사용을 제한하는 법을 통과시켰대",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: I had a feeling this was going to happen sooner or later",
+        "ko": "언젠가는 그럴 것 같더라",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "A: It’s a real shame though, right? Because social media, in and of itself, is a tool for communicating and a really effective one, too",
+        "ko": "진짜 안타깝다. 그렇지? SNS는 그 자체만 놓고 보면 소통을 위한 도구일뿐이잖아. 그것도 아주 효과적인 도구",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "B: Right. But companies get ready and people lose control",
+        "ko": "그렇지. 하지만 회사는 욕심을 내고 사람들은 통제력을 잃기 마련이지.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "A: I’ve even heard some experts compare it to drugs 어떤 전문가들은 마약과도 비교를 하더라고",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "It’s a great idea<span style=\"color:#B84C75\"><strong> in and of itself</strong></span>, but we have to take our current timeline into consideration",
+        "ko": "아이디어 자체는 훌륭한데 우리의 현재 일정도 고려해야돼",
+        "bold_words": [
+          "in and of itself"
+        ],
+        "id": 11
+      },
+      {
+        "en": "I’d say their apology isn’t all that significant <span style=\"color:#B84C75\"><strong>in and of itself</strong></span>, but it’s a good start.",
+        "ko": "",
+        "bold_words": [
+          "in and of itself"
+        ],
+        "id": 12
+      },
+      {
+        "en": "We’ll see where it goes from here",
+        "ko": "그들의 사과 자체만으로는 대단한 건 아니지만 좋은 시작이긴 해",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "It was a very smart decision <span style=\"color:#B84C75\"><strong>in and of itself.</strong></span>",
+        "ko": "앞으로 어떻게 하는지 보자고",
+        "bold_words": [
+          "in and of itself."
+        ],
+        "id": 14
+      },
+      {
+        "en": "But the timing and other conditions just made impossible to avoid what was coming",
+        "ko": "그자체만 놓고 보면 정말 잘한 결정이었어",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "Consulting a fortune isn’t bad<span style=\"color:#B84C75\"><strong> in and of itself.</strong></span>",
+        "ko": "하지만 타이밍과 다른 조건들이 안좋아서 상황을 모면할 수 없었어",
+        "bold_words": [
+          "in and of itself."
+        ],
+        "id": 16
+      },
+      {
+        "en": "It’s when you allow it to make important life decisions that it becomes a problem",
+        "ko": "점보는 것 자체가 나쁜 건 아니에요",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "하지만 점으로 인생의 중요한 결정을 내린다면 그건 문제가 되죠",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "",
+        "ko": "in and of itself (그자체로) vs fundamentally(본질적으로)",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "it’s a great idea in and of itself(→fundamentally는 안된다) 이건 뉘앙스적인거라서 시간이 지나야 알수있다.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "<strong>alone</strong>",
+        "ko": "그것만(해도)",
+        "bold_words": [
+          "alone"
+        ],
+        "id": 21
+      },
+      {
+        "en": "Getting everything downstairs <span style=\"color:#B84C75\"><strong>alone</strong></span> will take at least 2 hours.",
+        "ko": "짐을 다 아래층으로 옮기는 것 만 해도 최소 두시간은 걸릴거예요",
+        "bold_words": [
+          "alone"
+        ],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "여기서 alone을 쓰면 ‘혼자’로 해석해도 말이 되기 때문에 오해의 여지가 있습니다.",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "It’s amazing how some people manage to keep a full time job while raising children.",
+        "ko": "이런 경우 alone대신 on its own을 쓰는 걸 자주볼 수 있다.",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "being a parent seems hard enough <span style=\"color:#B84C75\"><strong>on its own</strong></span>",
+        "ko": "아이들을 키우면서 직장을 유지하는 사람들 보면 정말 대단해. 보모인것만해도 충분히 어려울거같은데",
+        "bold_words": [
+          "on its own"
+        ],
+        "id": 25
+      },
+      {
+        "en": "The movie never won any awards, but I was a huge success<span style=\"color:#B84C75\"><strong> in its own right.</strong></span>",
+        "ko": "in its own right 나름대로",
+        "bold_words": [
+          "in its own right."
+        ],
+        "id": 26
+      },
+      {
+        "en": "It’s well known for being one of the most successful low-budget blockbusters",
+        "ko": "그 영화는 상을 타거나 그러지는 않았지만, 나름대로 대성공이었어.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "가장 성공적인 저예산 블록퍼스터중 하나로 꽤 알려져 있지.",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "",
+        "ko": "per se 는 in itself, in and of itself와 의미적으로 동일한 라틴어인데, 가끔 이렇게 라틴어가 굳어지 ㄴ경우도 있음.",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "The problem isn’t AI or the tecnology per se, but how people decide to use it.",
+        "ko": "문제는 인공지능이나 그 기술력 자체에 있는 게 아니라, 사람들이 그걸 어떻게 사용하기로 하는지에 있는거지.",
+        "bold_words": [],
+        "id": 30
+      }
+    ]
+  },
+  "UNIT19": {
+    "title": "UNIT 19. 평소와 다른 걸 시도한다는 의미를 가진 for a change : I’m going to do some reading for a change.",
+    "sentences": [
+      {
+        "en": "<strong>for a change</strong>",
+        "ko": "한번, 오랜만에",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "늘 같은 것만 하면 재미없잖아요. ”한번/오랜만에 ~해볼까?”",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I’ve been playing computergames too much lately.",
+        "ko": "최근에 컴퓨터게임을 너무 많이했어.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "I’m going to do some reading<span style=\"color:#B84C75\"><strong> for a change</strong></span>.",
+        "ko": "오랜만에 책 좀 읽어볼까",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 4
+      },
+      {
+        "en": "I go jogging in the park all the time.",
+        "ko": "전 조깅하러 늘 공원에 가거든요.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "So, yesterday, I went for a jog around the neighborhood<span style=\"color:#B84C75\"><strong> for a change.</strong></span>",
+        "ko": "그래서 어제는 동네 주변을 한번 달려봤어요",
+        "bold_words": [
+          "for a change."
+        ],
+        "id": 6
+      },
+      {
+        "en": "A: What do you want for breakfast?",
+        "ko": "아침 뭐먹을래?",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "B: I was thinking today maybe we could <span style=\"color:#B84C75\"><strong>go out for a change.</strong></span>",
+        "ko": "오늘은 한번 나가서 먹어보면 어떨까 하는데",
+        "bold_words": [
+          "go out for a change."
+        ],
+        "id": 8
+      },
+      {
+        "en": "A: Really? Where?",
+        "ko": "정말 어디?",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "B: I heard about this place that just opened called Bily Bears.",
+        "ko": "빌리 베어스라고 오픈한 지 얼마 안된 곳이 있다고 들었거든.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "Nothing fancy. But apparently, they have really good pancakes.",
+        "ko": "고급스러운 데는 아닌데 팬케이크가 정말 맛있대.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "A: Sound good. Let me just get my keys.",
+        "ko": "좋아. 열쇠만 챙기자",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "B: actually, how about we walk<span style=\"color:#B84C75\"><strong> for a change</strong></span>? It’s not that far.",
+        "ko": "오랜만에 좀걸으면 어떨까? 그렇게 멀지도 않은데",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 13
+      },
+      {
+        "en": "A: Walk? You? Really? What’s gotten into you today? Did you do something wrong?",
+        "ko": "걸어간다고? 당신이? 진짜? 오늘 왠일이야?",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "For a change 는 문장 맨 끝에 옵니다.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "I’m thinking of getting an Android phone<span style=\"color:#B84C75\"><strong> for a change</strong></span>. I’ve only used",
+        "ko": "안드로이드 폰을 한번 사볼까 하고 있어. 아이폰만 써봤거든",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 16
+      },
+      {
+        "en": "It would be nice to spend some time outdoors<span style=\"color:#B84C75\"><strong> for a change</strong></span>. I’m sure my kids would love it",
+        "ko": "오랜만에 밖에서 시간을 좀 보내는 것도 좋을 것 같아. 아이들이 정말 좋아할거야.",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 17
+      },
+      {
+        "en": "Let’s go to a casual place<span style=\"color:#B84C75\"><strong> for a change</strong></span>. I know this nice, retro-style burger place in that area.",
+        "ko": "오랜만에 캐쥬얼한 데로 가자. 그 동네에 괜찮은 복고풍의 햄버거 가게가 있거든.",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 18
+      },
+      {
+        "en": "Why don’t you let your hair grow<span style=\"color:#B84C75\"><strong> for a change</strong></span>? You’ve never worn it long, right? Aren’t you curious?",
+        "ko": "머리 한번 길러보면 어때? 한번도 길러본적 없지? 궁금하지 않아.",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 19
+      },
+      {
+        "en": "How about we camp out<span style=\"color:#B84C75\"><strong> for a change</strong></span>? It’s been a while. Hasn’t it?",
+        "ko": "오랜만에 야영이나 해볼까? 한지 오래되었지?",
+        "bold_words": [
+          "for a change"
+        ],
+        "id": 20
+      },
+      {
+        "en": "I don’t know about you. But I’m kind of sick of hotels.",
+        "ko": "넌 어떤지 모르겠지만 난 호텔에 좀 질렸어.",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "For a change가 변화를 위한 선택이라면",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "Just for the beck of it은 특별한 이유 없이 심심해서 그냥 해봤다는 뜻",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "I decided to respond to every email I get today<span style=\"color:#487CA5\"><strong>, just for the heck of it</strong></span>. Even spam mails.",
+        "ko": "오늘은 그냥 한번 모든 이메일에 답장을 하기로했어.심지어 스팸메일에도",
+        "bold_words": [
+          ", just for the heck of it"
+        ],
+        "id": 24
+      },
+      {
+        "en": "Hey, you know that gimbap lace we never go to because it’s so dirty. How about we go there today? <span style=\"color:#487CA5\"><strong>Just for the heck of it.</strong></span>",
+        "ko": "하 그 왜. 너무 더러워서 우리가 절대 안가는 김밥집 있잖아. 오늘 그냥 거기 한번 가볼까?",
+        "bold_words": [
+          "Just for the heck of it."
+        ],
+        "id": 25
+      },
+      {
+        "en": "Today, I tried being extra nice to everybody I came in contact with,<span style=\"color:#487CA5\"><strong> just for the heck of it</strong></span>, and you know what? It actually felt really nice.",
+        "ko": "오늘 마주치는 모든 사람들에게 완전 친절하게 그냥 한번 대해봤거든, 근데 기분좋더라.",
+        "bold_words": [
+          "just for the heck of it"
+        ],
+        "id": 26
+      },
+      {
+        "en": "",
+        "ko": "Just for the heck of it을 이렇게 대답할 때 독립적으로 쓸 수 있다.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "A: You know you don’t have to do that here.",
+        "ko": "여기서는 안그래도 되는 거 알지?",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "B: I know",
+        "ko": "알아",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "A: Then, why did you trip the waiter?",
+        "ko": "그러면 웨이터한테 왜 팁을 준거야?",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "B: <span style=\"color:#487CA5\"><strong>Just for the heck of it</strong></span>",
+        "ko": "그냥 한번해봤어",
+        "bold_words": [
+          "Just for the heck of it"
+        ],
+        "id": 31
+      }
+    ]
+  },
+  "UNIT20": {
+    "title": "UNIT 20. 정말 어렵고 까다로운 일을 해냈다는 뜻을 가진 pull off :Can you really pull that off?",
+    "sentences": [
+      {
+        "en": "",
+        "ko": "‘해냈어!“",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "그 일이 어렵고 까다로운 일이라면 pull off.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "문제가 될 만한 일을 걸리지 않고 해냈을 떄는 get away with",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "Seems very tricky. Do you think you can really<span style=\"color:#B84C75\"><strong> pull </strong></span>that<span style=\"color:#B84C75\"><strong> off</strong></span>?",
+        "ko": "엄청 어려울 것 같은데, 정말 할 수 있겠어?",
+        "bold_words": [
+          "pull",
+          "off"
+        ],
+        "id": 4
+      },
+      {
+        "en": "I can’t believe he got away with that for so long.",
+        "ko": "그가 그렇게 오랫동안 걸리지 않고 그랬다는 걸 믿을 수 없어",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "A: Hey,Steven. How about some poker tomorrow night?",
+        "ko": "아 스티븐, 내일 밤 포커 어떄?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: No can do, my friend. I got dinner plans with my parents. I got an 8o’clock.",
+        "ko": "안돼. 부모님이랑 저녁 약속 있어. 루이스에 8시 예약이야.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "A: Louie’s on a Friday night. How did you <span style=\"color:#B84C75\">pull </span>that<span style=\"color:#B84C75\"> off</span>?",
+        "ko": "금요일밤에 루이스라고? 어떻게한거야?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "B: What do you think?",
+        "ko": "뭐겠어?",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "A: You’re kidding right? You made the reservation under a celebrity’s name again? There’s no way you’re going to<span style=\"color:#487CA5\"> get away with</span> in this time. You’re going to get blacklisted.",
+        "ko": "장난이지? 또 연예인 이름대고 예약 잡은거야?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "너 이번에는 그냥 못 넘어갈걸. 너 블랙리스트에 오른다.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "B: We’ll see",
+        "ko": "두고 보면 알겠지",
+        "bold_words": [],
+        "id": 12
+      }
+    ]
+  }
+}

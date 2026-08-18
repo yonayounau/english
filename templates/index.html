@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+{#
+  index.html - 홈/날짜 선택 화면
+  학습한 날짜 목록을 카드 리스트로 표시한다.
+  날짜 카드를 탭하면 해당 날짜의 학습 화면(키워드/연습/나만의 문장)으로 이동한다.
+#}
+
+{% block title %}날짜 선택 - 빨모쌤 영어공부{% endblock %}
+{% block header_title %}📚 빨모쌤 영어공부{% endblock %}
+
+{% block content %}
+
+  <!-- ── 히어로 섹션 ── -->
+  <section class="home-hero">
+    <span class="home-hero-emoji">🎯</span>
+    <h1>빨모쌤과 함께하는 영어공부</h1>
+    <p>날짜를 선택해서 오늘의 학습을 시작하세요!</p>
+  </section>
+
+  <!-- ── Notion 동기화 버튼 ── -->
+  <div style="display:flex; justify-content:center; margin-bottom:24px;">
+    <button class="sync-btn" id="sync-btn" title="Notion에서 최신 데이터를 가져옵니다">
+      <span class="sync-icon">🔄</span>
+      <span class="sync-text">Notion 동기화</span>
+    </button>
+  </div>
+
+  <!-- ── 날짜 목록 ── -->
+  {% if dates %}
+    <!-- ── 검색창: 제목 우선, 키워드 영어 표현도 검색 대상 ── -->
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search-input" class="search-input"
+             placeholder="제목이나 영어 표현으로 검색" autocomplete="off">
+    </div>
+
+    <p class="section-label">📖 학습 기록 ({{ dates|length }}일)</p>
+
+    <p id="search-empty" class="empty-state" style="display:none;">
+      <span class="empty-icon">🔍</span>
+      <span>검색 결과가 없습니다.</span>
+    </p>
+
+    <div class="date-list" id="date-list">
+      {% for date in dates %}
+        {# 날짜 키로 해당 날짜의 학습 데이터 가져오기 #}
+        {% set lesson = lessons[date] %}
+
+        {# 날짜 표시 형식: YYYY-MM-DD → YY/MM/DD #}
+        {% set parts = date.split('-') %}
+        {% set date_display = parts[0][2:] + '/' + parts[1] + '/' + parts[2] %}
+
+        <div class="date-card"
+             data-search-title="{{ (lesson.name or '')|lower }}"
+             data-search-kw="{{ (search_keywords[date] or '')|lower }}">
+          <!-- 날짜 + 유튜브 아이콘 -->
+          <div class="date-card-header">
+            <span class="date-label">📅 {{ date_display }}{% if lesson.name %} <span class="date-name">| {{ lesson.name }}</span>{% endif %}</span>
+            {% if lesson.youtube_url %}
+              {# 유튜브 URL이 있으면 아이콘 클릭 시 새 탭으로 열기 #}
+              <a href="{{ lesson.youtube_url }}"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="youtube-link"
+                 title="유튜브 영상 보기"
+                 onclick="event.stopPropagation()">
+                🎬
+              </a>
+            {% endif %}
+          </div>
+
+          <!-- 문장 수 뱃지 -->
+          <div class="date-card-stats">
+            <span class="stat-badge">키워드 {{ lesson.keywords|length }}문장</span>
+            <span class="stat-badge">나만의 {{ lesson.my_sentences|length }}문장</span>
+          </div>
+
+          <!-- 학습 모드 버튼 (3가지) -->
+          <div class="date-card-actions">
+            <a href="/keywords/{{ date }}"     class="action-btn-small">📖 키워드</a>
+            <a href="/practice/{{ date }}"     class="action-btn-small">🗣️ 연습</a>
+            <a href="/my-sentences/{{ date }}" class="action-btn-small">✍️ 나만의</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+  {% else %}
+    <!-- 날짜 데이터가 없을 때 빈 상태 표시 -->
+    <div class="empty-state">
+      <span class="empty-icon">📭</span>
+      <p>아직 학습 데이터가 없습니다.<br>Notion 동기화 버튼을 눌러주세요!</p>
+    </div>
+  {% endif %}
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  // ============================================================
+  // 날짜 검색 - 제목이 최우선 검색 대상, 키워드 영어 표현도 대상에 포함
+  // ============================================================
+  document.addEventListener('DOMContentLoaded', () => {
+    const input      = document.getElementById('search-input');
+    const dateList    = document.getElementById('date-list');
+    const emptyState = document.getElementById('search-empty');
+    if (!input || !dateList) return;
+
+    // 원래(최신순) 카드 순서를 기억해뒀다가 검색어를 지우면 그대로 복원한다
+    const originalOrder = Array.from(dateList.querySelectorAll('.date-card'));
+
+    input.addEventListener('input', () => {
+      const query = input.value.trim().toLowerCase();
+
+      if (!query) {
+        originalOrder.forEach(card => {
+          card.style.display = '';
+          dateList.appendChild(card);
+        });
+        emptyState.style.display = 'none';
+        return;
+      }
+
+      const titleMatches   = [];
+      const keywordMatches = [];
+      const noMatches      = [];
+
+      originalOrder.forEach(card => {
+        const title = card.dataset.searchTitle || '';
+        const kw    = card.dataset.searchKw || '';
+        if (title.includes(query)) {
+          titleMatches.push(card);
+        } else if (kw.includes(query)) {
+          keywordMatches.push(card);
+        } else {
+          noMatches.push(card);
+        }
+      });
+
+      // 제목 매치를 최우선으로, 그 다음 키워드 영어 표현 매치 순으로 재배치
+      [...titleMatches, ...keywordMatches, ...noMatches].forEach(card => dateList.appendChild(card));
+
+      titleMatches.forEach(card => { card.style.display = ''; });
+      keywordMatches.forEach(card => { card.style.display = ''; });
+      noMatches.forEach(card => { card.style.display = 'none'; });
+
+      emptyState.style.display = (titleMatches.length + keywordMatches.length === 0) ? '' : 'none';
+    });
+  });
+</script>
+{% endblock %}

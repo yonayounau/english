@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{#
+  book_units.html - 책공부 UNIT 목차 화면
+  빨모쌤의 라이브 영어회화 UNIT 16~75 목록을 그리드로 표시한다.
+  UNIT 카드를 탭하면 해당 UNIT 상세 학습 화면으로 이동한다.
+#}
+
+{% block title %}책공부 - 빨모쌤 영어공부{% endblock %}
+{% block header_title %}📚 책공부하기{% endblock %}
+
+{% block content %}
+
+  <!-- ── 책공부 히어로 섹션 ── -->
+  <div class="book-hero">
+    <span class="book-hero-emoji">📖</span>
+    <h1>빨모쌤의 라이브 영어회화</h1>
+    <p>UNIT을 선택해서 학습을 시작하세요</p>
+  </div>
+
+  <!-- ── UNIT 목차 그리드 ── -->
+  {% if units %}
+    <p class="section-label">📋 UNIT 목록 ({{ units|length }}개)</p>
+
+    <div class="unit-grid">
+      {% for unit_id, unit_data in units %}
+        <a href="/book/{{ unit_id }}" class="unit-card" id="unit-card-{{ unit_id }}">
+          {# UNIT 번호 표시 (예: UNIT16 → UNIT 16) #}
+          <div class="unit-num">
+            UNIT {{ unit_id.replace('UNIT', '') }}
+          </div>
+          {# UNIT 제목 #}
+          <div class="unit-title">{{ unit_data.title }}</div>
+          {# 문장 수 표시 #}
+          <div class="unit-count">{{ unit_data.sentences|length }}문장</div>
+        </a>
+      {% endfor %}
+    </div>
+
+  {% else %}
+    <!-- UNIT 데이터가 없을 때 빈 상태 -->
+    <div class="empty-state">
+      <span class="empty-icon">📭</span>
+      <p>책공부 데이터가 없습니다.<br>Notion 동기화를 먼저 진행해주세요.</p>
+    </div>
+  {% endif %}
+
+{% endblock %}

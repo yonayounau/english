@@ -1,0 +1,143 @@
+{% extends "base.html" %}
+{#
+  book_unit_detail.html - 책공부 UNIT 상세 학습 화면
+  선택한 UNIT의 문장을 SentencePlayer로 순차 학습한다.
+  Notion bold 텍스트는 <strong> 태그로 황금색 표시된다.
+#}
+
+{% block title %}{{ unit.title }} - 빨모쌤 영어공부{% endblock %}
+{% block header_title %}{{ unit.title }}{% endblock %}
+{% set show_back = true %}
+
+{% block content %}
+
+  <!-- UNIT 순차 학습 플레이어 화면 -->
+  <div class="player-screen">
+
+    <!-- ── 진행 상황 바 ── -->
+    <div class="progress-area">
+      <div class="progress-info">
+        <span class="progress-count" id="progress-count">1 / {{ unit.sentences|length }}</span>
+        <span class="progress-percent" id="progress-percent">0%</span>
+      </div>
+      <div class="progress-bar-track">
+        <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
+      </div>
+    </div>
+
+    <!-- ── 문장 카드 ── -->
+    <div class="sentence-card" id="sentence-card" role="button" tabindex="0">
+      <p class="sentence-en" id="sentence-en">
+        {# 첫 문장 초기 표시 (bold words는 <strong> 태그로 래핑됨) #}
+        {{ unit.sentences[0].en|safe if unit.sentences else '문장이 없습니다.' }}
+      </p>
+      <p class="sentence-ko" id="sentence-ko">
+        {{ unit.sentences[0].ko if unit.sentences else '' }}
+      </p>
+      <span class="tap-hint">탭하면 다음 문장 →</span>
+    </div>
+
+    <!-- ── 컨트롤 ── -->
+    <div class="player-controls">
+
+      <!-- 이전 | TTS재생 | 다음 -->
+      <div class="controls-row">
+        <button class="ctrl-btn" id="prev-btn" aria-label="이전 문장">◀</button>
+        <button class="tts-play-btn" id="tts-play-btn" aria-label="TTS 재생">▶</button>
+        <button class="ctrl-btn" id="next-btn" aria-label="다음 문장">▶</button>
+      </div>
+
+      <!-- 속도 + 한국어 토글 + 목차 -->
+      <div class="controls-row">
+        <div class="speed-control">
+          <button class="speed-btn" id="speed-down" aria-label="속도 낮추기">−</button>
+          <span class="speed-label">속도</span>
+          <span class="speed-value" id="speed-value">1.00x</span>
+          <button class="speed-btn" id="speed-up" aria-label="속도 올리기">＋</button>
+        </div>
+        <button class="ko-toggle-btn active" id="ko-toggle-btn" aria-label="한국어 표시 토글">
+          🇰🇷 <span class="toggle-text">한국어 ON</span>
+        </button>
+        <button class="toc-btn" id="toc-btn" aria-label="목차 보기">
+          ☰ <span>목차</span>
+        </button>
+      </div>
+
+    </div>
+
+    <!-- ── UNIT 이전/다음 네비게이션 ── -->
+    <div class="controls-row" style="margin-top:8px; gap:8px;">
+      {% if prev_unit %}
+        <a href="/book/{{ prev_unit }}"
+           class="action-btn-small"
+           style="flex:1; display:flex; align-items:center; justify-content:center; gap:4px;"
+           onclick="ttsControl.stop()">
+          ← {{ prev_unit }}
+        </a>
+      {% else %}
+        <!-- 이전 UNIT 없으면 빈 공간 -->
+        <span style="flex:1;"></span>
+      {% endif %}
+
+      <!-- 목차로 돌아가기 -->
+      <a href="/book"
+         class="action-btn-small"
+         style="flex:0; padding:7px 16px; white-space:nowrap;"
+         onclick="ttsControl.stop()">
+        📚 목차
+      </a>
+
+      {% if next_unit %}
+        <a href="/book/{{ next_unit }}"
+           class="action-btn-small"
+           style="flex:1; display:flex; align-items:center; justify-content:center; gap:4px;"
+           onclick="ttsControl.stop()">
+          {{ next_unit }} →
+        </a>
+      {% else %}
+        <span style="flex:1;"></span>
+      {% endif %}
+    </div>
+
+  </div><!-- /.player-screen -->
+
+  <!-- ── 목차 모달 ── -->
+  <div class="modal-overlay" id="toc-modal" role="dialog" aria-modal="true">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">📚 {{ unit.title }} 목차</h3>
+        <button class="modal-close-btn" id="toc-close-btn">✕</button>
+      </div>
+      <div class="toc-list" id="toc-list"></div>
+    </div>
+  </div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  // ============================================================
+  // 책공부 UNIT 상세 화면 초기화
+  // ============================================================
+
+  // 서버에서 문장 데이터를 JS 배열로 변환
+  const SENTENCES = {{ unit.sentences | tojson }};
+
+  document.addEventListener('DOMContentLoaded', () => {
+    if (!SENTENCES || SENTENCES.length === 0) {
+      document.getElementById('sentence-card').innerHTML =
+        '<p style="color:#94a3b8;">문장이 없습니다.</p>';
+      return;
+    }
+
+    // SentencePlayer 초기화 (공용 컴포넌트 재사용)
+    const player = new SentencePlayer(SENTENCES, ttsControl);
+
+    // 속도 조절 UI 초기화
+    initSpeedControl(ttsControl);
+
+    // 한국어 토글 초기화
+    const koToggle = new KoEnToggle('#ko-toggle-btn', '#sentence-ko');
+  });
+</script>
+{% endblock %}

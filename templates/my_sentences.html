@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+{#
+  my_sentences.html - 나만의 문장 화면
+  keywords.html과 동일한 UI/컴포넌트 구조,
+  데이터만 lesson.my_sentences 사용.
+#}
+
+{% block title %}나만의 문장 {{ date }} - 빨모쌤 영어공부{% endblock %}
+
+{% set parts = date.split('-') %}
+{% set date_display = parts[0][2:] + '/' + parts[1] + '/' + parts[2] %}
+
+{% block header_title %}✍️ 나만의 문장{% endblock %}
+{% block header_badge %}
+  <span class="header-date-badge">{{ date_display }}</span>
+{% endblock %}
+
+{% set show_back = true %}
+
+{% block content %}
+
+  <!-- 문장 플레이어 화면 (keywords.html과 동일 구조) -->
+  <div class="player-screen">
+
+    <!-- ── 진행 상황 표시 바 ── -->
+    <div class="progress-area">
+      <div class="progress-info">
+        <span class="progress-count" id="progress-count">1 / {{ sentences|length }}</span>
+        <span class="progress-percent" id="progress-percent">0%</span>
+      </div>
+      <div class="progress-bar-track">
+        <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
+      </div>
+    </div>
+
+    <!-- ── 문장 카드 ── -->
+    <div class="sentence-card" id="sentence-card" role="button" tabindex="0">
+      <p class="sentence-en" id="sentence-en">
+        {{ sentences[0].en|safe if sentences else '나만의 문장이 없습니다.' }}
+      </p>
+      <p class="sentence-ko" id="sentence-ko">
+        {{ sentences[0].ko if sentences else '' }}
+      </p>
+      <span class="tap-hint">탭하면 다음 문장 →</span>
+    </div>
+
+    <!-- ── 컨트롤 영역 ── -->
+    <div class="player-controls">
+
+      <!-- 이전 | TTS재생 | 다음 -->
+      <div class="controls-row">
+        <button class="ctrl-btn" id="prev-btn" aria-label="이전 문장">◀</button>
+        <button class="tts-play-btn" id="tts-play-btn" aria-label="TTS 재생">▶</button>
+        <button class="ctrl-btn" id="next-btn" aria-label="다음 문장">▶</button>
+      </div>
+
+      <!-- 속도 + 한국어 토글 + 목차 -->
+      <div class="controls-row">
+        <div class="speed-control">
+          <button class="speed-btn" id="speed-down" aria-label="속도 낮추기">−</button>
+          <span class="speed-label">속도</span>
+          <span class="speed-value" id="speed-value">1.00x</span>
+          <button class="speed-btn" id="speed-up" aria-label="속도 올리기">＋</button>
+        </div>
+        <button class="ko-toggle-btn active" id="ko-toggle-btn" aria-label="한국어 표시 토글">
+          🇰🇷 <span class="toggle-text">한국어 ON</span>
+        </button>
+        <button class="toc-btn" id="toc-btn" aria-label="목차 보기">
+          ☰ <span>목차</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── 목차 모달 ── -->
+  <div class="modal-overlay" id="toc-modal" role="dialog" aria-modal="true">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">✍️ 나만의 문장 목차</h3>
+        <button class="modal-close-btn" id="toc-close-btn">✕</button>
+      </div>
+      <div class="toc-list" id="toc-list"></div>
+    </div>
+  </div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  // ============================================================
+  // 나만의 문장 화면 초기화 (keywords.html과 동일한 구조)
+  // ============================================================
+
+  // my_sentences 데이터를 JS 배열로 변환
+  const SENTENCES = {{ sentences | tojson }};
+
+  document.addEventListener('DOMContentLoaded', () => {
+    if (!SENTENCES || SENTENCES.length === 0) {
+      document.getElementById('sentence-card').innerHTML =
+        '<p style="color:#94a3b8;">나만의 문장이 없습니다.</p>';
+      return;
+    }
+
+    // SentencePlayer 초기화 (keywords.html과 동일 컴포넌트 재사용)
+    const player = new SentencePlayer(SENTENCES, ttsControl);
+
+    // 속도 조절 UI 초기화
+    initSpeedControl(ttsControl);
+
+    // 한국어 토글 초기화
+    const koToggle = new KoEnToggle('#ko-toggle-btn', '#sentence-ko');
+  });
+</script>
+{% endblock %}
