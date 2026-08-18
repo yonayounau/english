@@ -798,7 +798,7 @@ def sync_book_db():
     Notion 책 학습 페이지 블록을 파싱하여 data/book_units.json 저장.
 
     [업데이트 v1 변경사항]
-    - NOTION_DB_ID_BOOK (712a0f395aad4dd1a399a844fa97656b)는 실제로 Notion 페이지 ID
+    - NOTION_DB_ID_BOOK 값은 실제로는 DB ID가 아니라 Notion 페이지 ID
     - 해당 페이지의 모든 블록을 직접 가져와 heading_3 기준으로 UNIT 분류
     - bulleted_list_item, numbered_list_item, paragraph 등 다양한 블록 타입 파싱
     - 들여쓰기된 자식 블록 재귀 처리

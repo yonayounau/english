@@ -9,6 +9,13 @@ on:
 permissions:
   contents: write
 
+# 두 실행이 겹치면(예: 스케줄 실행 중 수동으로 또 실행) 같은 브랜치에 동시에
+# 커밋·푸시를 시도해 "fetch first" 충돌이 난다. 동시 실행을 막고, 겹치면
+# 취소하지 않고 순서대로 대기시킨다.
+concurrency:
+  group: notion-sync
+  cancel-in-progress: false
+
 jobs:
   sync-and-build:
     runs-on: ubuntu-latest
@@ -41,7 +48,18 @@ jobs:
           git add data docs
           if git diff --cached --quiet; then
             echo "변경사항 없음, 커밋 생략"
-          else
-            git commit -m "chore: daily Notion sync ($(date -u +%Y-%m-%d))"
-            git push
+            exit 0
           fi
+          git commit -m "chore: daily Notion sync ($(date -u +%Y-%m-%d))"
+
+          # concurrency로 동시 실행은 막았지만, 그 사이 다른 경로(예: 로컬에서
+          # 직접 push)로 main이 앞서갔을 가능성에 대비해 재시도한다.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "푸시 실패 (시도 $attempt/3), origin/main을 반영해 재시도합니다..."
+            git pull --rebase origin main
+          done
+          echo "3회 재시도 후에도 푸시 실패"
+          exit 1
