@@ -2181,8 +2181,8 @@
         "id": 4
       },
       {
-        "en": "",
-        "ko": "A: What should we put this?이건 어디에 둘까?",
+        "en": "A: What should we put this?",
+        "ko": "이건 어디에 둘까?",
         "bold_words": [],
         "id": 5
       },
@@ -2195,21 +2195,19 @@
         "id": 6
       },
       {
-        "en": "",
-        "ko": "A  Oh. That’s a good idea아 그거 좋은 생각이네",
+        "en": "A  Oh. That’s a good idea",
+        "ko": "아 그거 좋은 생각이네",
         "bold_words": [],
         "id": 7
       },
       {
-        "en": "We have all that space down in the basement. We should try to <span style=\"color:#B84C75\"><strong>make use of</strong></span> it.",
-        "ko": "B: Yeah. We hardly ever use that table anyway. 응, 어처피 저 테이블은 거의 쓰지도 않으니까",
-        "bold_words": [
-          "make use of"
-        ],
+        "en": "B: Yeah. We hardly ever use that table anyway.",
+        "ko": "응, 어처피 저 테이블은 거의 쓰지도 않으니까",
+        "bold_words": [],
         "id": 8
       },
       {
-        "en": "It is a good way to <span style=\"color:#B84C75\"><strong>make use of </strong></span>all the extra plastic bags that you might have lying around",
+        "en": "We have all that space down in the basement. We should try to <span style=\"color:#B84C75\"><strong>make use of</strong></span> it.",
         "ko": "지하에 그 많은 공간이 다 있잖아. 활용해봐야지",
         "bold_words": [
           "make use of"
@@ -2217,7 +2215,7 @@
         "id": 9
       },
       {
-        "en": "I prefer to commute using public transportation. I can <span style=\"color:#B84C75\"><strong>make use of</strong></span> the time to do some reading.",
+        "en": "It is a good way to <span style=\"color:#B84C75\"><strong>make use of </strong></span>all the extra plastic bags that you might have lying around",
         "ko": "집에 남아도는 비닐봉투를 활용하기에 참 좋은 방법이야",
         "bold_words": [
           "make use of"
@@ -2225,7 +2223,7 @@
         "id": 10
       },
       {
-        "en": "I wish there was a way to <span style=\"color:#B84C75\"><strong>make use of </strong></span>it. It seems like such a w to just throw it out.",
+        "en": "I prefer to commute using public transportation. I can <span style=\"color:#B84C75\"><strong>make use of</strong></span> the time to do some reading.",
         "ko": "저는 대중교통으로 출퇴근하는 걸 더 좋아해요. 그 시간을 활용해서 독서를 할 수 있거든요.",
         "bold_words": [
           "make use of"
@@ -2233,7 +2231,7 @@
         "id": 11
       },
       {
-        "en": "It’s a shame that we hardly actually <span style=\"color:#B84C75\"><strong>make use of</strong></span> the things we learned in school.",
+        "en": "I wish there was a way to <span style=\"color:#B84C75\"><strong>make use of </strong></span>it. It seems like such a w to just throw it out.",
         "ko": "이걸 활용하는 방법이 좀 있었으면 좋겠다. 그냥 버리기는 좀 아까운데",
         "bold_words": [
           "make use of"
@@ -2241,9 +2239,11 @@
         "id": 12
       },
       {
-        "en": "",
+        "en": "It’s a shame that we hardly actually <span style=\"color:#B84C75\"><strong>make use of</strong></span> the things we learned in school.",
         "ko": "학교에서 배운 것들을 실제로 활용할 일이 거의 없다는 게 참 암타까워요.",
-        "bold_words": [],
+        "bold_words": [
+          "make use of"
+        ],
         "id": 13
       },
       {
@@ -3219,7 +3219,7 @@
       },
       {
         "en": "I can’t explain it, but I’m having<span style=\"color:#B84C75\"><strong> one of those days </strong></span>where I feel like I have all the answers",
-        "ko": "",
+        "ko": "내가 설명은 못하겠는데, 오늘 왠지 모든 것에 대한 정답을 다 가지고 있는 것 같은 그런 날이거든",
         "bold_words": [
           "one of those days"
         ],
@@ -3227,31 +3227,25 @@
       },
       {
         "en": "So just trust me on this.",
-        "ko": "내가 설명은 못하겠는데, 오늘 왠지 모든 것에 대한 정답을 다 가지고 있는 것 같은 그런 날이거든",
+        "ko": "그러니까 이건 나만 믿어",
         "bold_words": [],
         "id": 27
       },
       {
-        "en": "",
-        "ko": "그러니까 이건 나만 믿어",
-        "bold_words": [],
-        "id": 28
-      },
-      {
         "en": "I’m just upset about this morning, I and my friend had argument, It was just <span style=\"color:#B84C75\"><strong>one of those things </strong></span>that you fight over for nothing. you know?",
-        "ko": "오늘 아침에 있었던 일 때문에 그냥 속상해서 남자친구랑 좀 다퉜거든, 아무것도 아닌 것 가지고 싸우는 그런거 있잖아",
+        "ko": "오늘 아침에 있었던 일 때문에 그냥 속상해서 남자친구랑 좀 다퉜거든, 아무것도 아닌 것 가지고 싸우는 그런 거 있잖아",
         "bold_words": [
           "one of those things"
         ],
-        "id": 29
+        "id": 28
       },
       {
         "en": "Hmm. I’ll bet It’s<span style=\"color:#B84C75\"><strong> one of those place</strong></span> that dazzle you with fancy name and introduction, and then serve you really crappy food",
-        "ko": "흠, 내가 장담하는데 화려한 이름이랑 소개로 꼬신다음에 완전 별로인 음식만 주는 그런곳 일거야.",
+        "ko": "흠, 내가 장담하는데 화려한 이름이랑 소개로 꼬신 다음에 완전 별로인 음식만 주는 그런곳 일거야.",
         "bold_words": [
           "one of those place"
         ],
-        "id": 30
+        "id": 29
       }
     ]
   },
