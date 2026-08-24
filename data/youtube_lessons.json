@@ -194690,5 +194690,480 @@
         "id": 45
       }
     ]
+  },
+  "2026-08-24": {
+    "name": "[ 기초영어 대화가이드 ] 걔답다. 걔는 항상 늦어. 자꾸 교통이랑 날씨 핑계를 대.",
+    "youtube_url": "https://youtu.be/jjiFraI-YWU?si=JWKsJscT0DPsICVP",
+    "keywords": [
+      {
+        "en": "A: Well, it looks like Brandon is <span style=\"color:#8A67AB\"><strong>running late.</strong></span>",
+        "ko": "브랜든 늦으려는 모양이네",
+        "bold_words": [
+          "running late."
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "it looks like 완성된 문장: 완성된 문장 처럼 보인다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "be late 늦은 상태를 얘기함",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "be running late 늦어지고 있는 상황, 아직 완전 늦은 건 아니지만",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "B: Yeah. that’s Brandon",
+        "ko": "응, 역시 브랜든 다운 일이네.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "A: Oh, is he late often?",
+        "ko": "아, 걔 자주 늦어?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: <span style=\"color:#8A67AB\"><strong>He’s never on time</strong></span>. <span style=\"color:#8A67AB\"><strong>Every time</strong></span> we get together, he’s at least half an hour late",
+        "ko": "걔는 제 때 오는 법이 없었어. 만날 때마다 최소 30분 늦어",
+        "bold_words": [
+          "He’s never on time",
+          "Every time"
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "He’s never on time = He’s always late 제때 하지 않는다 = 늦다",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "A: Why don’t you say something?",
+        "ko": "뭐라고 좀 하지 그래?",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "B: I do but he<span style=\"color:#8A67AB\"><strong> keeps</strong></span> blami<span style=\"color:#8A67AB\"><strong>ng</strong></span> the traffic and blam<span style=\"color:#8A67AB\"><strong>ing</strong></span> the weather. He always has a reason.",
+        "ko": "하는 데 자꾸 교통이나 날씨 핑계를 대. 항상 이유가 있어.",
+        "bold_words": [
+          "keeps",
+          "ng",
+          "ing"
+        ],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "keep -ing 반복해서 말하는 것",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "A: Well, it looks like Brandon is running late.",
+        "ko": "always has a reason 항상 이유를 댄다.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "B: Yeah. that’s Brandon.",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "A: Oh, is he late often?",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "B: He’s never on time. Every time we get together",
+        "ko": "",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "he’s at least half an hour late.",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "A: Why don’t you say something?",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "B: I do but he keeps blaming the traffic and blaming the weather.",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "He always has a reason.",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "It looks like + 완전한 문장 : ~인 것 같아 / ~처럼 보여",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "→ 눈으로 보거나 현재 상황을 보고 “~인 것 같아”라고 추측할 때 자연스러워.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "It looks like we're going to be late.",
+        "ko": "우리 늦을 것 같아.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "It looks like she's still working.",
+        "ko": "그녀는 아직 일하고 있는 것 같아.",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "It looks like it's going to rain.",
+        "ko": "비가 올 것 같아.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "It looks like he forgot about the meeting.",
+        "ko": "그가 회의를 잊어버린 것 같아.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "<strong>be running late</strong>",
+        "ko": "늦어지고 있다 / 예정 시간보다 늦을 것 같다(be late와 미묘하게 다르다.)",
+        "bold_words": [
+          "be running late"
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "He’s late. → 이미 늦었어.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "He’s running late. → 원래 예정된 시간보다 늦어지고 있어.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "즉, 아직 도착하지 않았지만 예상보다 늦어지고 있는 상황에서 특히 자연스러워.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "I'm running late.",
+        "ko": "나 늦고 있어.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "She's running late for work.",
+        "ko": "그녀는 출근이 늦어지고 있어",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "Sorry, I'm running a little late.",
+        "ko": "미안, 내가 좀 늦고 있어.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "The train is running late.",
+        "ko": "기차가 연착되고 있어.",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "<strong>3. be on time</strong>",
+        "ko": "제시간에 오다 / 제시간에 하다",
+        "bold_words": [
+          "3. be on time"
+        ],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "→ on time = 예정된 시간에 정확히",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "둘은 의미가 거의 비슷하지만 never on time은“제시간에 오는 법이 없다”라는 느낌이 강해.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "I always try to be on time.",
+        "ko": "나는 항상 제시간에 오려고 해.",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "She was right on time.",
+        "ko": "그녀는 딱 제시간에 왔어.",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "He’s never on time for meetings.",
+        "ko": "그는 회의에 제시간에 오는 법이 없어.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "Make sure you’re on time tomorrow.",
+        "ko": "내일은 꼭 제시간에 와.",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "Every time + 문장 : ~할 때마다",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "Every time I call her, she’s busy.",
+        "ko": "내가 그녀에게 전화할 때마다 그녀는 바빠.",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "Every time we meet, he talks about work.",
+        "ko": "우리가 만날 때마다 그는 일 얘기를 해.",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "Every time I eat this, my stomach hurts.",
+        "ko": "이걸 먹을 때마다 배가 아파.",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "Every time it rains, the traffic gets worse.",
+        "ko": "비가 올 때마다 교통이 더 안 좋아져.",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "<strong>keep + -ing</strong>",
+        "ko": "계속 / 자꾸 ~하다",
+        "bold_words": [
+          "keep + -ing"
+        ],
+        "id": 27
+      },
+      {
+        "en": "",
+        "ko": "→ keep + -ing는 같은 행동이 반복되는 느낌이야.",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "",
+        "ko": "특히 상대방이 계속 똑같은 행동을 해서 짜증나거나 불만스러울 때 자주 사용해.",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "<strong>He keeps blaming the traffic and blaming the weather.</strong>",
+        "ko": "그는 계속 교통이나 날씨 탓을 해.",
+        "bold_words": [
+          "He keeps blaming the traffic and blaming the weather."
+        ],
+        "id": 30
+      },
+      {
+        "en": "He keeps making excuses.",
+        "ko": "그는 계속 핑계를 대.",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "She keeps asking the same question.",
+        "ko": "그녀는 계속 같은 질문을 해.",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "My phone keeps losing connection.",
+        "ko": "내 폰이 계속 연결이 끊겨.",
+        "bold_words": [],
+        "id": 33
+      },
+      {
+        "en": "Why do you keep complaining?",
+        "ko": "너 왜 계속 불평해?",
+        "bold_words": [],
+        "id": 34
+      },
+      {
+        "en": "<strong>have a reason</strong>",
+        "ko": "이유가 있다 / 핑계를 대다",
+        "bold_words": [
+          "have a reason"
+        ],
+        "id": 35
+      },
+      {
+        "en": "",
+        "ko": "→ 여기서는 단순히 “이유가 있다”보다는 “항상 무슨 핑계가 하나씩 있어”라는 뉘앙스로 사용됐어.",
+        "bold_words": [],
+        "id": 36
+      },
+      {
+        "en": "<strong>He always has a reason.</strong>",
+        "ko": "그는 항상 이유가 있어.",
+        "bold_words": [
+          "He always has a reason."
+        ],
+        "id": 37
+      },
+      {
+        "en": "He always has a reason for being late.",
+        "ko": "그는 늦을 때마다 항상 이유가 있어.",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "She always has an excuse.",
+        "ko": "그녀는 항상 핑계가 있어.",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "There’s always a reason why he can’t come.",
+        "ko": "그가 못 오는 데는 항상 이유가 있어.",
+        "bold_words": [],
+        "id": 40
+      },
+      {
+        "en": "He has a reason for everything.",
+        "ko": "그는 모든 일에 다 이유가 있어.",
+        "bold_words": [],
+        "id": 41
+      },
+      {
+        "en": "",
+        "ko": "⭐ late vs. running late 이 둘은 꼭 구분해두자.",
+        "bold_words": [],
+        "id": 42
+      },
+      {
+        "en": "<strong>I'm late.</strong>",
+        "ko": "→ 나 늦었어.  → 이미 늦은 상태.",
+        "bold_words": [
+          "I'm late."
+        ],
+        "id": 43
+      },
+      {
+        "en": "<strong>I'm running late.</strong>",
+        "ko": "→ 나 늦고 있어. / 나 좀 늦을 것 같아.",
+        "bold_words": [
+          "I'm running late."
+        ],
+        "id": 44
+      },
+      {
+        "en": "<strong>Sorry, I'm running a little late.</strong>",
+        "ko": "→ 약속 시간에 맞춰 도착하지 못할 것 같은 상황.",
+        "bold_words": [
+          "Sorry, I'm running a little late."
+        ],
+        "id": 45
+      },
+      {
+        "en": "",
+        "ko": "미안, 나 좀 늦을 것 같아.",
+        "bold_words": [],
+        "id": 46
+      },
+      {
+        "en": "",
+        "ko": "이 표현이 정말 자연스러워.",
+        "bold_words": [],
+        "id": 47
+      },
+      {
+        "en": "",
+        "ko": "⭐ keep -ing + 부정적인 반복",
+        "bold_words": [],
+        "id": 48
+      },
+      {
+        "en": "He keeps <strong>making excuses.</strong>",
+        "ko": "이번 문장처럼 keep -ing는 불평할 때 특히 많이 나와.",
+        "bold_words": [
+          "making excuses."
+        ],
+        "id": 49
+      },
+      {
+        "en": "She keeps <strong>interrupting me.</strong>",
+        "ko": "계속 핑계를 대.",
+        "bold_words": [
+          "interrupting me."
+        ],
+        "id": 50
+      },
+      {
+        "en": "He keeps <strong>forgetting things.</strong>",
+        "ko": "계속 내 말을 끊어.",
+        "bold_words": [
+          "forgetting things."
+        ],
+        "id": 51
+      },
+      {
+        "en": "My computer keeps <strong>freezing.</strong>",
+        "ko": "계속 뭔가를 잊어버려.",
+        "bold_words": [
+          "freezing."
+        ],
+        "id": 52
+      },
+      {
+        "en": "",
+        "ko": "컴퓨터가 계속 멈춰.",
+        "bold_words": [],
+        "id": 53
+      }
+    ]
   }
 }
