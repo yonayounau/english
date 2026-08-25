@@ -195165,5 +195165,454 @@
         "id": 53
       }
     ]
+  },
+  "2026-08-25": {
+    "name": "영어 구동사 - turn out",
+    "youtube_url": "https://youtu.be/QcrVKCnpKlo?si=8gA2EJRLMgO2g7kY",
+    "keywords": [
+      {
+        "en": "I thought<strong> </strong>she was a student but it <span style=\"color:#487CA5\"><strong>turned out </strong></span>she<strong> </strong><span style=\"color:#548164\"><strong>was</strong></span> married and<strong> </strong><span style=\"color:#548164\"><strong>had</strong></span> two kids",
+        "ko": "난 그 여자가 학생인줄알았는데 알고보니 결혼도 하고 아이도 둘이나 있더라고",
+        "bold_words": [
+          "turned out",
+          "was",
+          "had"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "→ 과거형으로 사용하는 건 그 사실이 들어난 게 과거 시점이라서 사용",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "(but it <span style=\"color:#487CA5\"><strong>turns out</strong></span> she<strong> is </strong>married and <strong>has</strong> two kids)",
+        "ko": "→ 같은 표현이지만 시제를 달리 사용해서 현재형으로 사용해도 되지만  방금 안 사실에 대해 이야기하는 느낌",
+        "bold_words": [
+          "turns out",
+          "is",
+          "has"
+        ],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "(문법적으로는 틀리지만 많이 사용되는 방식 but it turns out she was married and had two kids)",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "I thought she <span style=\"color:#487CA5\"><strong>had</strong></span> completely<span style=\"color:#487CA5\"><strong> forgotten </strong></span>about Valentine’s Day but it <span style=\"color:#487CA5\"><strong>turned(turns) out </strong></span>she<span style=\"color:#548164\"><strong> was planning</strong></span> a surprise for me.",
+        "ko": "난 그녀가 발렌타인 데이에 대해서 완전히 까먹은 줄 알았는데 알고보니  나를 위해 서프라이즈를 준비하고 있었더라고",
+        "bold_words": [
+          "had",
+          "forgotten",
+          "turned(turns) out",
+          "was planning"
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>It turned out...</strong>",
+        "ko": "→ had forgotten은 대 과거, 내가 안 지점 이전에서 되었었던 거니까./과거진행을 사용한이유는 과거에만",
+        "bold_words": [
+          "It turned out..."
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>It turns out...</strong>",
+        "ko": "→ 과거에 알게 된 사실을 이야기",
+        "bold_words": [
+          "It turns out..."
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "→ 지금 방금 알게 된 사실이나 현재 밝혀진 사실을 이야기",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "[합쳐서 사용하기(본문장에 동사로 사용하기)]",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I wasn’t expecting much, but the movie<span style=\"color:#487CA5\"><strong> turned out</strong></span><span style=\"color:#487CA5\"><strong> </strong></span>to be great",
+        "ko": "나는 별로 기대안하고 있었는데, 영화가 정말 재미있더라",
+        "bold_words": [
+          "turned out"
+        ],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "(기본형the movie was great + turn out)",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "→ 예상치 못한 것들을 발견했을 때 사용/ 영화를 봐야만 아는 내역이라 과거형을 써서 사용한다.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I don’t really enjoy reading, so I wasn’t expecting much. but the book <span style=\"color:#487CA5\"><strong>turned out</strong></span> to be really fun/good",
+        "ko": "나는 독서를 즐겨서 하는 편이 아니라서 별 기대 안하고 있었는데, 책이 정말 재미있더라.",
+        "bold_words": [
+          "turned out"
+        ],
+        "id": 13
+      },
+      {
+        "en": "I don’t normally enjoy going to parties, so I wasn’t really expecting much.",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "But it <span style=\"color:#487CA5\"><strong>turned out</strong></span><span style=\"color:#487CA5\"><strong> </strong></span>to be really fun.",
+        "ko": "보통 파티가는 것을 즐기는 편은 아니어서 별로 기대는 안했는데, 정말 재미있었어",
+        "bold_words": [
+          "turned out"
+        ],
+        "id": 15
+      },
+      {
+        "en": "I  thought she was a student, It turned out she was married and had two kids",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "I thought she had completely forgotten about Valentine’s Day but it turned out she was planning a surprise for me.",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "I wasn’t expecting much, but the movie turned out to be great.",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "I don’t really enjoy reading, so I wasn’t expecting much. But the book turned out to be really fun/good",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "I don’t normally enjoy going to parties,",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "so I wasn’t really expecting much, but it turned out to be really(a lot of)fun",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "It turns out (that) + 문장 : 알고 보니 ~더라 / 알고 보니 ~였다",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "→ 처음에는 몰랐거나 다르게 생각했는데, 나중에 실제 사실을 알게 된 상황에서 사용해.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "📌 turn out 자체가 과거형일 필요는 없어.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "<strong>I  thought he was single, but it turned out he was married.</strong>",
+        "ko": "나는 그가 미혼인 줄 알았는데, 알고 보니 결혼했더라고I thought she lived in",
+        "bold_words": [
+          "I  thought he was single, but it turned out he was married."
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>I though she  eoul, but it turned out she lived in Busan.</strong>",
+        "ko": "나는 그녀가 서울에 사는 줄 알았는데, 알고 보니 부산에 살더라고.",
+        "bold_words": [
+          "I though she  eoul, but it turned out she lived in Busan."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>We thought the restaurant was closed, but it turned out it was still open.</strong>",
+        "ko": "우리는 그 식당이 문 닫은 줄 알았는데, 알고 보니 아직 열려 있더라고.",
+        "bold_words": [
+          "We thought the restaurant was closed, but it turned out it was still open."
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>It turns out he knows my brother.</strong>",
+        "ko": "알고 보니 그가 내 동생을 알고 있더라고.",
+        "bold_words": [
+          "It turns out he knows my brother."
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>I thought A, but it turned out B</strong>",
+        "ko": "이 구조가 가장 중요해.",
+        "bold_words": [
+          "I thought A, but it turned out B"
+        ],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "I thought + 내가 알고 있던 것",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "but it turned out + 실제 사실",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "<strong>I thought the meeting was tomorrow, but it turned out it was today.</strong>",
+        "ko": "회의가 내일인 줄 알았는데, 알고 보니 오늘이었어.",
+        "bold_words": [
+          "I thought the meeting was tomorrow, but it turned out it was today."
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>I thought she was a new employee, but it turned out she had been working there for years.</strong>",
+        "ko": "그녀가 신입사원인 줄 알았는데, 알고 보니 거기서 몇 년 동안 일하고 있었더라고.",
+        "bold_words": [
+          "I thought she was a new employee, but it turned out she had been working there for years."
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>I thought the movie was going to be boring, but it turned out it was really good.</strong>",
+        "ko": "그 영화가 지루할 줄 알았는데, 알고 보니 정말 좋았어.",
+        "bold_words": [
+          "I thought the movie was going to be boring, but it turned out it was really good."
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>I thought he didn't like me, but it turned out he was just shy.</strong>",
+        "ko": "그가 나를 싫어하는 줄 알았는데, 알고 보니 그냥 수줍음이 많았던 거야.",
+        "bold_words": [
+          "I thought he didn't like me, but it turned out he was just shy."
+        ],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "turn out to be + 명사/형용사 : 알고 보니 ~였다 / ~인 것으로 밝혀지다",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "→ turn out + to be를 사용하면 사람이나 사물의 실제 정체/상태/결과를 말할 수 있어.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<strong>He turned out to be a really nice guy.</strong>",
+        "ko": "알고 보니 그는 정말 좋은 사람이었어.",
+        "bold_words": [
+          "He turned out to be a really nice guy."
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>She turned out to be the owner of the restaurant.</strong>",
+        "ko": "알고 보니 그녀가 그 식당 주인이었어.",
+        "bold_words": [
+          "She turned out to be the owner of the restaurant."
+        ],
+        "id": 18
+      },
+      {
+        "en": "<strong>The problem turned out to be pretty simple.</strong>",
+        "ko": "알고 보니 그 문제는 꽤 간단했어.",
+        "bold_words": [
+          "The problem turned out to be pretty simple."
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>The movie turned out to be better than I expected.</strong>",
+        "ko": "그 영화는 알고 보니 내가 예상했던 것보다 좋았어.",
+        "bold_words": [
+          "The movie turned out to be better than I expected."
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>It turned out to be better than I expected.</strong>",
+        "ko": "예상보다 더 좋았어.",
+        "bold_words": [
+          "It turned out to be better than I expected."
+        ],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "📌 특히 better than I expected와 궁합이 좋아.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "turn out to + 동사 : 알고 보니 ~하게 되다 / 결과적으로 ~하다",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "<strong>It turned out to be a good decision.</strong>",
+        "ko": "→ 알고 보니 좋은 결정이었어.",
+        "bold_words": [
+          "It turned out to be a good decision."
+        ],
+        "id": 24
+      },
+      {
+        "en": "<strong>It turned out to work really well.</strong>",
+        "ko": "→ 알고 보니 정말 잘 작동했어.",
+        "bold_words": [
+          "It turned out to work really well."
+        ],
+        "id": 25
+      },
+      {
+        "en": "<strong>The new method turned out to work really well.</strong>",
+        "ko": "새로운 방법이 알고 보니 정말 잘 통했어.",
+        "bold_words": [
+          "The new method turned out to work really well."
+        ],
+        "id": 26
+      },
+      {
+        "en": "<strong>The shortcut turned out to save us a lot of time.</strong>",
+        "ko": "그 지름길이 결과적으로 우리 시간을 많이 절약해줬어.",
+        "bold_words": [
+          "The shortcut turned out to save us a lot of time."
+        ],
+        "id": 27
+      },
+      {
+        "en": "<strong>The advice turned out to help me a lot.</strong>",
+        "ko": "그 조언이 결과적으로 나에게 큰 도움이 됐어.",
+        "bold_words": [
+          "The advice turned out to help me a lot."
+        ],
+        "id": 28
+      },
+      {
+        "en": "<strong>The plan turned out to cost more than we expected.</strong>",
+        "ko": "그 계획은 결과적으로 우리가 예상했던 것보다 비용이 더 많이 들었어.",
+        "bold_words": [
+          "The plan turned out to cost more than we expected."
+        ],
+        "id": 29
+      },
+      {
+        "en": "",
+        "ko": "It turned out to be + 결과 : 예상과 달랐던 결과",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "<strong>I wasn't expecting much, but it turned out to be great.</strong>",
+        "ko": "별로 기대하지 않았는데, 정말 좋았어.",
+        "bold_words": [
+          "I wasn't expecting much, but it turned out to be great."
+        ],
+        "id": 31
+      },
+      {
+        "en": "<strong>I thought the restaurant would be expensive, but it turned out to be pretty affordable.</strong>",
+        "ko": "그 식당이 비쌀 줄 알았는데, 알고 보니 꽤 저렴했어.",
+        "bold_words": [
+          "I thought the restaurant would be expensive, but it turned out to be pretty affordable."
+        ],
+        "id": 32
+      },
+      {
+        "en": "<strong>I didn't think I'd enjoy the class, but it turned out to be really interesting.</strong>",
+        "ko": "그 수업을 재미있어할 줄 몰랐는데, 알고 보니 정말 흥미로웠어.",
+        "bold_words": [
+          "I didn't think I'd enjoy the class, but it turned out to be really interesting."
+        ],
+        "id": 33
+      },
+      {
+        "en": "<strong>We weren't expecting much from the trip, but it turned out to be amazing.</strong>",
+        "ko": "여행에 별 기대를 안 했는데, 알고 보니 정말 좋았어.",
+        "bold_words": [
+          "We weren't expecting much from the trip, but it turned out to be amazing."
+        ],
+        "id": 34
+      },
+      {
+        "en": "<strong>I thought A, but it turned out B.</strong>",
+        "ko": "A인 줄 알았는데, 알고 보니 B였어.",
+        "bold_words": [
+          "I thought A, but it turned out B."
+        ],
+        "id": 35
+      },
+      {
+        "en": "<strong>I wasn't expecting much, but it turned out to be great.</strong>",
+        "ko": "별로 기대 안 했는데, 알고 보니 정말 좋았어.",
+        "bold_words": [
+          "I wasn't expecting much, but it turned out to be great."
+        ],
+        "id": 36
+      },
+      {
+        "en": "",
+        "ko": "It turns out that + 문장.",
+        "bold_words": [],
+        "id": 37
+      },
+      {
+        "en": "",
+        "ko": "알고 보니 ~더라.",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "",
+        "ko": "주어 + turned out to be + 명사/형용사.",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "",
+        "ko": "알고 보니 ~였다.",
+        "bold_words": [],
+        "id": 40
+      }
+    ]
   }
 }
