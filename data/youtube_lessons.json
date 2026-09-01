@@ -197208,5 +197208,200 @@
         "id": 30
       }
     ]
+  },
+  "2026-09-01": {
+    "name": "[ 기초영어회화 ] -- 하는 사람이 많지 않다",
+    "youtube_url": "https://youtu.be/cn9eHchVHbY",
+    "keywords": [
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>Not many people</strong></span> make Kimchi at home<span style=\"color:#B84C75\"><strong> anymore.</strong></span>",
+        "ko": "예전처럼 집에서 김치 만드는 사람들이 많지는 않아요.",
+        "bold_words": [
+          "Not many people",
+          "anymore."
+        ],
+        "id": 1
+      },
+      {
+        "en": "<strong>Not many people (do sth)</strong>",
+        "ko": "Not을 사용해서 뒤에는 긍정문을 사용해줘야 한다.",
+        "bold_words": [
+          "Not many people (do sth)"
+        ],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "(There aren’t many people who ~~ , 이거를 Not many people로 대체할 수 있다.)",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "anymore은 이전과 다르다는 걸 강조하는 느낌(더이상 이라고 해석하는데, 그냥 해석에서 빼버린 것다.)",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>Most people that I know, </strong></span>nowadays, just buy kimchi",
+        "ko": "제가 아는 사람들은 대부분이 요즘은 그냥 사먹어요.",
+        "bold_words": [
+          "Most people that I know,"
+        ],
+        "id": 5
+      },
+      {
+        "en": "I think,<span style=\"color:#8A67AB\"><strong> just several years from now, </strong></span>it’s going to be very rare to see people <strong>making Kimchi at home.</strong>",
+        "ko": "앞으로 몇 년 후면 사람들이 집에서 김치를 만드는 것을 보기가 어려울 것 같아요.",
+        "bold_words": [
+          "just several years from now,",
+          "making Kimchi at home."
+        ],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "rare to ~ :귀하다. 드물다.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "people <strong>making</strong> Kimchi at home",
+        "ko": "사람들이 집에서 김치를 만드는 것.(현상)",
+        "bold_words": [
+          "making"
+        ],
+        "id": 8
+      },
+      {
+        "en": "people <strong>who </strong>make Kimchi at home.",
+        "ko": "집에서 김치를 만드는 사람들",
+        "bold_words": [
+          "who"
+        ],
+        "id": 9
+      },
+      {
+        "en": "Not many people make Kimchi at home anymore.",
+        "ko": "",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "Most people that I know, nowadays, just buy Kimchi",
+        "ko": "",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "I think, just several years from now, it’s going to be very rare to see people making Kimchi at home.",
+        "ko": "",
+        "bold_words": [],
+        "id": 12
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "Not many people work hard in their office anymore.",
+        "ko": "예전만큼 일을 열심히 하는 사람이 많지 않아요.",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "Most people that I know, think about second job.",
+        "ko": "내가 아는 사람들은 대부분 다른 직업에 대해 생각해요",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I think, few years later, No one have only one job.",
+        "ko": "앞으로 몇년 후면, 직업이 한개인 사람은 없을거에요.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "Not many people read physical nespapers anymore",
+        "ko": "예전처럼 종이 신문을 읽는 사람들이 많지 않아요",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "Not many people carry cash in their wallets anymore",
+        "ko": "예전처럼 지갑에 현금을 가지고 다니는 사람들이 많지 않아요.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "Not many people memorize phone numbers anymore. Most people that I know just save them on their phones",
+        "ko": "예전처럼 전화번호를 외우는 사람들이 많지 않아요. 제가아는 사람들 대부분은 그냥 휴대폰에 저장해요.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "Most people that I know, nowadays, just watch movies on Netflix.",
+        "ko": "제가 아는 사람들은 대부분이 요즘은 그냥 넷플릭스로 영화를 봐요.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "I think, just several years from now, <strong>it’s going to be very rare to see people driving </strong>non-electric cars.",
+        "ko": "앞으로 몇 년 후면, 사람들이 내연기관차(전기차가 아닌 차)를 운전하는 것을 보기가 어려울 것 같아요.",
+        "bold_words": [
+          "it’s going to be very rare to see people driving"
+        ],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "[상황 1: 오프라인 쇼핑과 온라인 쇼핑]",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "A: Do you still go to the mall to buy clothes?",
+        "ko": "아직도 옷 사러 쇼핑몰에 가?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "B: Not really. <strong>Not many people</strong> shop offline <strong>anymore</strong>. <strong>Most people that I know</strong> just buy things online.",
+        "ko": "아니. 예전처럼 오프라인에서 쇼핑하는 사람은 많지 않아. 내가 아는 사람들은 대부분 그냥 인터넷으로 사.",
+        "bold_words": [
+          "Not many people",
+          "anymore",
+          "Most people that I know"
+        ],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "[상황 2: 재택근무의 보편화]",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "A: Is your company still working from home?",
+        "ko": "너희 회사는 아직도 재택근무 해?",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "B: Yes. Actually, <strong>not many people</strong> commute to the office five days a week <strong>anymore</strong>.",
+        "ko": "응. 사실, 예전처럼 주 5일 사무실로 통근하는 사람들이 많지 않아.",
+        "bold_words": [
+          "not many people",
+          "anymore"
+        ],
+        "id": 14
+      },
+      {
+        "en": "I think, just several years from now, <strong>it's going to be very rare to see people working</strong> at the office every day.",
+        "ko": "앞으로 몇 년 후면 사람들이 매일 사무실에서 일하는 걸 보기가 어려울 것 같아.)",
+        "bold_words": [
+          "it's going to be very rare to see people working"
+        ],
+        "id": 15
+      }
+    ]
   }
 }
