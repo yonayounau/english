@@ -199658,5 +199658,500 @@
         "id": 38
       }
     ]
+  },
+  "2026-09-14": {
+    "name": "앞으로는 충고할 때 You should 대신 I would 라고 말하기",
+    "youtube_url": "https://youtu.be/lXh1Wo6fx0k?si=0cKNUn9tYN5MUe4R",
+    "keywords": [
+      {
+        "en": "",
+        "ko": "제안하거나, 알려주거나, 솔루션을 제공하면서 강한 should대신 I would를 사용해서 사용하자!",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "A: When did your daughter start speaking?",
+        "ko": "딸이 언제부터 말을 하기 시작했어요?",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "B: Well, it depends on what you mean by ‘speaking’,",
+        "ko": "\"말\"이라는 게 어느 수준을 말하느냐에 따라 다르겠지만",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "but I think she spoke her fist word around 10 months or so.",
+        "ko": "첫 단어를 10개월 쯤에 말했던 것 같아요.",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "A: Hmm. My son, he’s almost 20 months old now,",
+        "ko": "흠, 제 아들이 이제 거의 20개월인데요",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "and he’s only using a few words.",
+        "ko": "단어를 몇 개밖에 사용을 안 해요.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: Well, you know, keds learn at different paces",
+        "ko": "뭐, 애들이 원래 배우는 속도가 다 다르잖아요.",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "And, from what I understand, boys tend to develop language skills slightly later than girls.",
+        "ko": "그리고 제가 알기로는 남자 아이들이 여자 아이들보다 언어 발달이 살짝 늦어요.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "So, as long as he’s expressing himself, using gestures and responding when you talk to him",
+        "ko": "그래서 의사 표현을 하고 제스처를 쓰고 말을 걸었을 때 반응만 하는 거라면",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>I wouldn’t worry about it too much</strong></span>. B<strong>ut</strong><span style=\"color:#548164\"><strong> I’d keep an eye on him</strong></span>",
+        "ko": "그렇게 걱정할 필요는 없을 것 같지만 유심히 지켜볼 것 같긴 해요.",
+        "bold_words": [
+          "I wouldn’t worry about it too much",
+          "ut",
+          "I’d keep an eye on him"
+        ],
+        "id": 10
+      },
+      {
+        "en": "I wouldn’t worry about __ too much",
+        "ko": "컨트롤이 가능한 상황에서, 내 생각을 전달할 때 사용",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "→ should 는 너무 강하게 느껴짐.(You souldn’t) ⇒ I wouldn’t 으로 사용함.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I’d keep an eye on __",
+        "ko": "You should라고 써도 되지만 너무 강한 어조라",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "<strong>And </strong><span style=\"color:#487CA5\"><strong>if you haven’t already</strong></span>, it certainly<span style=\"color:#487CA5\"><strong> wouldn’t hurt to</strong></span> have your pediatrician take a look at him",
+        "ko": "그리고, 아직 안 하셨다면, 소아과 의사한테 검사를 한번 받아 봐서 나쁠 것은 없죠.",
+        "bold_words": [
+          "And",
+          "if you haven’t already",
+          "wouldn’t hurt to"
+        ],
+        "id": 14
+      },
+      {
+        "en": "It<strong> wouldn’t hurt to</strong> have your pediatrician take a look at him = You should have you pediatrician take a look at him",
+        "ko": "You should vs I wouldn't / It wouldn't의 뉘앙스 차이",
+        "bold_words": [
+          "wouldn’t hurt to"
+        ],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "You should go see a doctor.는 직설적이라 상대방의 현재 행동을 지적하거나 훈계하는 느낌을 줄 수 있습니다.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "I would...나 It wouldn't hurt to...는 \"내가 만약 네 상황이라면 이렇게 할 것 같다\"는 가상의 입장을 취하므로, 상대방의 자율성을 존중하는 세련된 화법이 됩니다.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "가정법 축약형(I'd)의 원형 혼동",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "",
+        "ko": "I'd keep an eye on...의 I'd는 I would의 줄임말입니다 (I had가 아님).",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "따라서 뒤에는 항상 동사원형(keep)이 옵니다.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "사역동사 have 뒤의 동사 형태",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "구조: have + 사람 + 동사원형",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "예: have your pediatrician take a look (O) / have your pediatrician to take a look (X)",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "",
+        "ko": "to를 넣지 않도록 주의해야 합니다.",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "",
+        "ko": "keep an eye on과 watch의 뉘앙스 차이",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "",
+        "ko": "watch는 단순히 시각적으로 쳐다보는 행동 자체를 뜻할 수 있습니다.",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "A: When did your daughter start speaking?",
+        "ko": "keep an eye on은 \"혹시 이상이 생기거나 문제가 발생하지 않는지 주의를 기울여 계속 감시/돌보다\"라는 뉘앙스를 가집니다.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "B: It depends on what you mean by ‘speaking.",
+        "ko": "",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "but I think she spoke her first around 10 months or so",
+        "ko": "",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "A: Hmm. My son. he’s almost 20 months old now.",
+        "ko": "",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "but He’s only using a few wordss",
+        "ko": "",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "B: Well you know, kids learn at different paces.",
+        "ko": "",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "And from I understand, boys tend to develop language skills slightly later than girls.",
+        "ko": "",
+        "bold_words": [],
+        "id": 33
+      },
+      {
+        "en": "So as long as he’s expressing himself, using gestures and responding when you talk to him, you wouldn’t worry about it too much. But I’d keep an eye on him.",
+        "ko": "",
+        "bold_words": [],
+        "id": 34
+      },
+      {
+        "en": "And, if you haven’t already, it certainly wouldn’t hurt to have your pediatrician take a look at him",
+        "ko": "",
+        "bold_words": [],
+        "id": 35
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>I wouldn't worry about ... too much</strong>",
+        "ko": "내가 너라면 너무 걱정하지는 않을 것 같아 (상대에게 부담을 주지 않는 부드러운 안심 표현)",
+        "bold_words": [
+          "I wouldn't worry about ... too much"
+        ],
+        "id": 1
+      },
+      {
+        "en": "<strong>I wouldn't worry about</strong> the interview <strong>too much</strong>; you prepared thoroughly.",
+        "ko": "(인터뷰 너무 걱정하지 마. 너 준비 철저하게 했잖아.)",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 2
+      },
+      {
+        "en": "<strong>I wouldn't worry about</strong> his reaction <strong>too much</strong>; he was just having a bad day.",
+        "ko": "(그 사람 반응 너무 신경 쓰지 마. 그냥 그날 기분이 안 좋았을 뿐이야.)",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>I wouldn't worry about</strong> making minor typos <strong>too much</strong>; the core message is clear.",
+        "ko": "(사소한 오타는 너무 걱정하지 마. 핵심 내용은 명확하니까.)",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>I wouldn't worry about</strong> the test results <strong>too much</strong> until we hear back from the lab.",
+        "ko": "(검사 결과 나올 때까지는 너무 미리 걱정하지 않는 게 좋겠어요.)",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>I wouldn't worry about</strong> spending extra money on that feature <strong>too much</strong>; the basic version works fine.",
+        "ko": "(그 기능에 돈 더 쓰는 건 너무 고민하지 마. 기본 버전으로도 충분해.)",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 6
+      },
+      {
+        "en": "\"The client knows this is a complex issue, so <strong>I wouldn't worry about</strong> the slight delay <strong>too much</strong>.\"",
+        "ko": "직장(프로젝트 지연 보고 후 긴장한 동료에게): 고객은 이것이 복잡한 문제라는 것을 알고 있으므로 약간의 지연은 크게 걱정하지 않으셔도 됩니다",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 7
+      },
+      {
+        "en": "\"Everyone is still arriving, so <strong>I wouldn't worry about</strong> being a few minutes late <strong>too much</strong>.\"",
+        "ko": "일상(파티에 10분 정도 늦을 것 같다는 친구에게): 모두가 아직 도착 중이니 몇 분 늦는다고 너무 걱정하지 않으셔도 될 것 같아요.",
+        "bold_words": [
+          "I wouldn't worry about",
+          "too much"
+        ],
+        "id": 8
+      },
+      {
+        "en": "<strong>I'd keep an eye on ...</strong>",
+        "ko": "내가 너라면 ~을 주의 깊게 지켜볼 것 같아 (I would keep an eye on)",
+        "bold_words": [
+          "I'd keep an eye on ..."
+        ],
+        "id": 9
+      },
+      {
+        "en": "<strong>I'd keep an eye on</strong> the engine temperature while driving uphill.",
+        "ko": "(오르막길 운전할 때는 엔진 온도를 계속 잘 살펴보는 게 좋겠어.)",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>I'd keep an eye on</strong> the weather forecast before heading out for a hike.",
+        "ko": "(등산 가기 전에 일기 예보를 눈여겨보는 게 좋을 것 같아.)",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>I'd keep an eye on</strong> your spending this month since we have big expenses coming up.",
+        "ko": "(이번 달에 나갈 돈이 많으니까 지출을 좀 주의 깊게 챙겨봐.)",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>I'd keep an eye on</strong> that cough if it doesn't get better by tomorrow.",
+        "ko": "(내일까지 그 기침이 안 나아지면 계속 지켜보는 게 좋겠어.)",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>I'd keep an eye on</strong> the competitor's new product launch next week.",
+        "ko": "(다음 주에 있는 경쟁사 신제품 출시를 예의주시해야 할 것 같아.)",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 14
+      },
+      {
+        "en": "\"He seems fine otherwise, but <strong>I'd keep an eye on</strong> his appetite until dinner.\"",
+        "ko": "반려동물(강아지가 밥을 조금 남겼을 때):\"그 외에는 괜찮아 보이지만, 저녁 식사 전까지 식욕을 잘 살펴보는 게 좋겠어요.”",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 15
+      },
+      {
+        "en": "\"Interest rates are fluctuating, so <strong>I'd keep an eye on</strong> exchange rates today.\"",
+        "ko": "투자/업무(변동성이 큰 시장 상황에서):\"금리가 변동적이므로 오늘 환율을 주시하는 것이 좋겠습니다.”",
+        "bold_words": [
+          "I'd keep an eye on"
+        ],
+        "id": 16
+      },
+      {
+        "en": "",
+        "ko": "It wouldn't hurt to + 동사원형",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "~해서 손해 볼 건 없지 / 한번 ~해보는 것도 괜찮아 (You should를 가장 완곡하게 돌려 말하는 표현)",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "<strong>It wouldn't hurt to</strong> double-check the figures before sending the invoice.",
+        "ko": "(인보이스 보내기 전에 숫자 한 번 더 확인해 봐서 손해 볼 건 없지.)",
+        "bold_words": [
+          "It wouldn't hurt to"
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>It wouldn't hurt to</strong> carry an umbrella just in case it rains.",
+        "ko": "(혹시 비 올지 모르니까 우산 하나 챙겨 둬서 나쁠 건 없어.)",
+        "bold_words": [
+          "It wouldn't hurt to"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>It wouldn't hurt to</strong> ask for a discount; the worst they can say is no.",
+        "ko": "(할인 되냐고 한번 물어봐. 거절당하는 것 말고 손해 볼 건 없잖아.)",
+        "bold_words": [
+          "It wouldn't hurt to"
+        ],
+        "id": 21
+      },
+      {
+        "en": "<strong>It wouldn't hurt to</strong> get a second opinion from another mechanic.",
+        "ko": "(다른 정비소 가서 견적 한 번 더 받아봐서 나쁠 것 없잖아.)",
+        "bold_words": [
+          "It wouldn't hurt to"
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>It wouldn't hurt to</strong> save your work on an external drive as well.",
+        "ko": "(외장 하드에도 작업물 백업해 둬서 손해 볼 건 전혀 없지.)",
+        "bold_words": [
+          "It wouldn't hurt to"
+        ],
+        "id": 23
+      },
+      {
+        "en": "\"It might just be stress, but <strong>it wouldn't hurt to</strong> get blood work done just in case.\"",
+        "ko": "병원 진료(증상이 모호한 상황에서): 단순한 스트레스 때문일 수도 있지만, 혹시 모르니 혈액 검사를 받아보는 것도 나쁘지 않을 거예요.",
+        "bold_words": [
+          "it wouldn't hurt to"
+        ],
+        "id": 24
+      },
+      {
+        "en": "\"They didn't require references, but <strong>it wouldn't hurt to</strong> include a couple anyway.\"",
+        "ko": "면접/취업(추천서 관련 조언):  \"추천서를 요구하진 않았지만, 몇 개 정도 첨부해도 나쁠 건 없겠죠.”",
+        "bold_words": [
+          "it wouldn't hurt to"
+        ],
+        "id": 25
+      },
+      {
+        "en": "<strong>Have someone take a look at something</strong>",
+        "ko": "누군가(전문가 등)에게 ~을 한번 보게 하다 / 점검받다",
+        "bold_words": [
+          "Have someone take a look at something"
+        ],
+        "id": 26
+      },
+      {
+        "en": "You should <strong>have a plumber take a look at</strong> that leaky pipe.",
+        "ko": "(배관공 불러서 물 새는 파이프 한번 봐달라고 해.)",
+        "bold_words": [
+          "have a plumber take a look at"
+        ],
+        "id": 27
+      },
+      {
+        "en": "I need to <strong>have a technician take a look at</strong> my laptop screen.",
+        "ko": "(기사님한테 노트북 화면 한번 봐달라고 맡겨야겠어.)",
+        "bold_words": [
+          "have a technician take a look at"
+        ],
+        "id": 28
+      },
+      {
+        "en": "Let's <strong>have our legal team take a look at</strong> this clause before signing.",
+        "ko": "(서명하기 전에 우리 법무팀한테 이 조항 검토 좀 해달라고 하자.)",
+        "bold_words": [
+          "have our legal team take a look at"
+        ],
+        "id": 29
+      },
+      {
+        "en": "You might want to <strong>have a dentist take a look at</strong> that tooth.",
+        "ko": "(그 치아 치과의사한테 한번 진료받아 보는 게 좋겠어.)",
+        "bold_words": [
+          "have a dentist take a look at"
+        ],
+        "id": 30
+      },
+      {
+        "en": "It wouldn't hurt to <strong>have an editor take a look at</strong> your manuscript.",
+        "ko": "(네 원고 편집자한테 한번 봐달라고 해서 나쁠 건 없지.)",
+        "bold_words": [
+          "have an editor take a look at"
+        ],
+        "id": 31
+      },
+      {
+        "en": "\"That noise isn't normal. You'd better <strong>have a mechanic take a look at</strong> the brakes.\"",
+        "ko": "자동차 고장(차에서 이상한 소리가 날 때): \"그 소리는 정상적인 소리가 아니야. 정비사에게 브레이크를 점검받아보는 게 좋겠어.”",
+        "bold_words": [
+          "have a mechanic take a look at"
+        ],
+        "id": 32
+      },
+      {
+        "en": "\"Can I <strong>have you take a look at</strong> this draft before I send it to the director?\"",
+        "ko": "계약서/서류(중요한 메일을 보내기 전):\"감독님께 보내기 전에 이 초안을 한번 봐주시겠어요?”",
+        "bold_words": [
+          "have you take a look at"
+        ],
+        "id": 33
+      }
+    ]
   }
 }
