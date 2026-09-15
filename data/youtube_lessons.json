@@ -200153,5 +200153,343 @@
         "id": 33
       }
     ]
+  },
+  "2026-09-15": {
+    "name": "[ 기초영어회화 대화가이드 ] \"하나 드릴까요?\" → \"아니오. 괜찮아요.\"",
+    "youtube_url": "https://youtu.be/-68VCDkopqg?si=9SO4G3nsW4ceem5Y",
+    "keywords": [
+      {
+        "en": "A: Do you want one?",
+        "ko": "하나 드릴까요?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "Would you like one?",
+        "ko": "좀더 캐쥬얼하고 공손하게 표현할 때",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "B: Oh, no thanks. I don't smoke. Actually, I used to but I don't anymore. I quit.",
+        "ko": "아니오. 괜찮아요. 저 담배 안펴요. 사실 예전에는 폈었는데 이제 더 이상 안펴요. 끊었어요.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "used to",
+        "ko": "예전에는",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "A: Wow! Really? How long has it been?",
+        "ko": "오, 정말요? 얼마나 됐어요?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "How long has it been?",
+        "ko": "얼마나 오래 됐어요? (지금까지 얼마만큼 시간이 흘렀냐니까, 시간의 시기에 대한 이야기라 현재완료시제를 써주는 거임)",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: (Umm) Several years ago, I started having some health problems",
+        "ko": "몇 년 전에 건강에 문제가 좀 생기기 시작해서",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "so I had to stop(quit) smoking and drinking.",
+        "ko": "담배랑 술을 끊어야 했어요.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "started -ing",
+        "ko": "~하기 시작했습니다.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "A: Do you want one?(Would you like one?)",
+        "ko": "",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "B: No thanks. I don’t smoke. Actually I used to, but I don’t smoke anymore. I quit",
+        "ko": "",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "A: Wow! Really? How long has it been?",
+        "ko": "",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "B: Umm Several years ago, I started having some health problems",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "so I had to stope(quite) smoking and drinking",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>Would you like...? / Do you want...?</strong>",
+        "ko": "(무언가를 권하거나 제안할 때) \"하나 드릴까요?\"처럼 상대방의 의향을 물어볼 때 씁니다",
+        "bold_words": [
+          "Would you like...? / Do you want...?"
+        ],
+        "id": 1
+      },
+      {
+        "en": "<strong>Would you like</strong> some more coffee?",
+        "ko": "(커피 좀 더 드릴까요?)",
+        "bold_words": [
+          "Would you like"
+        ],
+        "id": 2
+      },
+      {
+        "en": "<strong>Would you like</strong> to join us for dinner?",
+        "ko": "(저희랑 같이 저녁 드실래요?)",
+        "bold_words": [
+          "Would you like"
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>Do you want</strong> a ride home?",
+        "ko": "(집까지 태워줄까요?)",
+        "bold_words": [
+          "Do you want"
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>Do you want</strong> me to help you with that?",
+        "ko": "(제가 좀 도와드릴까요?)",
+        "bold_words": [
+          "Do you want"
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>used to ~, but I don't anymore</strong>",
+        "ko": "(과거의 습관을 말할 때) 과거에는 자주 했었지만, 지금은 더 이상 하지 않는 행동이나 상태를 설명",
+        "bold_words": [
+          "used to ~, but I don't anymore"
+        ],
+        "id": 6
+      },
+      {
+        "en": "I <strong>used to</strong> drink a lot of coffee, <strong>but I don't anymore</strong>.",
+        "ko": "(예전엔 커피를 많이 마셨는데, 이제는 더 이상 안 마셔요.)",
+        "bold_words": [
+          "used to",
+          "but I don't anymore"
+        ],
+        "id": 7
+      },
+      {
+        "en": "I <strong>used to</strong> play tennis every weekend, <strong>but I don't anymore</strong>.",
+        "ko": "(주말마다 테니스를 쳤었는데, 이제는 안 쳐요.)",
+        "bold_words": [
+          "used to",
+          "but I don't anymore"
+        ],
+        "id": 8
+      },
+      {
+        "en": "She <strong>used to</strong> live in Seoul, <strong>but she doesn't anymore</strong>.",
+        "ko": "(그녀는 예전에 서울에 살았지만, 지금은 안 살아요.)",
+        "bold_words": [
+          "used to",
+          "but she doesn't anymore"
+        ],
+        "id": 9
+      },
+      {
+        "en": "We <strong>used to</strong> hang out all the time, <strong>but we don't anymore</strong>.",
+        "ko": "(우리는 예전에 항상 붙어 다녔는데, 이제는 더 이상 그러지 않아요.)",
+        "bold_words": [
+          "used to",
+          "but we don't anymore"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>How long has it been + SINCE?</strong>",
+        "ko": "(기간을 물어볼 때)",
+        "bold_words": [
+          "How long has it been + SINCE?"
+        ],
+        "id": 11
+      },
+      {
+        "en": "Wow, <strong>how long has it been</strong>?",
+        "ko": "(와, (우리 안 본 지) 도대체 얼마 만이야?)",
+        "bold_words": [
+          "how long has it been"
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>How long has it been</strong> since we last met?",
+        "ko": "(우리 마지막으로 만난 지 얼마나 됐죠?)",
+        "bold_words": [
+          "How long has it been"
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>How long has it been</strong> since you started working here?",
+        "ko": "(여기서 일하기 시작한 지 얼마나 됐어요?)",
+        "bold_words": [
+          "How long has it been"
+        ],
+        "id": 14
+      },
+      {
+        "en": "<strong>How long has it been</strong> since you moved to this neighborhood?",
+        "ko": "(이 동네로 이사 온 지 얼마나 오래됐나요?)",
+        "bold_words": [
+          "How long has it been"
+        ],
+        "id": 15
+      },
+      {
+        "en": "<strong>started -ing / started to ~</strong>",
+        "ko": "(과거에 무언가를 시작했다고 말할 때)어떤 행동이나 증상 등이 발생하기 시작한 시점을 설명할 때",
+        "bold_words": [
+          "started -ing / started to ~"
+        ],
+        "id": 16
+      },
+      {
+        "en": "It <strong>started raining</strong> heavily an hour ago.",
+        "ko": "(한 시간 전부터 비가 거세게 내리기 시작했어요.)",
+        "bold_words": [
+          "started raining"
+        ],
+        "id": 17
+      },
+      {
+        "en": "I <strong>started working out</strong> to lose weight.",
+        "ko": "(살을 빼려고 운동을 하기 시작했어요.)",
+        "bold_words": [
+          "started working out"
+        ],
+        "id": 18
+      },
+      {
+        "en": "They <strong>started learning</strong> Spanish last month.",
+        "ko": "(그들은 지난달부터 스페인어를 배우기 시작했습니다.)",
+        "bold_words": [
+          "started learning"
+        ],
+        "id": 19
+      },
+      {
+        "en": "My car <strong>started making</strong> a weird noise yesterday.",
+        "ko": "(어제부터 내 차에서 이상한 소리가 나기 시작했어.)",
+        "bold_words": [
+          "started making"
+        ],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "[상황 A: 상대방의 호의를 정중하게 거절할 때]",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "<strong>Oh, no thanks. I'm good.</strong>",
+        "ko": "(아니요, 괜찮습니다. 전 충분해요.)",
+        "bold_words": [
+          "Oh, no thanks. I'm good."
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>I appreciate the offer, but I'll pass this time.</strong>",
+        "ko": "(제안은 감사하지만, 이번에는 사양할게요.)",
+        "bold_words": [
+          "I appreciate the offer, but I'll pass this time."
+        ],
+        "id": 23
+      },
+      {
+        "en": "<strong>I'm trying to cut down on</strong> caffeine/sugar.",
+        "ko": "(저 카페인/단것을 좀 줄이려고 노력 중이거든요.)",
+        "bold_words": [
+          "I'm trying to cut down on"
+        ],
+        "id": 24
+      },
+      {
+        "en": "",
+        "ko": "[상황 B: 오랜만에 만난 사람과 시간에 대해 이야기할 때]",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "<strong>It's been a while!</strong>",
+        "ko": "(오랜만이네요!)",
+        "bold_words": [
+          "It's been a while!"
+        ],
+        "id": 26
+      },
+      {
+        "en": "<strong>Time flies!</strong>",
+        "ko": "(시간 참 빠르네요!)",
+        "bold_words": [
+          "Time flies!"
+        ],
+        "id": 27
+      },
+      {
+        "en": "<strong>Has it been that long?</strong>",
+        "ko": "(벌써 시간이 그렇게 됐나요?)",
+        "bold_words": [
+          "Has it been that long?"
+        ],
+        "id": 28
+      },
+      {
+        "en": "",
+        "ko": "[상황 C: 안 좋은 습관을 끊었다고 말할 때]",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "<strong>I recently quit</strong> eating late at night.",
+        "ko": "(최근에 야식 먹는 걸 끊었어요.)",
+        "bold_words": [
+          "I recently quit"
+        ],
+        "id": 30
+      },
+      {
+        "en": "<strong>I managed to kick the habit.</strong>",
+        "ko": "(그 습관을 간신히 고쳤어요/끊었어요.)",
+        "bold_words": [
+          "I managed to kick the habit."
+        ],
+        "id": 31
+      }
+    ]
   }
 }
