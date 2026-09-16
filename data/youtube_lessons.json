@@ -200491,5 +200491,321 @@
         "id": 31
       }
     ]
+  },
+  "2026-09-16": {
+    "name": "💪 영어회화 | 표현 | \"시키는 대로 하다\", \"하라는 대로 하다\", \"배운 대로 하다\", \"지시대로 하다\" (PART 1 of 2)",
+    "youtube_url": "https://youtu.be/TPczV0wzps4",
+    "keywords": [
+      {
+        "en": "<strong>follow _____</strong>",
+        "ko": "___ 대로 하다. (레시피, 메뉴얼, 등 글로 써놓은 지시사항, 절차 과정 등)",
+        "bold_words": [
+          "follow _____"
+        ],
+        "id": 1
+      },
+      {
+        "en": "<strong>follow the instructions</strong>",
+        "ko": "설명서에 나와있는대로",
+        "bold_words": [
+          "follow the instructions"
+        ],
+        "id": 2
+      },
+      {
+        "en": "follow the recipe",
+        "ko": "레시피대로",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "I just followed the instructions.",
+        "ko": "설명대로 하다",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "A: How did you do this?",
+        "ko": "어떻게 했어?",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "B: I just<span style=\"color:#487CA5\"> followed</span> the instructions in the manual.",
+        "ko": "나는 메뉴얼에 설명대로 했을뿐이야.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "<strong>do what it says ___</strong>",
+        "ko": "___ 나와 있는대로 하다.",
+        "bold_words": [
+          "do what it says ___"
+        ],
+        "id": 7
+      },
+      {
+        "en": "I did <span style=\"color:#487CA5\"><strong>what it says</strong></span> in the manual.",
+        "ko": "메뉴얼에 나와 있는 대로 했다.(인터넷 같이 지시사항은 아닌 적혀있는 내용)",
+        "bold_words": [
+          "what it says"
+        ],
+        "id": 8
+      },
+      {
+        "en": "say :",
+        "ko": "쓰여있는 내용에 대해 이야기할 때는, 나와있다. 쓰여있다. 등등 말하다라는 내용 뿐만 아니라",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "What does it say on the cover?",
+        "ko": "표지에 뭐라고 써(돼) 있어? (적혀있는 게 말하듯 한 표현)",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "It says ___",
+        "ko": "(적혀있는 내용에 대해)쓰여있어.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "do (sth)  according to ___",
+        "ko": "",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I did<span style=\"color:#8A67AB\"><strong> it</strong></span><span style=\"color:#487CA5\"><strong> according to</strong></span> the manual.",
+        "ko": "메뉴얼에 따라 했다.(I did what it says in the manual)",
+        "bold_words": [
+          "it",
+          "according to"
+        ],
+        "id": 13
+      },
+      {
+        "en": "I did<span style=\"color:#8A67AB\"><strong> it</strong></span><span style=\"color:#487CA5\"><strong> according to</strong></span> the instructions in the manual.",
+        "ko": "메뉴얼에 따라 했다. →좀 더 formal하게 씀",
+        "bold_words": [
+          "it",
+          "according to"
+        ],
+        "id": 14
+      },
+      {
+        "en": "(sth) according to",
+        "ko": "어떤 방식에 대해  표현해서 앞에 it을 꼭 써줘야함.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "I just followed the instructions",
+        "ko": "the instructions in the manual 라고 굳이 한번더 언급하는건 메뉴얼안에 instruction파트가 있기도 해서 굳이 말할때 한번더 it으로 사용하지 않기도 한다.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "I just followed the recipe.",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "I just followed the instructions in the manual",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "I did what it says",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "I did what it says in the manual",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "I did what it says in the instructions",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "I did it according to the manual",
+        "ko": "",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "I did it according to instructions in the manual",
+        "ko": "",
+        "bold_words": [],
+        "id": 23
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "follow + [지시사항/레시피 등]",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "레시피, 매뉴얼, 지시사항 등 글로 써놓은 절차나 과정을 '그대로 따라 하다'라는 뜻입니다. 일상생활에서 가장 흔하고 직관적으로 쓰이는 표현입니다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I just<strong> followed the instructions</strong> in the manual.",
+        "ko": "(저는 그냥 매뉴얼에 있는 설명대로 했어요.)",
+        "bold_words": [
+          "followed the instructions"
+        ],
+        "id": 3
+      },
+      {
+        "en": "To make this cake, simply<strong> follow the recipe.</strong>",
+        "ko": "(이 케이크를 만들려면 그냥 레시피대로 하시면 돼요.)",
+        "bold_words": [
+          "follow the recipe."
+        ],
+        "id": 4
+      },
+      {
+        "en": "Just<strong> follow the instructions</strong> on the screen.",
+        "ko": "(화면에 나오는 설명대로만 따라 하세요.)",
+        "bold_words": [
+          "follow the instructions"
+        ],
+        "id": 5
+      },
+      {
+        "en": "I didn't know what to do, so I <strong>followed your advic</strong>e.",
+        "ko": "(어떻게 해야 할지 몰라서 네 조언대로 했어.)",
+        "bold_words": [
+          "followed your advic"
+        ],
+        "id": 6
+      },
+      {
+        "en": "If you<strong> follow the map</strong>, you won't get lost.",
+        "ko": "(지도대로만 따라가면 길을 잃지 않을 거야.)",
+        "bold_words": [
+          "follow the map"
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "do what it says + [출처 (in/on...)]",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "'~에 나와(적혀) 있는 대로 하다'. 여기서 동사 'say'가 사람의 말이 아니라 책, 매뉴얼, 약병, 표지판 등에 '글로 적혀있는 내용'을 의미한다는 것이 가장 중요한 포인트",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "<strong>I did what it says</strong> in the manual.",
+        "ko": "(매뉴얼에 나와 있는 대로 했어요.)",
+        "bold_words": [
+          "I did what it says"
+        ],
+        "id": 10
+      },
+      {
+        "en": "Just<strong> do what it says </strong>on the medicine bottle.",
+        "ko": "(약병에 적혀있는 대로만 하세요.)",
+        "bold_words": [
+          "do what it says"
+        ],
+        "id": 11
+      },
+      {
+        "en": "What<strong> does it say on</strong> the cover?",
+        "ko": "(표지에 뭐라고 쓰여(돼) 있어?)",
+        "bold_words": [
+          "does it say on"
+        ],
+        "id": 12
+      },
+      {
+        "en": "I'm just<strong> doing what it says</strong> in the email.",
+        "ko": "(저는 이메일에 적혀있는 대로 하고 있을 뿐이에요.)",
+        "bold_words": [
+          "doing what it says"
+        ],
+        "id": 13
+      },
+      {
+        "en": "Don't touch it, just<strong> do what it says </strong>on the sign.",
+        "ko": "(만지지 마, 표지판에 적힌 대로 해.)",
+        "bold_words": [
+          "do what it says"
+        ],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "do (something) according to + [기준/매뉴얼]",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "'~에 따라 (무언가를) 하다'라는 뜻, 앞의 두 표현보다 조금 더 격식 있는(formal) 느낌",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "I did it<strong> according to</strong> the manual.",
+        "ko": "(매뉴얼에 따라 그것을 처리했어요.)",
+        "bold_words": [
+          "according to"
+        ],
+        "id": 17
+      },
+      {
+        "en": "We have to work<strong> according to</strong> the company rules.",
+        "ko": "(우리는 회사 규정에 따라 일해야 합니다.)",
+        "bold_words": [
+          "according to"
+        ],
+        "id": 18
+      },
+      {
+        "en": "Everything went<strong> according to</strong> plan.",
+        "ko": "(모든 것이 계획대로 진행되었어.)",
+        "bold_words": [
+          "according to"
+        ],
+        "id": 19
+      },
+      {
+        "en": "I built the desk<strong> according to</strong> the instructions in the manual.",
+        "ko": "(설명서의 지시사항에 따라 책상을 조립했어요.)",
+        "bold_words": [
+          "according to"
+        ],
+        "id": 20
+      },
+      {
+        "en": "Please arrange the documents<strong> according to</strong> date.",
+        "ko": "(날짜순에 따라 문서를 정리해 주세요.)",
+        "bold_words": [
+          "according to"
+        ],
+        "id": 21
+      }
+    ]
   }
 }
