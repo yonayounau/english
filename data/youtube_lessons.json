@@ -200807,5 +200807,574 @@
         "id": 21
       }
     ]
+  },
+  "2027-09-17": {
+    "name": "💪 영어회화 | 표현 | \"시키는 대로 하다\", \"계획대로 하다\", \"늘 하던 대로 하다\" - (PART 2 of 2)",
+    "youtube_url": "https://youtu.be/lMYwgGoAWbA",
+    "keywords": [
+      {
+        "en": "I did <span style=\"color:#976D57\"><strong>what he said.</strong></span>",
+        "ko": "난 걔가 시킨 대로 했어 (난 걔가 하라는 대로 했어.)",
+        "bold_words": [
+          "what he said."
+        ],
+        "id": 1
+      },
+      {
+        "en": "I did <span style=\"color:#976D57\"><strong>what you said</strong></span>",
+        "ko": "난 너가 시킨 대로 했어",
+        "bold_words": [
+          "what you said"
+        ],
+        "id": 2
+      },
+      {
+        "en": "I did<span style=\"color:#976D57\"><strong> what you told me</strong></span>",
+        "ko": "난 너가 하라는 대로 했어.",
+        "bold_words": [
+          "what you told me"
+        ],
+        "id": 3
+      },
+      {
+        "en": "→ I did <span style=\"color:#976D57\"><strong>what you told me </strong></span><span style=\"color:#B84C75\"><strong>to</strong></span> :",
+        "ko": "[상대방이 지시를 내린 부분이 부각되는 느낌.] 난 너가 지시하는 대로 했어",
+        "bold_words": [
+          "what you told me",
+          "to"
+        ],
+        "id": 4
+      },
+      {
+        "en": "→ I did<span style=\"color:#B84C75\"><strong> exactly</strong></span><span style=\"color:#976D57\"><strong> what you said</strong></span> (told me to)",
+        "ko": "(실감나게 표현하기위해) 난 너가 시키는대로 했어.",
+        "bold_words": [
+          "exactly",
+          "what you said"
+        ],
+        "id": 5
+      },
+      {
+        "en": "I<span style=\"color:#8A67AB\"><strong> followed her(you) instructions</strong></span>",
+        "ko": "(사람이 내린 지시에대해서)",
+        "bold_words": [
+          "followed her(you) instructions"
+        ],
+        "id": 6
+      },
+      {
+        "en": "I <span style=\"color:#8A67AB\"><strong>followed the instructions that </strong></span>my boss gave me.",
+        "ko": "상사가 나한테 한 지시대로 했어.(난 너가 하라는 대로 했어.)",
+        "bold_words": [
+          "followed the instructions that"
+        ],
+        "id": 7
+      },
+      {
+        "en": "I followed the instructions that you gave me.",
+        "ko": "너가 지시하는대로 했어",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "I did it according to what you said./I did it according to what you told me",
+        "ko": "(조금더 formal하게) 너가 지시하는대로 했어.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I did everything according to what you said(told me)",
+        "ko": "너가 시킨대로 전부다했어.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "Just remember what you learned. /Just do  what you learned",
+        "ko": "배운 대로 하다. (배운대로만 하면된다.)",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "Just remember what I taught you.",
+        "ko": "가르쳐준대로 한다.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "Do it in the way you learned it.",
+        "ko": "하는 방식을 알려주는 거면",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "Do<span style=\"color:#8A67AB\"><strong> what I have always</strong></span> done.",
+        "ko": "늘 하던대로 하다",
+        "bold_words": [
+          "what I have always"
+        ],
+        "id": 14
+      },
+      {
+        "en": "→ I did<span style=\"color:#8A67AB\"><strong> what I’d(I had) </strong></span>always done.",
+        "ko": "난 늘 하던대로 했어(과거완료가 문법적으로는 맞지만, 현지인들은 → I did what I’ve always done.)",
+        "bold_words": [
+          "what I’d(I had)"
+        ],
+        "id": 15
+      },
+      {
+        "en": "I did<span style=\"color:#8A67AB\"><strong> what I always do.</strong></span>",
+        "ko": "늘 하는 대로 하다.(현재시제) [always를 사용하면 평생동안 해온 느낌이 강함]",
+        "bold_words": [
+          "what I always do."
+        ],
+        "id": 16
+      },
+      {
+        "en": "I’ll just do<span style=\"color:#8A67AB\"><strong> what I’ve done</strong></span><span style=\"color:#548164\"><strong> for the past(last) 2 weeks</strong></span>",
+        "ko": "난 그냥 지난 2주동안 해왔던 대로 할게.",
+        "bold_words": [
+          "what I’ve done",
+          "for the past(last) 2 weeks"
+        ],
+        "id": 17
+      },
+      {
+        "en": "I’ll just do what<span style=\"color:#8A67AB\"><strong> I’ve been doing</strong></span><span style=\"color:#548164\"><strong> for the past(last) 2 weeks.</strong></span>",
+        "ko": "난 그냥 지난 2주동안 해왔던 대로 할게.(현재진행형)",
+        "bold_words": [
+          "I’ve been doing",
+          "for the past(last) 2 weeks."
+        ],
+        "id": 18
+      },
+      {
+        "en": "I’ll just do what<span style=\"color:#8A67AB\"><strong> I’ve been doing </strong></span><span style=\"color:#548164\"><strong>up to now.</strong></span>",
+        "ko": "난 그냥 지금까지 해왔던 대로 할게.",
+        "bold_words": [
+          "I’ve been doing",
+          "up to now."
+        ],
+        "id": 19
+      },
+      {
+        "en": "Let’s just do<span style=\"color:#8A67AB\"><strong> what we were originally planning(going)</strong></span> to do.",
+        "ko": "그냥 원래 계획대로 하자",
+        "bold_words": [
+          "what we were originally planning(going)"
+        ],
+        "id": 20
+      },
+      {
+        "en": "Let’s just <span style=\"color:#B84C75\"><strong>stick to</strong></span> our original plan.",
+        "ko": "그냥 원래 계획 바꾸지 말자(stick to)",
+        "bold_words": [
+          "stick to"
+        ],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "stick to~  바꾸지 않는다는 의미로 굳이 original을 빼도 됨.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "You just need to do<span style=\"color:#8A67AB\"><strong> what you’ve always done.</strong></span>",
+        "ko": "넌 그냥 하던 대로만 하면 돼",
+        "bold_words": [
+          "what you’ve always done."
+        ],
+        "id": 23
+      },
+      {
+        "en": "I did it what he said.",
+        "ko": "",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "I did it what you said",
+        "ko": "",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "I did it what you told me",
+        "ko": "",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "I did it what you told me to",
+        "ko": "",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "I did exactly what you said (told me to)",
+        "ko": "",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "I followed your instructions",
+        "ko": "",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "I followed the instructions that my boss gave me.",
+        "ko": "",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "I followed the instructions that you gave me.",
+        "ko": "",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "I did it what you said.",
+        "ko": "",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "I did it according to what you said.",
+        "ko": "",
+        "bold_words": [],
+        "id": 33
+      },
+      {
+        "en": "I did it according to what you told me",
+        "ko": "",
+        "bold_words": [],
+        "id": 34
+      },
+      {
+        "en": "I did everyrthing according to what you said",
+        "ko": "",
+        "bold_words": [],
+        "id": 35
+      },
+      {
+        "en": "Just remeber what you learned.",
+        "ko": "",
+        "bold_words": [],
+        "id": 36
+      },
+      {
+        "en": "Just do what you learned.",
+        "ko": "",
+        "bold_words": [],
+        "id": 37
+      },
+      {
+        "en": "Jus remeber what I taught you",
+        "ko": "",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "Do what I have always done.",
+        "ko": "",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "I did what I’d always done.",
+        "ko": "",
+        "bold_words": [],
+        "id": 40
+      },
+      {
+        "en": "I did what I’ve always done.",
+        "ko": "",
+        "bold_words": [],
+        "id": 41
+      },
+      {
+        "en": "I’ll just do what I’ve done for the past(last) 2 weeks",
+        "ko": "",
+        "bold_words": [],
+        "id": 42
+      },
+      {
+        "en": "I’ll just do what I’ve been doing for the past(last) 2 weeks.",
+        "ko": "그냥 원래 계획대로 하자",
+        "bold_words": [],
+        "id": 43
+      },
+      {
+        "en": "Let’s just do what we were originally  planning to do.",
+        "ko": "",
+        "bold_words": [],
+        "id": 44
+      },
+      {
+        "en": "Let’s just stick to our plan.",
+        "ko": "",
+        "bold_words": [],
+        "id": 45
+      },
+      {
+        "en": "You just need to do what you’ve  always done.",
+        "ko": "",
+        "bold_words": [],
+        "id": 46
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>Do what [someone] said / told me (to)</strong>",
+        "ko": "\"~가 시키는 대로 / 하라는 대로 하다\"",
+        "bold_words": [
+          "Do what [someone] said / told me (to)"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "(일상생활에서 누군가(친구나 부모님 등)의 말이나 지시를 그대로 따랐음을 캐주얼하게 말할 때 사용합니다. 'to'로 끝나는 told me to를 쓰면 상대가 지시를 내렸다는 점을 조금 더 강조하는 뉘앙스가 됩니다.)",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I just <strong>did what the doctor told me to.</strong>",
+        "ko": "(의사 선생님이 하라는 대로만 했어.)",
+        "bold_words": [
+          "did what the doctor told me to."
+        ],
+        "id": 3
+      },
+      {
+        "en": "Make sure you <strong>do exactly what she said.</strong>",
+        "ko": "(그녀가 말한 대로 정확히 해야 해.)",
+        "bold_words": [
+          "do exactly what she said."
+        ],
+        "id": 4
+      },
+      {
+        "en": "Why didn't you <strong>do what I told you?</strong>",
+        "ko": "(왜 내가 하라는 대로 안 했어?)",
+        "bold_words": [
+          "do what I told you?"
+        ],
+        "id": 5
+      },
+      {
+        "en": "He <strong>did what his parents told him to.</strong>",
+        "ko": "(그는 부모님이 시키는 대로 했어.)",
+        "bold_words": [
+          "did what his parents told him to."
+        ],
+        "id": 6
+      },
+      {
+        "en": "I’ll do whatever you tell me to.",
+        "ko": "(네가 시키는 대로 다 할게.)",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "<strong>Follow [someone's] instructions / According to what [someone] said</strong>",
+        "ko": "\"지시하신 대로 / 말씀하신 대로 하다\"",
+        "bold_words": [
+          "Follow [someone's] instructions / According to what [someone] said"
+        ],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "(직장이나 공식적인 자리에서 상사, 고객 등의 지시 사항이나 매뉴얼을 따랐다고 말할 때 쓰는 격식 있는(formal) 표현)",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I <strong>followed the instructions that</strong> the manager gave me.",
+        "ko": "(매니저님이 주신 지시대로 했습니다.)",
+        "bold_words": [
+          "followed the instructions that"
+        ],
+        "id": 10
+      },
+      {
+        "en": "We did everything <strong>according to what you told us.</strong>",
+        "ko": "(저희는 말씀하신 대로 모든 것을 다 처리했습니다.)",
+        "bold_words": [
+          "according to what you told us."
+        ],
+        "id": 11
+      },
+      {
+        "en": "Please assemble this <strong>according to what the manual says.</strong>",
+        "ko": "(설명서에 적힌 대로 이것을 조립해 주세요.)",
+        "bold_words": [
+          "according to what the manual says."
+        ],
+        "id": 12
+      },
+      {
+        "en": "If you <strong>follow her instructions</strong>, there won't be any problems.",
+        "ko": "(그녀의 지시를 따르면 아무 문제 없을 거야.)",
+        "bold_words": [
+          "follow her instructions"
+        ],
+        "id": 13
+      },
+      {
+        "en": "I completed the report <strong>according to what you said</strong> yesterday.",
+        "ko": "(어제 말씀하신 대로 보고서를 완성했습니다.)",
+        "bold_words": [
+          "according to what you said"
+        ],
+        "id": 14
+      },
+      {
+        "en": "<strong>Do what I have always done / what I've been doing</strong>",
+        "ko": "\"늘 하던 대로 / 지금까지 해오던 대로 하다\" (평소의 습관이나 패턴을 유지하겠다고 할 때, 혹은 누군가에게 \"긴장하지 말고 평소 하던 대로 해\"라고 격려할 때)",
+        "bold_words": [
+          "Do what I have always done / what I've been doing"
+        ],
+        "id": 15
+      },
+      {
+        "en": "Don't be nervous, just <strong>do what you’ve always done.</strong>",
+        "ko": "긴장하지 말고 늘 하던 대로 해.)",
+        "bold_words": [
+          "do what you’ve always done."
+        ],
+        "id": 16
+      },
+      {
+        "en": "I’ll just <strong>do what I’ve been doing up to now.</strong>",
+        "ko": "(난 그냥 지금까지 해오던 대로 할게.)",
+        "bold_words": [
+          "do what I’ve been doing up to now."
+        ],
+        "id": 17
+      },
+      {
+        "en": "They <strong>did what they had always done</strong> in that situation.",
+        "ko": "(그들은 그런 상황에서 늘 하던 대로 했었어.)",
+        "bold_words": [
+          "did what they had always done"
+        ],
+        "id": 18
+      },
+      {
+        "en": "Let’s just <strong>do what we’ve been doing for the past month.</strong>",
+        "ko": "(그냥 지난 한 달 동안 해왔던 대로 하자.)",
+        "bold_words": [
+          "do what we’ve been doing for the past month."
+        ],
+        "id": 19
+      },
+      {
+        "en": "She is just <strong>doing what she always does</strong> on weekends.",
+        "ko": "(그녀는 주말에 늘 하던 대로 시간을 보내고 있어.)",
+        "bold_words": [
+          "doing what she always does"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>Stick to our (original) plan</strong>",
+        "ko": "\"원래 계획대로 하다 / 계획을 밀고 나가다\" (상황이 변하거나 다른 제안이 들어왔음에도 불구하고, 애초에 세웠던 계획을 변경하지 않고 그대로 고수하자고 제안할 때 사용)",
+        "bold_words": [
+          "Stick to our (original) plan"
+        ],
+        "id": 21
+      },
+      {
+        "en": "It's too late to change things; let's <strong>stick to our original plan.</strong>",
+        "ko": "(지금 바꾸기엔 너무 늦었어. 원래 계획대로 하자.)",
+        "bold_words": [
+          "stick to our original plan."
+        ],
+        "id": 22
+      },
+      {
+        "en": "I think it's best to <strong>stick to the plan</strong> for now.",
+        "ko": "(지금으로선 우리 계획대로 하는 게 최선인 것 같아.)",
+        "bold_words": [
+          "stick to the plan"
+        ],
+        "id": 23
+      },
+      {
+        "en": "Just <strong>stick to your plan</strong> and everything will be okay.",
+        "ko": "(그냥 네 계획대로만 해, 그럼 다 괜찮을 거야.)",
+        "bold_words": [
+          "stick to your plan"
+        ],
+        "id": 24
+      },
+      {
+        "en": "Why didn't you <strong>stick to the original plan?</strong>",
+        "ko": "(왜 원래 계획대로 하지 않았어?)",
+        "bold_words": [
+          "stick to the original plan?"
+        ],
+        "id": 25
+      },
+      {
+        "en": "We decided to <strong>stick to our plan</strong> despite the bad weather.",
+        "ko": "(나쁜 날씨에도 불구하고 우리는 원래 계획대로 하기로 결정했어.)",
+        "bold_words": [
+          "stick to our plan"
+        ],
+        "id": 26
+      },
+      {
+        "en": "Do what you learned / In the way you learned it",
+        "ko": "\"배운 대로 하다 / 배운 방식대로 하다\"  시험, 실전, 새로운 업무 투입 등에서 요령을 피우거나 당황하지 말고 자신이 훈련받고 배운 기본기 그대로 적용하라고 조언",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "Just relax and <strong>do what you learned.</strong>",
+        "ko": "(그냥 마음 편히 먹고 배운 대로 해.)",
+        "bold_words": [
+          "do what you learned."
+        ],
+        "id": 28
+      },
+      {
+        "en": "I tried to do it <strong>in the way I learned it.</strong>",
+        "ko": "(전 제가 배운 방식대로 해보려고 했어요.)",
+        "bold_words": [
+          "in the way I learned it."
+        ],
+        "id": 29
+      },
+      {
+        "en": "<strong>Remember what I taught you</strong> for the driving test.",
+        "ko": "(운전면허 시험 볼 때 내가 가르쳐준 대로 해.)",
+        "bold_words": [
+          "Remember what I taught you"
+        ],
+        "id": 30
+      },
+      {
+        "en": "If you just <strong>do what you learned</strong>, you'll pass the exam.",
+        "ko": "(배운 대로만 하면 시험에 합격할 거야.)",
+        "bold_words": [
+          "do what you learned"
+        ],
+        "id": 31
+      },
+      {
+        "en": "He played the piano exactly <strong>in the way he learned it.</strong>",
+        "ko": "(그는 배운 방식 그대로 정확하게 피아노를 쳤어.)",
+        "bold_words": [
+          "in the way he learned it."
+        ],
+        "id": 32
+      }
+    ]
   }
 }
