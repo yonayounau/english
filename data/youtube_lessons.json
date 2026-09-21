@@ -202874,5 +202874,301 @@
         "id": 32
       }
     ]
+  },
+  "2026-09-21": {
+    "name": "[ 영어 대화가이드 ] \"난 뭐든 상관 없어.\" , \"전 어디든 좋아요.\"",
+    "youtube_url": "https://youtu.be/S2HaHDusSe8",
+    "keywords": [
+      {
+        "en": "A: Which one do you want?",
+        "ko": "어느 거 마실래요?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "which 는 어느라는 말처럼 정해진 옵션 사이에서 선택하는 상황일 때 보통 사용",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "B: <span style=\"color:#8A67AB\"><strong>Either one is fine.</strong></span>",
+        "ko": "어느 것도 상관없어요.",
+        "bold_words": [
+          "Either one is fine."
+        ],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "either one 2개의 선택지 중 하나,어느것도 좋다→어느것도 상관없다.",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "You can have whichever one you want(to have)",
+        "ko": "(어느것이든) 당신이 원하는 거 하세요.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "A: What do you want( to eat)?",
+        "ko": "뭐먹을래요?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: <span style=\"color:#8A67AB\"><strong>Anything is fine.</strong></span>",
+        "ko": "뭐든 상관없어요.",
+        "bold_words": [
+          "Anything is fine."
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "(I don’t care라는 말을 사용하면, 나는 이 주제에 관심이 없다. 의 느낌이라 사용하지 않는 게 좋다. It doesn’t matter도 중요하지 않다. 의 뉘앙스라 여기서는 사용하지 않는게 좋을 듯하다.)",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "We can have whatever you want (to have)",
+        "ko": "당신이 원하는 뭐든 좋아요. (정해진 옵션중에서 선택하는 게 아니라 whichever은 어울리지 않는다.)",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "A: Where do you want to go?",
+        "ko": "어디 갈래요?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "B: <span style=\"color:#8A67AB\"><strong>Anywhere is fine</strong></span>",
+        "ko": "어디든 상관 없어요.",
+        "bold_words": [
+          "Anywhere is fine"
+        ],
+        "id": 11
+      },
+      {
+        "en": "We can go wherever you want to go.",
+        "ko": "당신이 원하는 데로 어디든 좋아요.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "A: Which one do you want?",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "B: Either one is fine",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "You can have whichever one you want (to have)",
+        "ko": "",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "A: What do you want to eat?",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "B: Anything is fine.",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "We an have whatever you want (to have)",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "A: Where do you want to go?",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "B: Anywhere is fine.",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "We can go wherever you want to go.",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "정해진 옵션 중에서 선택할 때 (Which / Either / Whichever)",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "상대방이 특정 옵션(주로 2개)을 주고 고르라고 할 때 사용하는 표현. \"이것\" 아니면 \"저것\" 중 선택하는 상황이므로 Either one is fine(둘 중 어느 것도 괜찮아)이나 Whichever(어느 것이든)를 사용합니다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "<strong>Either one is fine.</strong>",
+        "ko": "(둘 중 어느 것도 좋아요.)",
+        "bold_words": [
+          "Either one is fine."
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>Take whichever one you like.</strong>",
+        "ko": "(둘 중 마음에 드는 걸로 아무거나 가져가.)",
+        "bold_words": [
+          "Take whichever one you like."
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>Which shirt should I buy? Either one looks good on you.</strong>",
+        "ko": "(어떤 셔츠를 살까? 둘 다 너한테 잘 어울려.)",
+        "bold_words": [
+          "Which shirt should I buy? Either one looks good on you."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>You can choose whichever seat is available.</strong>",
+        "ko": "(남아있는 자리 중 아무 곳이나 선택하셔도 됩니다.)",
+        "bold_words": [
+          "You can choose whichever seat is available."
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>Either one works for my schedule.</strong>",
+        "ko": "(제 일정에는 둘 다 괜찮습니다.)",
+        "bold_words": [
+          "Either one works for my schedule."
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "정해진 옵션 없이 무언가를 선택할 때 (What / Anything / Whatever)",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "특정 범위 없이 \"무엇이든\" 좋다고 말할 때 사용",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "<strong>Anything is fine for dinner.</strong>",
+        "ko": "(저녁 메뉴는 뭐든 다 좋아요.)",
+        "bold_words": [
+          "Anything is fine for dinner."
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>We can watch whatever you want to watch.</strong>",
+        "ko": "(네가 보고 싶은 거 아무거나 보자.)",
+        "bold_words": [
+          "We can watch whatever you want to watch."
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>Do you need anything from the store? Anything is fine.</strong>",
+        "ko": "(가게에서 뭐 사다 줄까? 아무거나 다 좋아.)",
+        "bold_words": [
+          "Do you need anything from the store? Anything is fine."
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>Buy whatever you need for the trip.</strong>",
+        "ko": "(여행에 필요한 건 뭐든지 다 사.)",
+        "bold_words": [
+          "Buy whatever you need for the trip."
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>I'm okay with anything on the menu.</strong>",
+        "ko": "(메뉴에 있는 거면 저는 다 괜찮아요.)",
+        "bold_words": [
+          "I'm okay with anything on the menu."
+        ],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "장소를 정할 때 (Where / Anywhere / Wherever)",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "목적지나 장소를 정할 때 \"어디든\" 좋다고 말하는 상황입니다. Anywhere는 장소의 제약이 없음을, Wherever는 네가 향하는 곳이라면 어디든 이라는 뉘앙스를 줍니다.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<strong>Anywhere is fine for our meeting.</strong>",
+        "ko": "(우리 회의 장소는 어디든 괜찮아요.)",
+        "bold_words": [
+          "Anywhere is fine for our meeting."
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>We can sit wherever you want.</strong>",
+        "ko": "(네가 원하는 자리 아무 데나 앉자.)",
+        "bold_words": [
+          "We can sit wherever you want."
+        ],
+        "id": 18
+      },
+      {
+        "en": "<strong>Let's go wherever the wind takes us.</strong>",
+        "ko": "(발길 닿는 대로 어디든 가보자.)",
+        "bold_words": [
+          "Let's go wherever the wind takes us."
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>I can sleep anywhere. Anywhere is fine.</strong>",
+        "ko": "(난 아무 데서나 잘 자. 어디든 괜찮아.)",
+        "bold_words": [
+          "I can sleep anywhere. Anywhere is fine."
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>Put the box wherever there is space.</strong>",
+        "ko": "(공간이 남는 곳 어디든 그 상자를 두세요.)",
+        "bold_words": [
+          "Put the box wherever there is space."
+        ],
+        "id": 21
+      }
+    ]
   }
 }
