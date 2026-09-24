@@ -203170,5 +203170,303 @@
         "id": 21
       }
     ]
+  },
+  "2026-09-24": {
+    "name": "영어 표현력 업그레이드 - spend time + ing / waste time + ing",
+    "youtube_url": "https://youtu.be/mV_F2aqSSC8",
+    "keywords": [
+      {
+        "en": "I watched TV all day yesterday.",
+        "ko": "어제 하루종일 TV만 봤어",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "(집에서를 추가하려면 I slept at home all day yesterday. 라고 하면 slept 뒤에  all day/ yesterday/ at home 까지 다 들어가지면서 너무 중구난방이됨)",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "→ I spent all day yeseterday at home <span style=\"color:#D44C47\"><strong>watching</strong></span> TV",
+        "ko": "어제 (집에서) 하루종일 TV만 봤어",
+        "bold_words": [
+          "watching"
+        ],
+        "id": 3
+      },
+      {
+        "en": "I slept all day yesterday",
+        "ko": "어제 하루종일 잠만 잤어",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "→ 이럴경우 at home이 강조되어서 “잔 게”  이야기 거리가 아니라 “집에서” 가 강조됨, 세부사항들이 너무 강조되는 느낌 ( at home/ all day/ yesterday)",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "I spent all day yesterday at home <span style=\"color:#D44C47\">sleeping</span>",
+        "ko": "어제 집에서 하루종일 잠만잤어",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "I spent all day yesterday at home (<span style=\"color:#D44C47\"><strong>doing my homework/ writting my report/)</strong></span>",
+        "ko": "어제 하루종일 ~~했다.",
+        "bold_words": [
+          "doing my homework/ writting my report/)"
+        ],
+        "id": 7
+      },
+      {
+        "en": "I spent all day yesterday at home <span style=\"color:#D44C47\"><strong>doing nothing.</strong></span>",
+        "ko": "어제 집에서 하루종일 아무것도 안했어. → doing nothing을 강조해야 하므로.",
+        "bold_words": [
+          "doing nothing."
+        ],
+        "id": 8
+      },
+      {
+        "en": "I spent all weekend at home <span style=\"color:#D44C47\"><strong>doing nothing</strong></span>.",
+        "ko": "나 주말내내 집에서 아무것도 안했어.",
+        "bold_words": [
+          "doing nothing"
+        ],
+        "id": 9
+      },
+      {
+        "en": "",
+        "ko": "all weekend 주말 전체 가 아니라 주말 내내의 의미, all day , all night, all week 하루종일, 밤새, 한주내내",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "the whole weekend 주말 전체 (주말 내내 를 강조)",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "the entire weekend  주말 전체 - 주말 내내에 대해 좀더 강조하는 표현",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I wasted the whole weekend at home sleeping.",
+        "ko": "주말 내내 집에서잠만 자면서 시간을 낭비했다.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "I wasted the entire weekend at home doing nothing.",
+        "ko": "주말 내내 집에서 아무것도 안하면서 시간을 낭비했다.",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "I wasted too much time worrying.",
+        "ko": "걱정하느라 너무 많은 시간을 낭비했다.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "I spent all day yesterday at home sleeping",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "I sepnt all day yesterday at home watching TV",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "I spent all day yesterday at home doing nothing.",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "I spent all weekend at home doing nothing",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "I wasted the whole weekend at home sleeping.",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "I wasted the entire weekend at home doing nothing",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "I wasted too much time worrying.",
+        "ko": "",
+        "bold_words": [],
+        "id": 22
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "1.  spend + 시간 + (장소) + -ing (~하느라/하면서 시간을 보내다)",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "단순 과거동사(watched, slept 등) 뒤에 시간과 장소가 줄줄이 붙으면 초점이 흐려집니다. spend + 시간 + 장소로 배경을 먼저 묶어둔 뒤, 문장 끝에 -ing를 두어 핵심 행동에 자연스럽게 힘을 실어주는 구조입니다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I <strong>spent all weekend at home</strong> catching up on sleep.",
+        "ko": "(주말 내내 집에서 밀린 잠을 자며 보냈다.)",
+        "bold_words": [
+          "spent all weekend at home"
+        ],
+        "id": 3
+      },
+      {
+        "en": "She<strong> spent the whole afternoon at </strong>the cafe studying for her finals.",
+        "ko": "(그녀는 오후 내내 카페에서 기말고사 공부를 하며 보냈다.)",
+        "bold_words": [
+          "spent the whole afternoon at"
+        ],
+        "id": 4
+      },
+      {
+        "en": "We <strong>spent all night talking about</strong> our college days.",
+        "ko": "(우리는 밤새 대학 시절 이야기를 나누며 시간을 보냈다.)",
+        "bold_words": [
+          "spent all night talking about"
+        ],
+        "id": 5
+      },
+      {
+        "en": "I <strong>spent all day yesterday</strong> organizing my room.",
+        "ko": "(나 어제 하루 종일 방 정리하느라 보냈어.)",
+        "bold_words": [
+          "spent all day yesterday"
+        ],
+        "id": 6
+      },
+      {
+        "en": "He <strong>spent the entire morning</strong> answering client emails.",
+        "ko": "(그는 아침 내내 고객 이메일에 답장하느라 보냈다.)",
+        "bold_words": [
+          "spent the entire morning"
+        ],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "waste + 시간 + -ing (~하느라 시간을 허비하다/낭비하다)",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "spend 대신 waste를 쓰면 '생산적인 일을 하지 못하고 시간을 날려버렸다'는 아쉬움이나 자책의 뉘앙스가 명확해집니다.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I <strong>wasted the whole day </strong>scrolling through social media.",
+        "ko": "(SNS 피드 넘겨보느라 하루를 통째로 날렸다.)",
+        "bold_words": [
+          "wasted the whole day"
+        ],
+        "id": 10
+      },
+      {
+        "en": "Don't <strong>waste your energy arguing</strong> with people online.",
+        "ko": "(온라인에서 사람들과 말싸움하느라 에너지 낭비하지 마.)",
+        "bold_words": [
+          "waste your energy arguing"
+        ],
+        "id": 11
+      },
+      {
+        "en": "I <strong>wasted too much time looking</strong> for my car keys this morning.",
+        "ko": "(오늘 아침에 차 키 찾느라 시간을 너무 많이 허비했다.)",
+        "bold_words": [
+          "wasted too much time looking"
+        ],
+        "id": 12
+      },
+      {
+        "en": "We <strong>wasted two hours waiting</strong> in line for that restaurant.",
+        "ko": "(그 식당 줄 서서 기다리느라 두 시간을 날렸다.)",
+        "bold_words": [
+          "wasted two hours waiting"
+        ],
+        "id": 13
+      },
+      {
+        "en": "He <strong>wasted his twenties jumping</strong> from one part-time job to another.",
+        "ko": "(그는 여러 알바를 전전하며 20대를 허비했다.)",
+        "bold_words": [
+          "wasted his twenties jumping"
+        ],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "the whole / the entire + 기간 (특정 기간 전체를 내내)",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "all day, all weekend도 '하루 종일', '주말 내내'를 뜻하지만, the whole이나 격식 있는 the entire를 붙이면 \"그 기간의 시작부터 끝까지 단 1분도 빼놓지 않고\"라는 뉘앙스가 강하게 실립니다.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "It rained the whole weekend, so we couldn't go camping.",
+        "ko": "(주말 내내 비가 와서 캠핑을 가지 못했다.)",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "I was stuck in traffic for the entire trip.",
+        "ko": "(여행 이동 시간 전체 동안 차가 꽉 막혀 있었다.)",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "She stayed in bed the whole week with the flu.",
+        "ko": "(그녀는 독감 때문에 한 주 내내 누워만 있었다.)",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "<strong>I felt nervous the entire interview.</strong>",
+        "ko": "(면접 보는 내내 긴장됐다.)",
+        "bold_words": [
+          "I felt nervous the entire interview."
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>We binge-watched the entire season in one sitting.</strong>",
+        "ko": "(우리는 그 시즌 전체를 한자리에서 정주행했다.)",
+        "bold_words": [
+          "We binge-watched the entire season in one sitting."
+        ],
+        "id": 21
+      }
+    ]
   }
 }
