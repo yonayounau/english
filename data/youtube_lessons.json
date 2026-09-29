@@ -203468,5 +203468,358 @@
         "id": 21
       }
     ]
+  },
+  "2026-09-29": {
+    "name": "should / have to / be supposed to − 무슨 차이일까?",
+    "youtube_url": "https://youtu.be/UUTnXGIHi4c?si=vok1me57c5HoVA3E",
+    "keywords": [
+      {
+        "en": "have to",
+        "ko": "~해야 돼/ 해야된다 (shoud 는 아니다.)",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "don’t have to",
+        "ko": "(부정형) 안해도 된다. 할 필요가 없다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "must",
+        "ko": "~해야만 한다.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "should",
+        "ko": "권장의 의미( 의무가 아님)",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "shouldn’t",
+        "ko": "~하지 않는게 좋겠다. 하면 안된다. (개인적 조언,충고)",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "be supposed to",
+        "ko": "",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "be not supposed to",
+        "ko": "~하지 않는 게 좋겠어.(전통, 상식적인 기준, 관습/관례)",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "I should go to work this Saturday",
+        "ko": "나 이번 주 토요일에 출근하는 게 좋을 것 같아./ 해야겠어. [나의 생각]",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "I have to go to work this Saturday",
+        "ko": "나 이번 주 토요일에 출근해야 돼[의무]",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "You don’t have to come early.",
+        "ko": "일찍 일어나지 않아도 되!",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "I don’t have to get up early tomorrow.",
+        "ko": "내일 일찍 일어나지 않아도 되.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "You shouldn’t carry so much cash",
+        "ko": "현금을 그렇게 많이 가지고 다니면 안되",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "You shouldn’t take those vitamins so often",
+        "ko": "비타민을 그렇게 자주먹으면 안",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "You shouldn’t be late on the first da",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      }
+    ],
+    "my_sentences": []
+  },
+  "2026-09-28": {
+    "name": "[ 일상을 영어로 말하기 ] \"한 달전에 주문해 놓은게 도착했어. 완전 잊고 있었어.\"",
+    "youtube_url": "https://youtu.be/_yoJqWyDgao",
+    "keywords": [
+      {
+        "en": "I got a package delivered yesterday.",
+        "ko": "어제 택배를 하나 (배달) 받았어요. [어제 택배가 도착했다]",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "I received a package yesterday.",
+        "ko": "어제 택배가 도착했다.(delivered를 안쓰고 사용하는 말)",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "It was a pair of pants that I <span style=\"color:#D44C47\"><strong>had ordered </strong></span>almost a month back.",
+        "ko": "거의 한 달 전에 주문해 놓은 바지였어요.",
+        "bold_words": [
+          "had ordered"
+        ],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "→ 과거 완료형을 사용하는 이유는 almost a month back이라 한달전이라",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "ago대신 back을 사용한 이유는 원칙적으로 어제 택배를 받았고, 그 어제 이전 한달이라 ago대신 back을 사용해줘야 함. 그래서 대과거형태라 과거완료형을 사용해야 한다.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "ba",
+        "ko": "ago는 언제나 현재시점을 기준으로 ~전을 표기한다.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "I don’t buy clothes very often",
+        "ko": "제가 옷을 자주 사는 편이 아니라서",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "so <strong>I </strong><span style=\"color:#D44C47\"><strong>had</strong></span><strong> totally </strong><span style=\"color:#D44C47\"><strong>forgotten</strong></span><strong> about it </strong>until it arrived yesterday morning.",
+        "ko": "어제 아침에 도착하기 전까지 완전히 잊고 있었어요.",
+        "bold_words": [
+          "I",
+          "had",
+          "totally",
+          "forgotten",
+          "about it"
+        ],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "→ 이것 역시 과거완료형인 이유가 잊고있었던게 어제 아침을 기준으로 더 과거라 대과거라",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I had totally forgotten",
+        "ko": "완전히 잊고 있었다.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "I got a package delivered yesterday.(= I received a package yesterday.)",
+        "ko": "",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "It was a pair of pants that I had ordered almost a month back",
+        "ko": "",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I don’t buy clothes very often.",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "So I had totally forgotten abot it until it arrived yesterday morning,",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "get [사물] delivered (배달받다)",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "I received a package는 단순히 '받았다'는 사실에 초점을 맞춘다면, I got a package delivered는 누군가에 의해 내게 '배달되도록 했다'는 사역동사 get의 뉘앙스를 살린 훨씬 자연스러운 원어민 표현입니다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I got my groceries delivered this morning.",
+        "ko": "(오늘 아침에 식료품을 배달받았어요.)",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "We are getting the furniture delivered next week.",
+        "ko": "(우리는 다음 주에 가구를 배달받을 예정입니다.)",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "Can I get this pizza delivered to my office?",
+        "ko": "(이 피자를 제 사무실로 배달시킬 수 있나요?)",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "",
+        "ko": "She got her new laptop delivered yesterday. (그녀는 어제 새 노트북을 배달받았습니다.)",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "It's so convenient to get meals delivered. (음식을 배달시켜 먹는 것은 너무 편리해요.)",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "시간 + back (과거 특정 시점 기준의 '~전에' / 캐주얼한 '전에')",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "노트에 적어두신 것처럼 ago는 '현재'를 기준으로 '~전'을 말할 때 엄격하게 쓰이는 반면, 회화에서 back은 과거의 특정 시점을 기준으로 하거나 단순히 ago를 대신하는 훨씬 캐주얼한 표현으로 자주 사용됩니다.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "We met at a cafe a few days back.",
+        "ko": "(우리는 며칠 전에 카페에서 만났어요.)",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "I started reading this book a couple of weeks back.",
+        "ko": "(저는 몇 주 전에 이 책을 읽기 시작했어요.)",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "He mentioned that issue a few months back.",
+        "ko": "(그가 몇 달 전에 그 문제를 언급했었어요.)",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "We visited that restaurant a year back.",
+        "ko": "(우리는 1년 전쯤에 그 식당에 갔었어요.)",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "I heard the news a few hours back.",
+        "ko": "(몇 시간 전에 그 소식을 들었어요.)",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "과거완료 (had p.p) - 대과거 표현",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "When I arrived at the station, the train had already left.",
+        "ko": "(내가 역에 도착했을 때, 기차는 이미 떠나고 없었다.)",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "I realized I had left my wallet at home.",
+        "ko": "(집에 지갑을 두고 왔다는 것을 깨달았다.)",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "She had finished her homework before her mom came back.",
+        "ko": "(그녀는 엄마가 돌아오기 전에 숙제를 끝냈다.)",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "I had never seen a panda until I went to the zoo last year.",
+        "ko": "(작년에 동물원에 가기 전까지는 판다를 본 적이 없었다.)",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "He had totally forgotten about the meeting until his boss called.",
+        "ko": "(상사가 전화하기 전까지 그는 회의에 대해 완전히 잊고 있었다.)",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "don't [동사] very often (~를 자주 하는 편이 아니다)",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "",
+        "ko": "\"I rarely buy clothes\"처럼 딱딱하게 말하기보다, 일상 회화에서 부드럽게 \"자주 ~하는 편은 아니야\"라고 말할 때 활용도가 아주 높은 패턴입니다.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "I don't eat out very often.",
+        "ko": "(저는 외식을 자주 하는 편이 아니에요.)",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "We don't see each other very often these days.",
+        "ko": "(우리는 요즘 서로 자주 만나는 편이 아니에요.)",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "He doesn't drink coffee very often.",
+        "ko": "(그는 커피를 자주 마시는 편이 아니에요.)",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "I don't check my email very often on weekends.",
+        "ko": "(저는 주말에는 이메일을 자주 확인하는 편이 아니에요.)",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "She doesn't wear makeup very often.",
+        "ko": "(그녀는 화장을 자주 하는 편이 아니에요.)",
+        "bold_words": [],
+        "id": 27
+      }
+    ]
   }
 }
