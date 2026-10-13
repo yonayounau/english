@@ -205896,5 +205896,705 @@
         "id": 33
       }
     ]
+  },
+  "2026-10-13": {
+    "name": "[기초영어회화] \"완전 신나요\", \"너무 기대되요\"",
+    "youtube_url": "https://youtu.be/XWh_zLmz500?si=wWvWrWOMWGSdUHgz",
+    "keywords": [
+      {
+        "en": "A: Are you going to do something during your vacation?",
+        "ko": "휴가  뭐(라도) 하실거예요?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "B: Yeah. actually, I’m staying in Paris for 2 weeks.",
+        "ko": "네, 사실은 2주 동안 파리에 머무를 거예요.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "[미래 얘기지만 현재 진행형으로 사용하는것]",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "I’m meeting up with some friends this week.",
+        "ko": "이번 주에 친구 만날거에요.",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "I’m moving next month.",
+        "ko": "다음 주에 이사할거에요.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "A: Wow. that sounds great. You must be excited",
+        "ko": "오~ 재밌겠다. 어 신나겠다./기대되겠다/ 좋겠다.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "B: Oh. yeah I’m really excited. Actually, it’s my first time going to Europe.",
+        "ko": "오, 그럼요. 완전 신나요. 사실, 유럽을 가는게 처음이라",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "So, I’m really looking forward to it.",
+        "ko": "정말 많이 기대하고 있어요.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "I’m really excited (감탄사에 가까움)",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "A: Are you going to do something during your vacation?",
+        "ko": "I’m really looking forward to it. (서술적 표현에 가까움)",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "B: Yeah. actually. I’m staying in Paris for 2 weeks.",
+        "ko": "",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "A: Wow. that sounds great! You must be (really) excited",
+        "ko": "",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "B: Oh. Yeah. I’m really excited. Acatully it’s my first time going to Europe.",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "So, I’m really looking forward to it.",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      }
+    ],
+    "my_sentences": []
+  },
+  "2026-10-12": {
+    "name": "영어로 질문하기 ❓ 어감에 따라 다양한 질문방식",
+    "youtube_url": "https://youtu.be/wMX7-DrdfxI",
+    "keywords": [
+      {
+        "en": "<strong>Do they open</strong> at this hour?",
+        "ko": "[직접적으로] 거기 이시간에 (문) 여나요?",
+        "bold_words": [
+          "Do they open"
+        ],
+        "id": 1
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Do you think</strong></span><strong> </strong>they open at this hour?",
+        "ko": "[의견,생각을 물을 때] 거기가 이 시간에 (문) 열까요?",
+        "bold_words": [
+          "Do you think"
+        ],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "Do you think? 의견을 물을 때.[정보를 물을 때]",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Do you know if </strong></span>they open at this hour?",
+        "ko": "거기가 이 시간에 (문)여는지 혹시 아세요?",
+        "bold_words": [
+          "Do you know if"
+        ],
+        "id": 4
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>I don’t suppose you know </strong></span><span style=\"color:#D44C47\"><strong>if </strong></span>they open at this hour.",
+        "ko": "거기가 이 시간에 (문)여는지.. 는 잘 모르시죠?",
+        "bold_words": [
+          "I don’t suppose you know",
+          "if"
+        ],
+        "id": 5
+      },
+      {
+        "en": "I don’t suppose you know if~",
+        "ko": "(이건 잘 모르시죠..?, 혹시나 해서 물어보는데,) 모른다는 가정에서, 혹시나에해서 묻는 것, 가장 조심스럽게 묻는것.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>I wonder</strong></span><span style=\"color:#D44C47\"><strong> if</strong></span> they open at this hour.",
+        "ko": "[독백식]거기가 이 시간에 문 여나??  (상대방에게 직접적으로 물어보는 건 아니고 들으라고 하는 말. 상대방에 생각을 묻는 것.)",
+        "bold_words": [
+          "I wonder",
+          "if"
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>What time</strong> do they open?",
+        "ko": "거기가 몇 시에 문을 여나요?",
+        "bold_words": [
+          "What time"
+        ],
+        "id": 8
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>What time do you think </strong></span> do they open?",
+        "ko": "거기가 몇 시에 (문) 열까요?",
+        "bold_words": [
+          "What time do you think"
+        ],
+        "id": 9
+      },
+      {
+        "en": "<strong>Do you know </strong><span style=\"color:#D44C47\"><strong>what time</strong></span><span style=\"color:#D44C47\"> </span>they open?",
+        "ko": "(상대방이 정보를 아는 지 묻고 싶을 때) 거기가 몇 시에 (문)여는지 혹시 아세요?",
+        "bold_words": [
+          "Do you know",
+          "what time"
+        ],
+        "id": 10
+      },
+      {
+        "en": "",
+        "ko": "what time 이 먼저 들어가면 질문이 2개가 되면서 안됨.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "거기가 몇시에 여는지 아세요 가되어야지",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "거기가 몇시에 여세요? 아세요? 이렇게 되면 안되니까",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>I don’t suppose you know</strong></span><span style=\"color:#D44C47\"><strong> what time</strong></span> they open.",
+        "ko": "거기가 몇시에 (문)여는지.. 잘 모르시죠?",
+        "bold_words": [
+          "I don’t suppose you know",
+          "what time"
+        ],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "I don’t suppose you know if ~ ~는 여부(Yes/No 답변)를 물어보는 거라 했는지 안했는지라면",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "I don’t suppose you know what time ~ 정보를 물어보는 거기 때문에 해당 의문사가 들어오는 것",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>I wonder </strong></span><span style=\"color:#D44C47\"><strong>what time</strong></span> they open",
+        "ko": "거기가 몇시에 (문)여나?",
+        "bold_words": [
+          "I wonder",
+          "what time"
+        ],
+        "id": 17
+      },
+      {
+        "en": "Do they open at this hour?",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "Do you think they open at this hour?",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "Do you know if they open at this hour?",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "I don’t supppose you know if they open at this hour.",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "I wonder if they open at this hour.",
+        "ko": "",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "What time do they open?",
+        "ko": "",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "What time do you think they open?",
+        "ko": "",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "Do you know what time they open?",
+        "ko": "",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "I don’t suppose you know what time they open.",
+        "ko": "",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "I wonder what time they open.",
+        "ko": "",
+        "bold_words": [],
+        "id": 27
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "[1] 여전히 티켓이 남아있을까?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "Do they still have tickets left?",
+        "ko": "(여전히 티켓 남아있을까?)",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "Do you think they still have tickets left?",
+        "ko": "(티켓이 남아있을 것 같아?)",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "Do you know if they still  have the tickets?",
+        "ko": "(아직 티켓이 남아있을 것 같아?)",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "I don’t suppose you know if they have tickets left.",
+        "ko": "(티켓이 남아있는지 잘 모르시죠?)",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "I wonder if they have <strong>any</strong> tickets left.",
+        "ko": "티켓이 남아있으려나",
+        "bold_words": [
+          "any"
+        ],
+        "id": 6
+      },
+      {
+        "en": "How can we open the door?",
+        "ko": "[2] 어떻게 문을 여는지알아?",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "Do you know how we can open the door?/ Do you know how to open the door?",
+        "ko": "",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "I don’t suppose you know how to open the door.",
+        "ko": "",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "I wonder how we can open the door",
+        "ko": "[3] 어디서 사야하는지 알아?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "Where do we buy it?",
+        "ko": "(어디서 그거 사야하지?)",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "Where should we buy it?",
+        "ko": "(어디서 그거 사야하는지?)",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "Where do you think we should buy it?",
+        "ko": "(어디서 그거 사야하는 지 알아?)",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "Do you know where we can buy it.",
+        "ko": "(어디서 사는지/살 수 있는지 혹시 알아?)",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "I don’t suppose you know where we can  buy it.",
+        "ko": "(어디서 살 수 있는 지 잘모르시죠?)",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "I wonder where we can buy it.",
+        "ko": "(어디에서 살 수 있으려나)",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<strong>Do you think ~?</strong>",
+        "ko": "(의견/추측 묻기: \"~일 것 같아? / ~할까?\")",
+        "bold_words": [
+          "Do you think ~?"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>Do you think</strong> it will rain this afternoon?",
+        "ko": "(오늘 오후에 비 올 것 같아?)",
+        "bold_words": [
+          "Do you think"
+        ],
+        "id": 18
+      },
+      {
+        "en": "<strong>Do you think</strong> we can finish this on time?",
+        "ko": "(우리 이거 제시간에 끝낼 수 있을까?)",
+        "bold_words": [
+          "Do you think"
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>Do you think</strong> he likes Italian food?",
+        "ko": "(걔 이탈리안 음식 좋아할 것 같아?)",
+        "bold_words": [
+          "Do you think"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>What do you think</strong> they sell there?",
+        "ko": "(거기서 뭘 파는 것 같아?)",
+        "bold_words": [
+          "What do you think"
+        ],
+        "id": 21
+      },
+      {
+        "en": "<strong>How long do you think</strong> it will take?",
+        "ko": "(얼마나 걸릴 것 같아?)",
+        "bold_words": [
+          "How long do you think"
+        ],
+        "id": 22
+      },
+      {
+        "en": "Do you know if ~?",
+        "ko": "(정보 여부 묻기: \"~인지/몇 시인지 아세요?\")",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "<strong>Do you know if</strong> this bus goes to the airport?",
+        "ko": "(이 버스 공항 가는지 아세요?)",
+        "bold_words": [
+          "Do you know if"
+        ],
+        "id": 24
+      },
+      {
+        "en": "<strong>Do you know if</strong> Sarah is in the office today?",
+        "ko": "(사라 오늘 사무실에 출근했는지 아세요?)",
+        "bold_words": [
+          "Do you know if"
+        ],
+        "id": 25
+      },
+      {
+        "en": "<strong>Do you know where</strong> the nearest pharmacy is?",
+        "ko": "(가장 가까운 약국이 어디 있는지 아세요?)",
+        "bold_words": [
+          "Do you know where"
+        ],
+        "id": 26
+      },
+      {
+        "en": "<strong>Do you know how much</strong> this costs?",
+        "ko": "(이거 얼마인지 아세요?)",
+        "bold_words": [
+          "Do you know how much"
+        ],
+        "id": 27
+      },
+      {
+        "en": "<strong>Do you know what time</strong> the meeting starts?",
+        "ko": "(회의 몇 시에 시작하는지 아세요?)",
+        "bold_words": [
+          "Do you know what time"
+        ],
+        "id": 28
+      },
+      {
+        "en": "I don’t suppose you know if~",
+        "ko": "(조심스럽게 묻기: \"~는 잘 모르시죠?\")",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "<strong>I don’t suppose you know if</strong> there’s any parking space left.",
+        "ko": "(혹시 주차 공간 남았는지는... 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know if"
+        ],
+        "id": 30
+      },
+      {
+        "en": "<strong>I don’t suppose you know if</strong> the manager is free right now.",
+        "ko": "(매니저님이 지금 시간 괜찮으신지는... 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know if"
+        ],
+        "id": 31
+      },
+      {
+        "en": "<strong>I don’t suppose you know what time</strong> the last train arrives.",
+        "ko": "(막차가 몇 시에 도착하는지는... 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know what time"
+        ],
+        "id": 32
+      },
+      {
+        "en": "<strong>I don’t suppose you know where</strong> Tom went.",
+        "ko": "(톰이 어디 갔는지는... 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know where"
+        ],
+        "id": 33
+      },
+      {
+        "en": "<strong>I don’t suppose you know how</strong> this machine works.",
+        "ko": "(이 기계 어떻게 쓰는지는... 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know how"
+        ],
+        "id": 34
+      },
+      {
+        "en": "I wonder if",
+        "ko": "(독백식/넌지시 묻기: \"~일까? / ~인지 궁금하네\")",
+        "bold_words": [],
+        "id": 35
+      },
+      {
+        "en": "<strong>I wonder if</strong> they take reservations.",
+        "ko": "(거기 예약 받으려나/받나?)",
+        "bold_words": [
+          "I wonder if"
+        ],
+        "id": 36
+      },
+      {
+        "en": "<strong>I wonder if</strong> this shirt comes in a different color.",
+        "ko": "(이 셔츠 다른 색도 있으려나?)",
+        "bold_words": [
+          "I wonder if"
+        ],
+        "id": 37
+      },
+      {
+        "en": "<strong>I wonder what</strong> the weather will be like tomorrow.",
+        "ko": "(내일 날씨가 어떨지 궁금하네.)",
+        "bold_words": [
+          "I wonder what"
+        ],
+        "id": 38
+      },
+      {
+        "en": "<strong>I wonder why</strong> the store is closed today.",
+        "ko": "(오늘 가게가 왜 닫았담?)",
+        "bold_words": [
+          "I wonder why"
+        ],
+        "id": 39
+      },
+      {
+        "en": "<strong>I wonder who</strong> left this bag here.",
+        "ko": "(누가 이 가방을 여기 뒀지?)",
+        "bold_words": [
+          "I wonder who"
+        ],
+        "id": 40
+      },
+      {
+        "en": "",
+        "ko": "[세트 1] 배달이 언제 오는지 물어볼 때 (when the food arrives)",
+        "bold_words": [],
+        "id": 41
+      },
+      {
+        "en": "When does the food arrive?",
+        "ko": "(음식 언제 와요?)",
+        "bold_words": [],
+        "id": 42
+      },
+      {
+        "en": "<strong>When do you think</strong> the food will arrive?",
+        "ko": "(음식 언제쯤 올 것 같아?)",
+        "bold_words": [
+          "When do you think"
+        ],
+        "id": 43
+      },
+      {
+        "en": "<strong>Do you know when</strong> the food will arrive?",
+        "ko": "(음식 몇 시에 오는지 혹시 알아요?)",
+        "bold_words": [
+          "Do you know when"
+        ],
+        "id": 44
+      },
+      {
+        "en": "<strong>I don’t suppose you know when</strong> the food will arrive.",
+        "ko": "(음식 몇 시에 오는지...는 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know when"
+        ],
+        "id": 45
+      },
+      {
+        "en": "<strong>I wonder when</strong> the food will arrive.",
+        "ko": "(음식 언제 오려나...?)",
+        "bold_words": [
+          "I wonder when"
+        ],
+        "id": 46
+      },
+      {
+        "en": "",
+        "ko": "[세트 2] 그 사람이 파티에 오는지 물어볼 때 (if he comes to the party)",
+        "bold_words": [],
+        "id": 47
+      },
+      {
+        "en": "Is he coming to the party?",
+        "ko": "(걔 파티에 와?)",
+        "bold_words": [],
+        "id": 48
+      },
+      {
+        "en": "<strong>Do you think</strong> he's coming to the party?",
+        "ko": "(걔 파티에 올 것 같아?)",
+        "bold_words": [
+          "Do you think"
+        ],
+        "id": 49
+      },
+      {
+        "en": "<strong>Do you know if</strong> he's coming to the party?",
+        "ko": "(걔 파티에 오는지 혹시 알아?)",
+        "bold_words": [
+          "Do you know if"
+        ],
+        "id": 50
+      },
+      {
+        "en": "<strong>I don’t suppose you know if</strong> he's coming to the party.",
+        "ko": "(걔 파티에 오는지...는 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know if"
+        ],
+        "id": 51
+      },
+      {
+        "en": "",
+        "ko": "I wonder if he's coming to the party. (걔 파티에 올려나...?)",
+        "bold_words": [],
+        "id": 52
+      },
+      {
+        "en": "",
+        "ko": "[세트 3] 은행이 어디 있는지 물어볼 때 (where the bank is)",
+        "bold_words": [],
+        "id": 53
+      },
+      {
+        "en": "Where is the bank?",
+        "ko": "(은행 어디 있어요?)",
+        "bold_words": [],
+        "id": 54
+      },
+      {
+        "en": "<strong>Where do you think</strong> the bank is around here?",
+        "ko": "(이 근처 어디에 은행이 있을까?)",
+        "bold_words": [
+          "Where do you think"
+        ],
+        "id": 55
+      },
+      {
+        "en": "<strong>Do you know where</strong> the bank is?",
+        "ko": "(혹시 은행 어디 있는지 아세요?)",
+        "bold_words": [
+          "Do you know where"
+        ],
+        "id": 56
+      },
+      {
+        "en": "<strong>I don’t suppose you know where</strong> the bank is.",
+        "ko": "(혹시 은행 어디 있는지는... 잘 모르시죠?)",
+        "bold_words": [
+          "I don’t suppose you know where"
+        ],
+        "id": 57
+      },
+      {
+        "en": "<strong>I wonder where</strong> the bank is.",
+        "ko": "(은행이 어디 있으려나...)",
+        "bold_words": [
+          "I wonder where"
+        ],
+        "id": 58
+      }
+    ]
   }
 }
