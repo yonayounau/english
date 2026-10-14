@@ -206596,5 +206596,305 @@
         "id": 58
       }
     ]
+  },
+  "2026-10-14": {
+    "name": "[ 영어회화 ] 숙어x1 / 구동사x2 (hit a bump in the road/ )",
+    "youtube_url": "https://youtu.be/CLNNPpABIYY?si=-OGEZe920vgo0SA3",
+    "keywords": [
+      {
+        "en": "A: So, How’s the preparation going?",
+        "ko": "준비는 어떻게 돼가?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "How’s it going?",
+        "ko": "어떻게 지내니?",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "B: Well, I’ve<span style=\"color:#487CA5\"><strong> hit a few bumps</strong></span> in the road but (they’re) <span style=\"color:#548164\"><strong>nothing I can’t handle</strong></span>",
+        "ko": "약간의 차질(문제/지체)이 좀 있긴 했는데 내가 감당 못할건 없어.",
+        "bold_words": [
+          "hit a few bumps",
+          "nothing I can’t handle"
+        ],
+        "id": 3
+      },
+      {
+        "en": "I’m <span style=\"color:#8A67AB\"><strong>sorting</strong></span> things <span style=\"color:#8A67AB\"><strong>out </strong></span>one by one and<strong> eventually</strong> its’ going to <span style=\"color:#976D57\"><strong>work out </strong></span>OK",
+        "ko": "하나씩 정리하고 있고 결국 잘 (해결) 될거야.",
+        "bold_words": [
+          "sorting",
+          "out",
+          "eventually",
+          "work out"
+        ],
+        "id": 4
+      },
+      {
+        "en": "hit a bump in the road",
+        "ko": "무엇을 하는 과정에서 차질이 생기다.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "nothing I can’t handle",
+        "ko": "그것들은 내가 감당하지 못하는 것들이 아니다.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "sort out",
+        "ko": "정렬시키다/ (상황따위)를 정리,해결하다",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "eventually",
+        "ko": "결국에는",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "work out",
+        "ko": "(상황이나 일)이 해결되다.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "Don’t worry , it’s goign to work out OK/great/fine",
+        "ko": "걱정하지마 일이 잘될거야.",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "How’s the preparation going?",
+        "ko": "",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "Well, I’ve hit a few bumps in a road but (they’re) nothing I can’t handle.",
+        "ko": "",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I’m sorting things out one by one,",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "and eventually It’s going to work out OK.",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>hit a bump in the road</strong>",
+        "ko": "(차질이 생기다 / 약간의 난관에 부딪히다) 도로 위의 요철(과속방지턱이나 덜컹거리는 길)을 밟는 이미지입니다. 프로젝트나 계획이 완전히 망가진 게 아니라, \"순조롭게 가다가 일시적인 걸림돌·지연이 생겼다\"는 뉘앙스라 가볍고 긍정적인 맥락에서 자주 쓰입니다.",
+        "bold_words": [
+          "hit a bump in the road"
+        ],
+        "id": 1
+      },
+      {
+        "en": "hit a few bumps in the road",
+        "ko": "(복수형) 차질이생기다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "We <strong>hit a bump in the road</strong> with the supplier, but shipment is back on track.",
+        "ko": "(공급업체 문제로 약간의 차질이 있었지만, 배송은 다시 정상 궤도에 올랐어요.)",
+        "bold_words": [
+          "hit a bump in the road"
+        ],
+        "id": 3
+      },
+      {
+        "en": "Every new business <strong>hits a few bumps in the road</strong> in the beginning.",
+        "ko": "(모든 신규 사업은 초반에 몇 가지 난관에 부딪히기 마련이에요.)",
+        "bold_words": [
+          "hits a few bumps in the road"
+        ],
+        "id": 4
+      },
+      {
+        "en": "The development team <strong>hit a minor bump in the road</strong>, but it shouldn't delay the release date.",
+        "ko": "(개발팀에 사소한 차질이 생겼지만, 출시일을 미룰 정도는 아닙니다.)",
+        "bold_words": [
+          "hit a minor bump in the road"
+        ],
+        "id": 5
+      },
+      {
+        "en": "Don't let this <strong>bump in the road</strong> discourage you; you're doing great.",
+        "ko": "(이깟 작은 걸림돌 때문에 낙담하지 마세요. 아주 잘하고 있어요.)",
+        "bold_words": [
+          "bump in the road"
+        ],
+        "id": 6
+      },
+      {
+        "en": "We <strong>hit a bump in the road</strong> when our flight was canceled, but we managed to rent a car.",
+        "ko": "(비행기가 취소되면서 차질이 좀 있었지만, 어찌어찌 렌터카를 구했어요.)",
+        "bold_words": [
+          "hit a bump in the road"
+        ],
+        "id": 7
+      },
+      {
+        "en": "nothing I can't handle",
+        "ko": "(내가 감당 못 할 건 아니야 / 다 해결할 수 있어)",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "nothing you can’t handle",
+        "ko": "(너 충분히 해낼 수 있어)",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "It's a tight deadline, but it's <strong>nothing I can't handle</strong>.",
+        "ko": "(마감이 빠듯하긴 하지만, 제가 감당 못 할 정도는 아닙니다.)",
+        "bold_words": [
+          "nothing I can't handle"
+        ],
+        "id": 10
+      },
+      {
+        "en": "Don't panic about the presentation tomorrow; it's <strong>nothing you can't handle</strong>.",
+        "ko": "(내일 발표 너무 긴장하지 마, 너 충분히 해낼 수 있어.)",
+        "bold_words": [
+          "nothing you can't handle"
+        ],
+        "id": 11
+      },
+      {
+        "en": "I have three exams this week, but it's <strong>nothing I can't handle</strong>.",
+        "ko": "(이번 주에 시험이 세 개나 있지만, 다 감당할 수 있어요.)",
+        "bold_words": [
+          "nothing I can't handle"
+        ],
+        "id": 12
+      },
+      {
+        "en": "Work has been crazy lately, but honestly, it's <strong>nothing we can't handle</strong>.",
+        "ko": "(요즘 일이 미친 듯이 많지만, 솔직히 저희가 해결 못 할 수준은 아니에요.)",
+        "bold_words": [
+          "nothing we can't handle"
+        ],
+        "id": 13
+      },
+      {
+        "en": "The bug caused some issues, but it's <strong>nothing our tech team can't handle</strong>.",
+        "ko": "(그 버그 때문에 문제가 좀 생겼지만, 기술팀이 해결하지 못할 문제는 아닙니다.)",
+        "bold_words": [
+          "nothing our tech team can't handle"
+        ],
+        "id": 14
+      },
+      {
+        "en": "sort (things) out",
+        "ko": "(문제를 해결하다 / 정리·수습하다) 엉켜 있거나 어수선한 상태(빨래, 서류, 복잡한 상황, 사람 간의 오해 등)를 조목조목 분류해서 질서를 잡고 해결해 나갈 때",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "Let's sit down and <strong>sort this out</strong> before things get worse.",
+        "ko": "(상황이 더 나빠지기 전에 앉아서 이 문제를 풀어보자.)",
+        "bold_words": [
+          "sort this out"
+        ],
+        "id": 16
+      },
+      {
+        "en": "I need a couple of days to <strong>sort out</strong> my personal schedule.",
+        "ko": "(개인 일정을 정리하려면 이틀 정도 필요해요.)",
+        "bold_words": [
+          "sort out"
+        ],
+        "id": 17
+      },
+      {
+        "en": "We had a small misunderstanding, but we <strong>sorted it out</strong> quickly.",
+        "ko": "(약간의 오해가 있었지만, 금방 잘 풀었어요.)",
+        "bold_words": [
+          "sorted it out"
+        ],
+        "id": 18
+      },
+      {
+        "en": "I'm trying to <strong>sort out</strong> the paperwork for my visa.",
+        "ko": "(비자 관련 서류 작업을 하나씩 정리하며 처리하는 중이에요.)",
+        "bold_words": [
+          "sort out"
+        ],
+        "id": 19
+      },
+      {
+        "en": "Once we <strong>sort out</strong> the budget issue, we can start hiring.",
+        "ko": "(예산 문제만 정리되면 채용을 시작할 수 있습니다.)",
+        "bold_words": [
+          "sort out"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>work out</strong>",
+        "ko": "(일이 잘 풀리다 / 해결되다)",
+        "bold_words": [
+          "work out"
+        ],
+        "id": 21
+      },
+      {
+        "en": "Don't worry too much; everything will <strong>work out</strong> in the end.",
+        "ko": "(너무 걱정하지 마, 결국엔 다 잘 풀릴 거야.)",
+        "bold_words": [
+          "work out"
+        ],
+        "id": 22
+      },
+      {
+        "en": "I was nervous about moving abroad, but it all <strong>worked out</strong> fine.",
+        "ko": "(해외로 이사하는 게 불안했는데, 다 순조롭게 잘 풀렸어요.)",
+        "bold_words": [
+          "worked out"
+        ],
+        "id": 23
+      },
+      {
+        "en": "Our initial plan failed, but things <strong>worked out</strong> even better in the end.",
+        "ko": "(첫 계획은 실패했지만, 결국엔 오히려 일이 더 잘 풀렸습니다.)",
+        "bold_words": [
+          "worked out"
+        ],
+        "id": 24
+      },
+      {
+        "en": "I hope things <strong>work out</strong> between you and your roommate.",
+        "ko": "(룸메이트와의 문제가 잘 원만하게 해결되길 바라.)",
+        "bold_words": [
+          "work out"
+        ],
+        "id": 25
+      },
+      {
+        "en": "We couldn't agree on the contract terms, so the deal just didn't <strong>work out</strong>.",
+        "ko": "(계약 조건을 조율하지 못해서, 결국 그 거래는 성사되지 않았어요.)",
+        "bold_words": [
+          "work out"
+        ],
+        "id": 26
+      }
+    ]
   }
 }
