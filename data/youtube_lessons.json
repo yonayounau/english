@@ -206896,5 +206896,383 @@
         "id": 26
       }
     ]
+  },
+  "2026-10-29": {
+    "name": "생활 영어 회화 기술 - something 활용법",
+    "youtube_url": "https://youtu.be/-01pIlQBWLQ?si=kqTabbJGs1aRS8Jn",
+    "keywords": [
+      {
+        "en": "A: I’m just looking for a simple shirt",
+        "ko": "간단한(심플한) 셔츠를 찾고 있습니다.",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "look for",
+        "ko": "구경을하는 게 아니라 찾는 거라 look + for",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "B: Sure. We’ve got plenty of shirts.",
+        "ko": "저희 셔츠 많아요.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "have got",
+        "ko": "have(가지고있다) 의 강조된 표현, have got= have를 사용해도됨",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "A: <span style=\"color:#8A67AB\"><strong>Nothing fancy. just something plain.</strong></span>",
+        "ko": "화려한거 말구요. 무난한거요.",
+        "bold_words": [
+          "Nothing fancy. just something plain."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>Something that is easy to match</strong></span>",
+        "ko": "맞춰 입기 쉬운 거요",
+        "bold_words": [
+          "Something that is easy to match"
+        ],
+        "id": 6
+      },
+      {
+        "en": "someone that is easy to talk to",
+        "ko": "얘기하기 쉬운 사람",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "B: How’s this?",
+        "ko": "이거 어때요?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "A: That’s pretty, but do you have<span style=\"color:#8A67AB\"><strong> something a little plainer</strong></span>?",
+        "ko": "괜찮네요. 근데 좀 더 수수한 거 있나요?",
+        "bold_words": [
+          "something a little plainer"
+        ],
+        "id": 9
+      },
+      {
+        "en": "B: Sure. How about these over here?",
+        "ko": "그럼요. 여기있는 건 어떠세요?",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "A: OK. Um… Well. <span style=\"color:#8A67AB\"><strong>nothing with big patterns like these</strong></span>. Stripes are OK.",
+        "ko": "음.. 이렇게 큰무늬가 있는 거 말거요. 줄무늬는 괜찮아요.",
+        "bold_words": [
+          "nothing with big patterns like these"
+        ],
+        "id": 11
+      },
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>Something (that) I can wear to church</strong></span>",
+        "ko": "교회에 입고 갈 수 있는 거요.",
+        "bold_words": [
+          "Something (that) I can wear to church"
+        ],
+        "id": 12
+      },
+      {
+        "en": "and preferably<span style=\"color:#8A67AB\"><strong> something with a chest pocket.</strong></span>",
+        "ko": "그리고 이왕이면 가슴 주머니가 있는 걸로 부탁드려요.",
+        "bold_words": [
+          "something with a chest pocket."
+        ],
+        "id": 13
+      },
+      {
+        "en": "preferably",
+        "ko": "이왕이",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "I love chest pockets. I always carry a pair of reading glasses, so chest pockets are very convenient.",
+        "ko": "저는 가슴 주머니를 정말 좋아해요. 항상 돋보기를 가지고 다니기 때문에 가슴 주머니는 아주 유용하죠.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "A: I’m just looking for a simple shirt",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "B: Sure. We’ve got plenty of shirts.",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "A: Nothing fancy. just something plain. Something that is easy to match",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "B: How’s this?",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "A: That’s pretty. but do you have something a little plainer?",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "B: Sure. How about these over here?",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "A: Umm. Nothing with big patterns like these. Stripes are OK. Something that I can wear to church.",
+        "ko": "",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "And preferably something with a chest pocket. I love chest pockets. I always carry a pair of reading glasses, so chest pockets are very convenient.",
+        "ko": "",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "someone that is easy to talk to",
+        "ko": "",
+        "bold_words": [],
+        "id": 24
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>Nothing ~</strong>",
+        "ko": "\"~한 것 말고요 / ~한 건 빼고요\"",
+        "bold_words": [
+          "Nothing ~"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "쇼핑이나 주문을 할 때 원하는 조건의 반대 조건을 가볍게 쳐낼 때 씁니다. \"Nothing fancy(화려한 건 됐고요)\", \"Nothing too expensive(너무 비싼 건 말고요)\"처럼 완벽한 문장 형태를 갖추지 않고도 빠르고 자연스럽게 거절/조건 설정을 할 수 있습니다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "<strong>Nothing too sweet, please.</strong>",
+        "ko": "(너무 단 건 말고요, 부탁드려요.)",
+        "bold_words": [
+          "Nothing too sweet, please."
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>Nothing too heavy, just a light salad for lunch.</strong>",
+        "ko": "(너무 헤비한 거 말고, 점심으로 가벼운 샐러드면 돼요.)",
+        "bold_words": [
+          "Nothing too heavy, just a light salad for lunch."
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>Nothing too expensive; my budget is around $50.</strong>",
+        "ko": "(너무 비싼 건 빼고요, 제 예산이 50달러 정도예요.)",
+        "bold_words": [
+          "Nothing too expensive; my budget is around $50."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>Nothing with nuts—I have a severe allergy.</strong>",
+        "ko": "(견과류 들어간 건 안 돼요—심한 알레르기가 있거든요.)",
+        "bold_words": [
+          "Nothing with nuts—I have a severe allergy."
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>Nothing formal, just comfortable clothes you can walk in.</strong>",
+        "ko": "(격식 차린 옷 말고, 그냥 걸어 다니기 편한 옷으로요.)",
+        "bold_words": [
+          "Nothing formal, just comfortable clothes you can walk in."
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>Something that is easy to [v]</strong>",
+        "ko": "\"~하기 쉬운 / 편한 것\"",
+        "bold_words": [
+          "Something that is easy to [v]"
+        ],
+        "id": 8
+      },
+      {
+        "en": "",
+        "ko": "물건의 용도나 특징을 설명할 때 자주 쓰는 패턴입니다. 'easy to wash(세탁하기 쉬운)', 'easy to carry(들고 다니기 편한)'처럼 일상 쇼핑에서 필수적인 기능적 조건을 말할 때 매우 유용합니다.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "<strong>I'm looking for a bag that is easy to clean.</strong>",
+        "ko": "(세척/닦아내기 쉬운 가방을 찾고 있어요.)",
+        "bold_words": [
+          "I'm looking for a bag that is easy to clean."
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>Do you have shoes that are easy to slip on and off?</strong>",
+        "ko": "(신고 벗기 편한 신발 있나요?)",
+        "bold_words": [
+          "Do you have shoes that are easy to slip on and off?"
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>We need a phone that is easy to use for elderly people.</strong>",
+        "ko": "(어르신들이 사용하기 쉬운 휴대폰이 필요해요.)",
+        "bold_words": [
+          "We need a phone that is easy to use for elderly people."
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>Pick a plant that is easy to grow indoors.</strong>",
+        "ko": "(실내에서 키우기 쉬운 식물로 골라보세요.)",
+        "bold_words": [
+          "Pick a plant that is easy to grow indoors."
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>Give me a recipe that is easy to follow.</strong>",
+        "ko": "(따라 하기 쉬운 레시피 하나만 알려줘.)",
+        "bold_words": [
+          "Give me a recipe that is easy to follow."
+        ],
+        "id": 14
+      },
+      {
+        "en": "<strong>Something with [n]</strong>",
+        "ko": "\"~이 달린 / 들어간 / 있는 것\"",
+        "bold_words": [
+          "Something with [n]"
+        ],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "옷이나 물건의 '디테일(옵션, 부속물, 재료)'을 요구할 때 with를 씁니다. \"주머니 있는 것(something with pockets)\", \"지퍼 달린 것(something with a zipper)\"처럼 관계대명사(that has ~)를 길게 쓰지 않고 전치사 with 하나로 깔끔하게 축약됩니다.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<strong>Do you have a coat with a hood?</strong>",
+        "ko": "(모자(후드) 달린 코트 있나요?)",
+        "bold_words": [
+          "Do you have a coat with a hood?"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>I'd prefer a jacket with lots of inside pockets.</strong>",
+        "ko": "(안주머니가 많은 재킷이면 좋겠어요.)",
+        "bold_words": [
+          "I'd prefer a jacket with lots of inside pockets."
+        ],
+        "id": 18
+      },
+      {
+        "en": "<strong>I need a laptop case with a shoulder strap.</strong>",
+        "ko": "(어깨끈이 달린 노트북 케이스가 필요해요.)",
+        "bold_words": [
+          "I need a laptop case with a shoulder strap."
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>Can I get an iced latte with oat milk?</strong>",
+        "ko": "(오트 밀크 들어간 아이스 라테 한 잔 받을 수 있을까요?)",
+        "bold_words": [
+          "Can I get an iced latte with oat milk?"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>Show me something with a simpler design.</strong>",
+        "ko": "(디자인이 좀 더 단순한 걸로 보여주세요.)",
+        "bold_words": [
+          "Show me something with a simpler design."
+        ],
+        "id": 21
+      },
+      {
+        "en": "Preferably",
+        "ko": "\"이왕이면 / 가급적이면 / 되도록\"",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "필수 조건은 아니지만, \"선택권이 있다면 이왕이면 ~면 좋겠다\"라는 뉘앙스를 공손하고 세련되게 전달하는 부사입니다. 문장 맨 앞이나 뒤에 덧붙여서 조건 완화 용도로 자주 쓰입니다.",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "<strong>I'd like a window seat, preferably.</strong>",
+        "ko": "(가급적이면 창가 자리로 부탁드립니다.)",
+        "bold_words": [
+          "I'd like a window seat, preferably."
+        ],
+        "id": 24
+      },
+      {
+        "en": "<strong>We need to hire someone soon, preferably by next Monday.</strong>",
+        "ko": "(빨리 사람을 채용해야 하는데, 되도록 다음 주 월요일 전이면 좋겠어요.)",
+        "bold_words": [
+          "We need to hire someone soon, preferably by next Monday."
+        ],
+        "id": 25
+      },
+      {
+        "en": "<strong>Send me the file in PDF, preferably.</strong>",
+        "ko": "(파일은 이왕이면 PDF 형식으로 보내주세요.)",
+        "bold_words": [
+          "Send me the file in PDF, preferably."
+        ],
+        "id": 26
+      },
+      {
+        "en": "<strong>I prefer to meet somewhere quiet, preferably a cafe.</strong>",
+        "ko": "(조용한 곳에서 만나고 싶은데, 이왕이면 카페였으면 해요.)",
+        "bold_words": [
+          "I prefer to meet somewhere quiet, preferably a cafe."
+        ],
+        "id": 27
+      },
+      {
+        "en": "<strong>A small room is fine, preferably one with good sunlight.</strong>",
+        "ko": "(작은 방도 괜찮지만, 가급적이면 햇빛이 잘 드는 방이면 좋겠어요.)",
+        "bold_words": [
+          "A small room is fine, preferably one with good sunlight."
+        ],
+        "id": 28
+      }
+    ]
   }
 }
