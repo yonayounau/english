@@ -207274,5 +207274,427 @@
         "id": 28
       }
     ]
+  },
+  "2026-10-30": {
+    "name": "영어 뇌 만들기 문장 5개 : Part 12 (I wish you had asked me earlier/I don’t know. I can’t think of anything./ I hope she isn’t in (any kind of) trouble/There (really)is nothing like a hot bowl of ramyun on a day like this.)",
+    "youtube_url": "https://youtu.be/kuO4-3gJKfU?si=M1dEYkNtoqa8z-wJ",
+    "keywords": [
+      {
+        "en": "I wish you <span style=\"color:#8A67AB\"><strong>had asked</strong></span> me earlier.",
+        "ko": "아까 물어봐줬으면 좋았을텐데 (과거완료)",
+        "bold_words": [
+          "had asked"
+        ],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "should’ve , why didn’t you 를 사용하면 좀 탓하는 뉘앙스가 강함.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "I don’t know. I can’t think of anything.",
+        "ko": "글쎄, 생각나는 게 없는데, 떠오르는 게 없는데.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "That doesn’t ring a bell.",
+        "ko": "딱히 떠오르는 게 없다.(내가 이전에 들었던 것과 연결되지 않는다.)",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "I hope she isn’t in (any kind of) trouble.",
+        "ko": "(걔한테) 무슨 문제가 생긴건 아니어야 할텐데",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "be in trouble",
+        "ko": "문제에 생겼다.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "any kind of",
+        "ko": "무슨(강조형 표현)",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "Why can’t I go back to the previous page?",
+        "ko": "왜 이전 페이지로 안가지지?",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>Why won’t it let me </strong></span>go back to the previous page?",
+        "ko": "왜 이전 페이지로 안가지지?",
+        "bold_words": [
+          "Why won’t it let me"
+        ],
+        "id": 9
+      },
+      {
+        "en": "It’s not letting me ~~.",
+        "ko": "이게 안되는데.(=I can’t (못하는것))",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "It’s not letting me go back to the previous page.",
+        "ko": "이전 페이지로 안가지는 데",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "There (really)is nothing like a hot bowl of ramyun on a day like this.",
+        "ko": "역시 이런 날에는 따뜻한 라면 한 그릇만한 게 없지",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "I wish you had asked me earlier.",
+        "ko": "",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "I don’t know. I can’t think of anything.",
+        "ko": "",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "That doesn’t ring a bell",
+        "ko": "",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "I hope she isn’t in any kind of trouble.",
+        "ko": "",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "Why can’t I go back to the previous page?",
+        "ko": "",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "Why won’t it let me go back to the previous page?",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "It’s not letting me go back to the previous page.",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "There (really) is nothing like a hot bowl of ramyun on a day like this.",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "",
+        "ko": "I wish + 주어 + had p.p.",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "",
+        "ko": "과거에 이미 일어난(혹은 일어나지 않은) 일에 대한 ‘아쉬움과 유감’을 표현하는 가정법 과거완료 구문입니다. You should have asked me나 Why didn't you ask me?는 \"왜 안 물어봤어?\", \"물어봤어야지\"처럼 상대방을 직접 탓하거나 책망하는 느낌을 주기 쉽습니다. 반면 I wish you had asked me는 \"물어봤으면 (내가 도와줄 수 있었을 텐데) 아쉽다\"처럼 내 감정(아쉬움)에 초점이 맞춰져 훨씬 부드럽습니다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "<strong>I wish I had known about this place sooner.</strong>",
+        "ko": "(이 장소를 좀 더 일찍 알았더라면 좋았을 텐데.)",
+        "bold_words": [
+          "I wish I had known about this place sooner."
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>I wish you had told me before you left.</strong>",
+        "ko": "(출발하기 전에 나한테 미리 말해줬으면 좋았을 텐데.)",
+        "bold_words": [
+          "I wish you had told me before you left."
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>I wish I hadn't stayed up so late last night.</strong>",
+        "ko": "(어젯밤에 그렇게 늦게까지 깨어있지 말았어야 했는데.)",
+        "bold_words": [
+          "I wish I hadn't stayed up so late last night."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>I wish we had booked the tickets in advance.</strong>",
+        "ko": "(우리가 티켓을 미리 예매해 뒀더라면 좋았을 텐데.)",
+        "bold_words": [
+          "I wish we had booked the tickets in advance."
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>I wish you had joined us for dinner.</strong>",
+        "ko": "(너도 저녁 식사에 같이 왔으면 정말 좋았을 텐데.)",
+        "bold_words": [
+          "I wish you had joined us for dinner."
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>That doesn't ring a bell</strong>",
+        "ko": "누군가 이름, 장소, 사건 등을 언급했을 때 ‘기억이나 경험의 종을 울리지 않는다’, 즉 \"들어본 기억이 없다\", \"금시초문이다\", \"전혀 낯익지 않다\"는 뜻입니다.",
+        "bold_words": [
+          "That doesn't ring a bell"
+        ],
+        "id": 8
+      },
+      {
+        "en": "<strong>I can't think of anything</strong>",
+        "ko": "머릿속에서 아이디어, 해결책, 사례 등을 끄집어내려 해도 ‘아무것도 떠오르지 않는다’는 뜻입니다.",
+        "bold_words": [
+          "I can't think of anything"
+        ],
+        "id": 9
+      },
+      {
+        "en": "<strong>His name sounds familiar, but his face doesn't ring a bell.</strong>",
+        "ko": "(이름은 낯이 익은데, 얼굴은 전혀 기억이 안 나.)",
+        "bold_words": [
+          "His name sounds familiar, but his face doesn't ring a bell."
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>\"Do you remember the cafe we went to last year?\"</strong>",
+        "ko": "\"우리 작년에 갔던 그 카페 기억나?\"",
+        "bold_words": [
+          "\"Do you remember the cafe we went to last year?\""
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>\"Sorry, that doesn't ring a bell.\"</strong>",
+        "ko": "\"미안, 전혀 기억 안 나.\")",
+        "bold_words": [
+          "\"Sorry, that doesn't ring a bell.\""
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>I'm trying to figure out a gift for Sarah, but I can't think of anything.</strong>",
+        "ko": "(사라 줄 선물을 생각 중인데, 마땅히 떠오르는 게 없어.)",
+        "bold_words": [
+          "I'm trying to figure out a gift for Sarah, but I can't think of anything."
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>I can't think of anything else to add to this report.</strong>",
+        "ko": "(이 보고서에 더 추가할 만한 내용이 생각이 안 나.)",
+        "bold_words": [
+          "I can't think of anything else to add to this report."
+        ],
+        "id": 14
+      },
+      {
+        "en": "<strong>Does the title of that movie ring a bell to you?</strong>",
+        "ko": "(그 영화 제목 들어본 적 있어? 기억나?)",
+        "bold_words": [
+          "Does the title of that movie ring a bell to you?"
+        ],
+        "id": 15
+      },
+      {
+        "en": "<strong>be in trouble</strong>",
+        "ko": "곤란한 처지에 놓이거나 문제/사고에 휘말린 상태입니다.",
+        "bold_words": [
+          "be in trouble"
+        ],
+        "id": 16
+      },
+      {
+        "en": "<strong>any kind of</strong>",
+        "ko": "부정문이나 의문문에서 명사 앞에 붙여 ‘어떤 종류든, 무슨 문제든 간에’라는 뜻으로 불안감이나 강조를 나타냅니다.",
+        "bold_words": [
+          "any kind of"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>I hope (she isn't...)</strong>:",
+        "ko": "\"그녀가 ~가 아니기를 바란다\"는 뜻으로, 나쁜 일이 일어나지 않았으면 하는 걱정 어린 바람을 전할 때 씁니다.",
+        "bold_words": [
+          "I hope (she isn't...)"
+        ],
+        "id": 18
+      },
+      {
+        "en": "<strong>I hope we aren't in any kind of trouble for parking here.</strong>",
+        "ko": "(여기 주차했다고 무슨 문제 생기는 건 아니었으면 좋겠네.)",
+        "bold_words": [
+          "I hope we aren't in any kind of trouble for parking here."
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>He didn't show up today; I hope he isn't in trouble.</strong>",
+        "ko": "(그 친구 오늘 안 나왔던데, 무슨 일 생긴 건 아니어야 할 텐데.)",
+        "bold_words": [
+          "He didn't show up today; I hope he isn't in trouble."
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>If you need help, just tell me. I don't want you to be in trouble.</strong>",
+        "ko": "(도움이 필요하면 그냥 말해. 네가 곤란해지는 건 원치 않아.)",
+        "bold_words": [
+          "If you need help, just tell me. I don't want you to be in trouble."
+        ],
+        "id": 21
+      },
+      {
+        "en": "<strong>Make sure you double-check the figures so we won't get into any kind of trouble.</strong>",
+        "ko": "(문제 생기지 않도록 수치 꼭 다시 확인해 둬.)",
+        "bold_words": [
+          "Make sure you double-check the figures so we won't get into any kind of trouble."
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>I hope this delay doesn't cause any kind of trouble for the team.</strong>",
+        "ko": "(이 지연 때문에 팀에 무슨 문제라도 생기지 않았으면 좋겠어.)",
+        "bold_words": [
+          "I hope this delay doesn't cause any kind of trouble for the team."
+        ],
+        "id": 23
+      },
+      {
+        "en": "<strong>It's not letting me ~,  Why won't it let me ~?</strong>",
+        "ko": "기기나 시스템(앱, 웹사이트, 스마트폰 등)을 주어로 삼아 \"이 시스템이 나에게 ~하는 것을 허락하지 않는다\"는 영어식 물주구문(사람이 아닌 사물이 주어인 문장)입니다.",
+        "bold_words": [
+          "It's not letting me ~,  Why won't it let me ~?"
+        ],
+        "id": 24
+      },
+      {
+        "en": "",
+        "ko": "I can't log in이라고 하면 내가 비밀번호를 잊어버렸거나 조작을 못 해서일 수도 있지만, It's not letting me log in이라고 하면 \"시스템 오류나 버그 때문에 안 들어가지네\"라는 뉘앙스가 명확해집니다.",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "<strong>It's not letting me upload this file.</strong>",
+        "ko": "(이 파일이 업로드가 안 되네.)",
+        "bold_words": [
+          "It's not letting me upload this file."
+        ],
+        "id": 26
+      },
+      {
+        "en": "<strong>Why won't it let me submit the form?</strong>",
+        "ko": "(왜 제출 버튼이 안 먹히지? / 왜 제출이 안 되지?)",
+        "bold_words": [
+          "Why won't it let me submit the form?"
+        ],
+        "id": 27
+      },
+      {
+        "en": "<strong>The app is not letting me reset my password.</strong>",
+        "ko": "(앱에서 비밀번호 재설정이 계속 안 돼.)",
+        "bold_words": [
+          "The app is not letting me reset my password."
+        ],
+        "id": 28
+      },
+      {
+        "en": "<strong>Why won't this screen let me scroll down?</strong>",
+        "ko": "(화면이 왜 아래로 안 내려가지?)",
+        "bold_words": [
+          "Why won't this screen let me scroll down?"
+        ],
+        "id": 29
+      },
+      {
+        "en": "<strong>My phone is not letting me connect to the Wi-Fi.</strong>",
+        "ko": "(핸드폰 와이파이 연결이 안 되네.)",
+        "bold_words": [
+          "My phone is not letting me connect to the Wi-Fi."
+        ],
+        "id": 30
+      },
+      {
+        "en": "<strong>There is nothing like [n]</strong>:",
+        "ko": "\"~만한 게 없다\", \"~가 최고다\"라는 뜻의 최상급 대체 찬사 표현입니다.",
+        "bold_words": [
+          "There is nothing like [n]"
+        ],
+        "id": 31
+      },
+      {
+        "en": "<strong>on a day like this</strong>",
+        "ko": "\"이런 날에는\" (비 오는 날, 유난히 추운 날, 스트레스 받는 날 등 특정 분위기나 날씨).",
+        "bold_words": [
+          "on a day like this"
+        ],
+        "id": 32
+      },
+      {
+        "en": "<strong>There is nothing like an iced coffee on a day like this.</strong>",
+        "ko": "(오늘 같은 날에는 시원한 아이스 커피만 한 게 없지.)",
+        "bold_words": [
+          "There is nothing like an iced coffee on a day like this."
+        ],
+        "id": 33
+      },
+      {
+        "en": "<strong>There is nothing like a warm bath after a long day at work.</strong>",
+        "ko": "(힘든 하루를 마치고 받는 따뜻한 반신욕만 한 게 없어.)",
+        "bold_words": [
+          "There is nothing like a warm bath after a long day at work."
+        ],
+        "id": 34
+      },
+      {
+        "en": "<strong>There is really nothing like homemade soup when you're feeling sick.</strong>",
+        "ko": "(몸이 으슬으슬 아플 때는 집에서 끓인 국물 요리만 한 게 없지.)",
+        "bold_words": [
+          "There is really nothing like homemade soup when you're feeling sick."
+        ],
+        "id": 35
+      },
+      {
+        "en": "<strong>On a day like this, there is nothing like staying home and watching movies.</strong>",
+        "ko": "(이런 날씨에는 집에서 뒹굴거리며 영화 보는 게 최고야.)",
+        "bold_words": [
+          "On a day like this, there is nothing like staying home and watching movies."
+        ],
+        "id": 36
+      },
+      {
+        "en": "<strong>There is nothing like a cold beer after a tough workout.</strong>",
+        "ko": "(격한 운동 뒤에 마시는 시원한 맥주 한 잔만 한 게 없지.)",
+        "bold_words": [
+          "There is nothing like a cold beer after a tough workout."
+        ],
+        "id": 37
+      }
+    ]
   }
 }
