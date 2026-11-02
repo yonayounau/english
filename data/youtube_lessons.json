@@ -207696,5 +207696,481 @@
         "id": 37
       }
     ]
+  },
+  "2026-11-01": {
+    "name": "필수 영어 회화 단어 : work",
+    "youtube_url": "https://youtu.be/tc8o3i7D1B0?si=9YSD_yigN9Z7b1Rw",
+    "keywords": [
+      {
+        "en": "<strong>Work</strong>",
+        "ko": "작동한다. 동작하다.",
+        "bold_words": [
+          "Work"
+        ],
+        "id": 1
+      },
+      {
+        "en": "It worked",
+        "ko": "됐다.",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "Did it work?",
+        "ko": "효과 있었어?/ 됐어?",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "I really hope this works.",
+        "ko": "이게 먹혀야할텐데",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "Please work. This better work",
+        "ko": "이게 먹혀야 할 텐데. 제발 먹혀라. 돼라",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "It (has) worked for me",
+        "ko": "난 효과 있었어. 난 효과 봤어",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "It worked when I tried",
+        "ko": "내가 했을떄는 됐었는데",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "It just might work this time",
+        "ko": "이번에는 잘하면 될 수도 있어",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "Why isn’t it working?",
+        "ko": "왜 안되지?",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "That will never work",
+        "ko": "그렇게 하면 절대 안돼. 그건 절대안돼(안먹혀)",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "The Wi-Fi isn’t working",
+        "ko": "와이파이가 안돼",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "These painkillers aren’t working",
+        "ko": "이 진통제가 안들어",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "<strong>Work</strong>",
+        "ko": "괜찮다/ 편하다/ (나한테) 맞다",
+        "bold_words": [
+          "Work"
+        ],
+        "id": 13
+      },
+      {
+        "en": "That works",
+        "ko": "그래 그렇게 하자. 좋아",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "That works for me",
+        "ko": "난 괜찮아. 난 그거 좋아.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "3o’clock works for me",
+        "ko": "난 3시 괜찮아.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "Whatever works for you.",
+        "ko": "너 편한대로 해.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "What time works best for you?",
+        "ko": "몇 시가 제일 편해?",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "The apartment is small, but it works for us.",
+        "ko": "집이 좁긴 한데 우리한테 괜찮아",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "I’ve got a meeting at four, but I’ll make it work",
+        "ko": "4시에 회의가 있긴 한데, 어떻게든 맞출게",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "<strong>Work</strong>",
+        "ko": "작동하다/ 돌아가다(방식,원리)/ 어떻게 하는 건지, 어떤식으로 돌어가는지)",
+        "bold_words": [
+          "Work"
+        ],
+        "id": 21
+      },
+      {
+        "en": "How does it work?",
+        "ko": "이거 어떻게 하는 거야? 어떻게 쓰는 거야? 원리가 뭐야?",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "That’s not how it works",
+        "ko": "그렇게 하는 게 아니야. 그런식으로 되는 게 아니야.",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "I’ll show you how it works",
+        "ko": "어떻게 하는 건지 보여줄게. 사용법",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "It worked",
+        "ko": "",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "Did it work?",
+        "ko": "",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "I really  hope this works.",
+        "ko": "",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "Please work. This better work.",
+        "ko": "",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "It (has) worked for me.",
+        "ko": "",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "It worked when I tried.",
+        "ko": "",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "It just might work this time.",
+        "ko": "",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "Why isn’t it working?",
+        "ko": "",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "That will never work.",
+        "ko": "",
+        "bold_words": [],
+        "id": 33
+      },
+      {
+        "en": "The Wi-Fi isn’t working",
+        "ko": "",
+        "bold_words": [],
+        "id": 34
+      },
+      {
+        "en": "These painkillers aren’t working.",
+        "ko": "",
+        "bold_words": [],
+        "id": 35
+      },
+      {
+        "en": "That works.",
+        "ko": "",
+        "bold_words": [],
+        "id": 36
+      },
+      {
+        "en": "That works for me.",
+        "ko": "",
+        "bold_words": [],
+        "id": 37
+      },
+      {
+        "en": "3 o’clock works for me",
+        "ko": "",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "Whatever works for you.",
+        "ko": "",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "What time works best for you?",
+        "ko": "",
+        "bold_words": [],
+        "id": 40
+      },
+      {
+        "en": "The apartment is small, but it works for us.",
+        "ko": "",
+        "bold_words": [],
+        "id": 41
+      },
+      {
+        "en": "I’ve got a meeting at four, but I’ll make it work.",
+        "ko": "",
+        "bold_words": [],
+        "id": 42
+      },
+      {
+        "en": "How does it work?",
+        "ko": "",
+        "bold_words": [],
+        "id": 43
+      },
+      {
+        "en": "That’s not how it works.",
+        "ko": "",
+        "bold_words": [],
+        "id": 44
+      },
+      {
+        "en": "I’ll show you how it works.",
+        "ko": "",
+        "bold_words": [],
+        "id": 45
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>Work</strong>",
+        "ko": "작동하다 / 효과가 있다 / 먹히다 (기계·방법·약 등의 작용)",
+        "bold_words": [
+          "Work"
+        ],
+        "id": 1
+      },
+      {
+        "en": "<strong>The air conditioner isn't working properly.</strong>",
+        "ko": "에어컨이 제대로 작동을 안 해.",
+        "bold_words": [
+          "The air conditioner isn't working properly."
+        ],
+        "id": 2
+      },
+      {
+        "en": "<strong>I tried restarting my phone, and it worked.</strong>",
+        "ko": "휴대폰을 재부팅해 봤는데 되더라고.",
+        "bold_words": [
+          "I tried restarting my phone, and it worked."
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>Did that study method really work for you?</strong>",
+        "ko": "그 공부법이 너한테 진짜 효과가 있었어?",
+        "bold_words": [
+          "Did that study method really work for you?"
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>Nothing seems to work against this stain.</strong>",
+        "ko": "이 얼룩에는 어떤 방법을 써도 효과가 없는 것 같아.",
+        "bold_words": [
+          "Nothing seems to work against this stain."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>His charm doesn't work on me.</strong>",
+        "ko": "그 사람의 매력(말솜씨)은 나한테 안 통해.",
+        "bold_words": [
+          "His charm doesn't work on me."
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>I took some medicine, but it's taking a while to work.</strong>",
+        "ko": "약을 먹긴 했는데, 약효가 도는 데 시간이 좀 걸리네.",
+        "bold_words": [
+          "I took some medicine, but it's taking a while to work."
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>It's a crazy idea, but it just might work.</strong>",
+        "ko": "말도 안 되는 아이디어 같지만, 의외로 먹힐지도 몰라.",
+        "bold_words": [
+          "It's a crazy idea, but it just might work."
+        ],
+        "id": 8
+      },
+      {
+        "en": "<strong>Work</strong>",
+        "ko": "괜찮다 / 일정·조건이 맞다 / 편하다 (약속·상황·선택)",
+        "bold_words": [
+          "Work"
+        ],
+        "id": 9
+      },
+      {
+        "en": "<strong>Does Friday evening work for everyone?</strong>",
+        "ko": "금요일 저녁 다들 괜찮으세요?",
+        "bold_words": [
+          "Does Friday evening work for everyone?"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>Any day works for me except Monday.</strong>",
+        "ko": "월요일만 빼면 난 무슨 요일이든 다 좋아.",
+        "bold_words": [
+          "Any day works for me except Monday."
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>If coffee doesn't work for you, we can get tea.</strong>",
+        "ko": "커피가 안 맞으시면 차로 드셔도 돼요.",
+        "bold_words": [
+          "If coffee doesn't work for you, we can get tea."
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>That sounds great, that works for both of us.</strong>",
+        "ko": "그거 좋네, 우리 둘 다한테 딱 맞는 조건이야.",
+        "bold_words": [
+          "That sounds great, that works for both of us."
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>We have a tight budget, but we'll find a way to make it work.</strong>",
+        "ko": "예산이 빠듯하긴 하지만, 어떻게든 맞춰서 해낼 방법을 찾아볼게.",
+        "bold_words": [
+          "We have a tight budget, but we'll find a way to make it work."
+        ],
+        "id": 14
+      },
+      {
+        "en": "<strong>Which location works best for your team?</strong>",
+        "ko": "어느 위치가 팀 분들에게 가장 편하세요?",
+        "bold_words": [
+          "Which location works best for your team?"
+        ],
+        "id": 15
+      },
+      {
+        "en": "<strong>It's not an ideal plan, but it works for now.</strong>",
+        "ko": "완벽한 계획은 아니지만, 지금으로선 이걸로도 괜찮아.",
+        "bold_words": [
+          "It's not an ideal plan, but it works for now."
+        ],
+        "id": 16
+      },
+      {
+        "en": "<strong>Work</strong>",
+        "ko": "(시스템·원리·방식이) 돌아가다 / 진행되다 / 다루다",
+        "bold_words": [
+          "Work"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>Can you explain how the new return policy works?</strong>",
+        "ko": "새로운 환불 규정이 어떻게 돌아가는 건지(적용되는지) 설명해 줄 수 있어?",
+        "bold_words": [
+          "Can you explain how the new return policy works?"
+        ],
+        "id": 18
+      },
+      {
+        "en": "<strong>I'm still trying to figure out how this coffee machine works.</strong>",
+        "ko": "이 커피 머신 사용법을 아직도 파악하는 중이야.",
+        "bold_words": [
+          "I'm still trying to figure out how this coffee machine works."
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>In the real world, that's not always how things work.</strong>",
+        "ko": "현실에서는 일이 항상 그런 식으로 돌아가지만은 않아.",
+        "bold_words": [
+          "In the real world, that's not always how things work."
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>Let me walk you through how the app works.</strong>",
+        "ko": "이 앱이 어떤 식으로 작동하는지(쓰는 건지) 하나씩 보여줄게.",
+        "bold_words": [
+          "Let me walk you through how the app works."
+        ],
+        "id": 21
+      },
+      {
+        "en": "<strong>The human brain doesn't work like a computer.</strong>",
+        "ko": "인간의 뇌는 컴퓨터와 같은 방식으로 작동하지 않아.",
+        "bold_words": [
+          "The human brain doesn't work like a computer."
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>Do you know how the voting system works here?</strong>",
+        "ko": "여기 투표 방식이 어떤 원리로 돌아가는지 알아?",
+        "bold_words": [
+          "Do you know how the voting system works here?"
+        ],
+        "id": 23
+      },
+      {
+        "en": "<strong>That's just the way the system works; we have to follow it.</strong>",
+        "ko": "시스템 구조가 원래 그런 거라, 우리는 규칙을 따를 수밖에 없어.",
+        "bold_words": [
+          "That's just the way the system works; we have to follow it."
+        ],
+        "id": 24
+      }
+    ]
   }
 }
