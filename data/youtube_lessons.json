@@ -208981,5 +208981,559 @@
         "id": 45
       }
     ]
+  },
+  "2026-11-07": {
+    "name": "영어 대화 따라하기 💬 \"나 오늘 왜 이렇게 정신이 없지?\"",
+    "youtube_url": "https://youtu.be/KEi_n2SfbMc?si=-qYVPjHvRznPJKwe",
+    "keywords": [
+      {
+        "en": "A: Where is it?",
+        "ko": "어딨는거야?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "B: Are you <span style=\"color:#8A67AB\"><strong>look</strong></span><strong>ing</strong><span style=\"color:#8A67AB\"><strong> for</strong></span> something?",
+        "ko": "뭐 찾아?",
+        "bold_words": [
+          "look",
+          "ing",
+          "for"
+        ],
+        "id": 2
+      },
+      {
+        "en": "",
+        "ko": "find는 찾는 것을 발견하는 순간을 말함",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "",
+        "ko": "찾는 과정은 look for",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "A: Yeah. My wallet.",
+        "ko": "내지갑.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "B: What does it look like?",
+        "ko": "어떻게 생겼는데?",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "A: It’s about this big. Brown. Leather",
+        "ko": "이정도 크기에, 갈색, 가죽",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "크기를 손 모양을 이용해 보여 주면서 묘사할 때 It’s about this big.",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "B: OK.. Did you take it out after you got here?",
+        "ko": "그렇구나, 여기 와서 꺼냈어?",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "A: I think so. Yeah. When I <span style=\"color:#8A67AB\"><strong>paid for</strong></span> the coffee. and then I came back to the table and..",
+        "ko": "그렇것 같은데, 응 커피살 때,  테이블로돌아와서",
+        "bold_words": [
+          "paid for"
+        ],
+        "id": 10
+      },
+      {
+        "en": "pay money",
+        "ko": "돈을 내다",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "pay for coffee",
+        "ko": "커피값을 지불하다.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "and then",
+        "ko": "그리고 나서(after that과 비슷)",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "B: It’s not in your pocket?",
+        "ko": "주머니에 없어?",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "A: No. I checked",
+        "ko": "아니. 확인했지",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "And it’s not in my bag either.",
+        "ko": "그리고 가방에도 없어",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "B: Oh, <span style=\"color:#8A67AB\"><strong>you know what</strong></span>? <span style=\"color:#8A67AB\"><strong>I bet </strong></span>you left it at the counter",
+        "ko": "그리고 가방에도 없고",
+        "bold_words": [
+          "you know what",
+          "I bet"
+        ],
+        "id": 17
+      },
+      {
+        "en": "",
+        "ko": "아, 야, 너 카운터에 두고온거다.",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "You know what?",
+        "ko": "이어서 할 얘기에 상대방을 순간적으로 집중시키고자 할때, 야, 있잖아와 같은 표현",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "I bet",
+        "ko": "‘분명히‘, ‘장담하는데’ 처럼 무엇에 대한 확신을 표현할 때 자주 쓰는 말",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "A ; Oh, shoot. I bet you’re right",
+        "ko": "아, 젠장, 네말이 맞을 것 같다.",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "B: Was it there?",
+        "ko": "거기에 있어.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "A: Yeah. Thank’s.  <span style=\"color:#8A67AB\"><strong>I don’t know why I didn’t think of that</strong></span>.",
+        "ko": "내가 왜 그생각을 못했는 지 모르겠네.",
+        "bold_words": [
+          "I don’t know why I didn’t think of that"
+        ],
+        "id": 23
+      },
+      {
+        "en": "I’ve just been having a really <span style=\"color:#8A67AB\"><strong>foggy</strong></span> day. I don’t know why",
+        "ko": "하루종일 완전히 정신이 없네. 왜 이러는지 모르겟네.",
+        "bold_words": [
+          "foggy"
+        ],
+        "id": 24
+      },
+      {
+        "en": "B: I told you. you gotta sleep.",
+        "ko": "내 그랬잖아 너 잠 좀 자.",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "A: May be",
+        "ko": "그럴지도.",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "A: Where is it?",
+        "ko": "",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "B: Are you looking for something?",
+        "ko": "",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "A: Yeah.  My wallet.",
+        "ko": "",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "B: what does it look like?",
+        "ko": "",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "A: It’s about this big. Brown, Leather.",
+        "ko": "",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "B: OK. Did you take it out after you got here?",
+        "ko": "",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "A: Yeah. I think so, When I paid for the coffee and then I Came back to the table and",
+        "ko": "",
+        "bold_words": [],
+        "id": 33
+      },
+      {
+        "en": "B: It’s not in your pocket",
+        "ko": "",
+        "bold_words": [],
+        "id": 34
+      },
+      {
+        "en": "A: No I checked. And it’s not in my bag either",
+        "ko": "",
+        "bold_words": [],
+        "id": 35
+      },
+      {
+        "en": "B: Oh you know what? I bet  you left it at the counter",
+        "ko": "",
+        "bold_words": [],
+        "id": 36
+      },
+      {
+        "en": "A: Oh shoot. I bet you’re right.",
+        "ko": "",
+        "bold_words": [],
+        "id": 37
+      },
+      {
+        "en": "B: Was it there?",
+        "ko": "",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "A: I don’t know why I didn’t think of that.  I’ve just been having a really foggy day. I don’t know why.",
+        "ko": "",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "B: I told you  you gotta sleep",
+        "ko": "",
+        "bold_words": [],
+        "id": 40
+      },
+      {
+        "en": "A: maybe.",
+        "ko": "",
+        "bold_words": [],
+        "id": 41
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>look for vs. find</strong>",
+        "ko": "look for는 찾는 과정(행위), find는 찾아낸 결과(발견)를 나타냅니다.",
+        "bold_words": [
+          "look for vs. find"
+        ],
+        "id": 1
+      },
+      {
+        "en": "I've been <strong>looking for</strong> my keys all morning, but I can't <strong>find</strong> them.",
+        "ko": "(아침 내내 열쇠를 찾고 있는데, 찾을 수가 없네.)",
+        "bold_words": [
+          "looking for",
+          "find"
+        ],
+        "id": 2
+      },
+      {
+        "en": "What are you <strong>looking for</strong> in your bag?",
+        "ko": "(가방에서 뭐 찾아?)",
+        "bold_words": [
+          "looking for"
+        ],
+        "id": 3
+      },
+      {
+        "en": "I finally <strong>found</strong> the document I was <strong>looking for</strong>.",
+        "ko": "(찾고 있던 서류를 마침내 발견했어.)",
+        "bold_words": [
+          "found",
+          "looking for"
+        ],
+        "id": 4
+      },
+      {
+        "en": "Help me <strong>look for</strong> my glasses, please.",
+        "ko": "(내 안경 찾는 것 좀 도와줘.)",
+        "bold_words": [
+          "look for"
+        ],
+        "id": 5
+      },
+      {
+        "en": "Did you <strong>find</strong> what you were <strong>looking for</strong>?",
+        "ko": "(찾고 있던 거 찾았어?)",
+        "bold_words": [
+          "find",
+          "looking for"
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>What does it look like? / It's about this big</strong>",
+        "ko": "외형이나 생김새를 물을 때, 그리고 손짓과 함께 크기나 모양을 대략 설명할 때 유용합니다.",
+        "bold_words": [
+          "What does it look like? / It's about this big"
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>What does your new car look like?</strong>",
+        "ko": "(너 새 차 어떻게 생겼어?)",
+        "bold_words": [
+          "What does your new car look like?"
+        ],
+        "id": 8
+      },
+      {
+        "en": "The box is <strong>about this big</strong>, so it won't fit in the trunk.",
+        "ko": "(상자가 대충 이만한 크기라서 트렁크에 안 들어갈 거야.)",
+        "bold_words": [
+          "about this big"
+        ],
+        "id": 9
+      },
+      {
+        "en": "Can you describe the suspect? <strong>What did he look like?</strong>",
+        "ko": "(용의자를 묘사해 주실 수 있나요? 어떻게 생겼었나요?)",
+        "bold_words": [
+          "What did he look like?"
+        ],
+        "id": 10
+      },
+      {
+        "en": "It's a small pouch, <strong>about this big</strong>, with a zipper on top.",
+        "ko": "(위에 지퍼가 달린 대략 요만한 크기의 작은 파우치야.)",
+        "bold_words": [
+          "about this big"
+        ],
+        "id": 11
+      },
+      {
+        "en": "I'm looking for a gift box <strong>about this big</strong>. Do you have any?",
+        "ko": "(대략 이만한 크기의 선물 상자를 찾고 있는데, 있나요?)",
+        "bold_words": [
+          "about this big"
+        ],
+        "id": 12
+      },
+      {
+        "en": "pay for [n,-ing]",
+        "ko": "pay 뒤에 금액이나 대상을 바로 쓰지 않고, 어떤 물건/서비스의 대가를 치를 때는 전치사 for를 씁니다.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "Let me <strong>pay for</strong> lunch today.",
+        "ko": "(오늘 점심은 내가 살게.)",
+        "bold_words": [
+          "pay for"
+        ],
+        "id": 14
+      },
+      {
+        "en": "Who is going to <strong>pay for</strong> the damages?",
+        "ko": "(손해 배상은 누가 낼 건가요?)",
+        "bold_words": [
+          "pay for"
+        ],
+        "id": 15
+      },
+      {
+        "en": "I already <strong>paid for</strong> the parking ticket.",
+        "ko": "(주차 요금은 이미 지불했어.)",
+        "bold_words": [
+          "paid for"
+        ],
+        "id": 16
+      },
+      {
+        "en": "How much did you <strong>pay for</strong> that jacket?",
+        "ko": "(그 재킷 얼마 주고 샀어?)",
+        "bold_words": [
+          "pay for"
+        ],
+        "id": 17
+      },
+      {
+        "en": "You shouldn't have to <strong>pay for</strong> their mistakes.",
+        "ko": "(그 사람들의 실수에 대해 네가 대가를 치를 필요는 없어.)",
+        "bold_words": [
+          "pay for"
+        ],
+        "id": 18
+      },
+      {
+        "en": "You know what? / I bet ~",
+        "ko": "You know what?은 화제를 전환하거나 주의를 끌 때(있잖아/그거 알아?), I bet ~은 강한 추측과 확신(분명 ~일 거다)을 말할 때 씁니다.",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "<strong>You know what?</strong> I think we should leave early tomorrow.",
+        "ko": "(있잖아, 우리 내일 일찍 출발하는 게 좋을 것 같아.)",
+        "bold_words": [
+          "You know what?"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>I bet</strong> he forgot about our meeting.",
+        "ko": "(장담하는데 걔 우리 회의 까먹었을걸.)",
+        "bold_words": [
+          "I bet"
+        ],
+        "id": 21
+      },
+      {
+        "en": "<strong>You know what?</strong> It's not worth worrying about.",
+        "ko": "(그거 알아? 그거 전혀 걱정할 가치도 없는 일이야.)",
+        "bold_words": [
+          "You know what?"
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>I bet</strong> you're going to love this place.",
+        "ko": "(분명 너 여기 아주 마음에 들어 할 거야.)",
+        "bold_words": [
+          "I bet"
+        ],
+        "id": 23
+      },
+      {
+        "en": "<strong>I bet</strong> she's already asleep by now.",
+        "ko": "(틀림없이 걔 지금쯤 벌써 자고 있을 거다.)",
+        "bold_words": [
+          "I bet"
+        ],
+        "id": 24
+      },
+      {
+        "en": "<strong>5. I don't know why I didn't think of that.</strong>",
+        "ko": "상대방이 좋은 아이디어나 뻔한 해결책을 제시했을 때 \"내가 왜 그 생각을 못 했지?\"라며 맞장구칠 때 자주 씁니다.",
+        "bold_words": [
+          "5. I don't know why I didn't think of that."
+        ],
+        "id": 25
+      },
+      {
+        "en": "That's a great solution! <strong>I don't know why I didn't think of that.</strong>",
+        "ko": "(좋은 해결책이다! 왜 그 생각을 진작 못 했지.)",
+        "bold_words": [
+          "I don't know why I didn't think of that."
+        ],
+        "id": 26
+      },
+      {
+        "en": "Restarting the router fixed it? <strong>I don't know why I didn't think of that.</strong>",
+        "ko": "(공유기 재부팅하니까 해결됐어? 내가 왜 그 생각을 못 했을까.)",
+        "bold_words": [
+          "I don't know why I didn't think of that."
+        ],
+        "id": 27
+      },
+      {
+        "en": "We could just take the subway. <strong>I don't know why I didn't think of that earlier.</strong>",
+        "ko": "(그냥 지하철 타도 되는데. 아까는 왜 그 생각을 못 했지.)",
+        "bold_words": [
+          "I don't know why I didn't think of that earlier."
+        ],
+        "id": 28
+      },
+      {
+        "en": "oh, right! The spare key! <strong>I don't know why I didn't think of that.</strong>",
+        "ko": "(아 맞다! 보조 키! 왜 그 생각을 못 떠올렸을까.)",
+        "bold_words": [
+          "I don't know why I didn't think of that."
+        ],
+        "id": 29
+      },
+      {
+        "en": "It was so simple, <strong>I don't know why I didn't think of that.</strong>",
+        "ko": "(너무 간단한 문제였는데, 왜 그 생각을 못 했는지 모르겠어.)",
+        "bold_words": [
+          "I don't know why I didn't think of that."
+        ],
+        "id": 30
+      },
+      {
+        "en": "6. <strong>foggy / brain fog</strong>",
+        "ko": "날씨뿐만 아니라 수면 부족이나 피로로 \"머리가 멍하고 정신이 맑지 않을 때\" 사람의 상태를 비유적으로 표현합니다.",
+        "bold_words": [
+          "foggy / brain fog"
+        ],
+        "id": 31
+      },
+      {
+        "en": "My brain is so <strong>foggy</strong> this morning; I need some coffee.",
+        "ko": "(오늘 아침에 머리가 너무 멍해서 커피가 좀 필요해.)",
+        "bold_words": [
+          "foggy"
+        ],
+        "id": 32
+      },
+      {
+        "en": "I've had severe <strong>brain fog</strong> since I got sick.",
+        "ko": "(아프고 난 뒤로 계속 머리에 안개가 낀 것처럼 멍해.)",
+        "bold_words": [
+          "brain fog"
+        ],
+        "id": 33
+      },
+      {
+        "en": "Lack of sleep always makes me feel <strong>foggy</strong> the next day.",
+        "ko": "(수면 부족은 다음 날 항상 정신을 멍하게 만든다.)",
+        "bold_words": [
+          "foggy"
+        ],
+        "id": 34
+      },
+      {
+        "en": "Sorry, I didn't catch that. My head is a little <strong>foggy</strong> today.",
+        "ko": "(미안, 잘 못 들었어. 오늘 머리가 좀 멍하네.)",
+        "bold_words": [
+          "foggy"
+        ],
+        "id": 35
+      },
+      {
+        "en": "After working for ten hours straight, my thinking got completely <strong>foggy</strong>.",
+        "ko": "(10시간 연속으로 일했더니 머리가 완전히 멍해졌다.)",
+        "bold_words": [
+          "foggy"
+        ],
+        "id": 36
+      }
+    ]
   }
 }
