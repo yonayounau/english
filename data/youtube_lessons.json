@@ -211094,5 +211094,649 @@
         "id": 64
       }
     ]
+  },
+  "2026-11-22": {
+    "name": "“I'm not sure\" 말고 쓸 수 있는 다양한 표현들",
+    "youtube_url": "https://youtu.be/MPi6mfyfkCY?si=FsVCKKZ1SPmJxUja",
+    "keywords": [
+      {
+        "en": "A: Do dogs live longer than cats?",
+        "ko": "개가 고양이보다 오래 사나?",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "B: No, cats live longer. But <span style=\"color:#8A67AB\"><strong>I could be wrong.</strong></span>",
+        "ko": "아니, 고양이가 더 오래 살아. 근데 내가 틀릴 수도 있어.",
+        "bold_words": [
+          "I could be wrong."
+        ],
+        "id": 2
+      },
+      {
+        "en": "<span style=\"color:#976D57\"><strong>My understanding is </strong></span>cats live around 15 years on average.",
+        "ko": "내가 알기로는, 고양이가 평균 15년 정도 살고 ‘",
+        "bold_words": [
+          "My understanding is"
+        ],
+        "id": 3
+      },
+      {
+        "en": "<strong>My understanding is = From what I know</strong>",
+        "ko": "내가 알기로는",
+        "bold_words": [
+          "My understanding is = From what I know"
+        ],
+        "id": 4
+      },
+      {
+        "en": "Dogs,12 or 13. It depends on breed, too.",
+        "ko": "개는 12에서 13년. 종에 따라서도 달라.",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "Larger breeds tend to have shorter life spans",
+        "ko": "큰 종들이 수명이 짧은 편이야.",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "But <span style=\"color:#B84C75\"><strong>don’t quote me on that</strong></span>",
+        "ko": "근데 정확하진 않을 수도 있어.",
+        "bold_words": [
+          "don’t quote me on that"
+        ],
+        "id": 7
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>Don’t quote me on that.</strong></span>",
+        "ko": "(비교적 많은 정보가 포함되어 있는 지실이나, 사식)내가 말한게 전적으로 맞지 않을 수 있다. 내가 말한게 확실하지 않으니까, 남한테 가서 말하지 말아라(quote 인용)",
+        "bold_words": [
+          "Don’t quote me on that."
+        ],
+        "id": 8
+      },
+      {
+        "en": "<span style=\"color:#8A67AB\"><strong>I could be wrong.</strong></span>",
+        "ko": "(비교적 단순한 사실이나 지식에 대해) 내가 맞지 않을 수도 있다.",
+        "bold_words": [
+          "I could be wrong."
+        ],
+        "id": 9
+      },
+      {
+        "en": "A: <span style=\"color:#976D57\"><strong>I read somewhere that </strong></span>some dogs live<span style=\"color:#976D57\"><strong> as long as </strong></span>20 to 25 years",
+        "ko": "내가 어디선가 읽었는데 어떤 개들은 길게는 20에서 25년을 산대.",
+        "bold_words": [
+          "I read somewhere that",
+          "as long as"
+        ],
+        "id": 10
+      },
+      {
+        "en": "I read somewhere that ___",
+        "ko": "____에서 인가 읽었다.",
+        "bold_words": [],
+        "id": 11
+      },
+      {
+        "en": "do [something] as (adv) as (something)",
+        "ko": "무엇을 얼마큼까지 하다.",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "B: Did you read that online?",
+        "ko": "그거 인터넷에서 읽은거야?",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "Because if you did, you should<span style=\"color:#487CA5\"> </span><span style=\"color:#487CA5\"><strong>take that with a grain of salt</strong></span>",
+        "ko": "그런거면 너무 있는 그대로 믿으면 안돼.",
+        "bold_words": [
+          "take that with a grain of salt"
+        ],
+        "id": 14
+      },
+      {
+        "en": "<span style=\"color:#487CA5\"><strong>take that with a grain of salt.</strong></span>",
+        "ko": "앞서 이야기한 게 과장이 되었을 수 있으니, 너무 있는 그대로 받아들이지 말아라.",
+        "bold_words": [
+          "take that with a grain of salt."
+        ],
+        "id": 15
+      },
+      {
+        "en": "There’s a lot of bad information <span style=\"color:#976D57\">out there.</span>",
+        "ko": "잘못된 정보들이 엄청 많이 떠돌거든.",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "There’s a lot __ out there.",
+        "ko": "떠돌아다닌다.",
+        "bold_words": [],
+        "id": 17
+      },
+      {
+        "en": "A: Do dogs live longer than cats?",
+        "ko": "",
+        "bold_words": [],
+        "id": 18
+      },
+      {
+        "en": "B: No. cats live longer.",
+        "ko": "",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "I could be wrong.",
+        "ko": "",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "But my understanding is cats live around 15 years around average.",
+        "ko": "",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "Dogs 12 or 13. It depends on the breed. too.",
+        "ko": "",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "Larger breeds tend to have a shorter life spans.",
+        "ko": "",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "Bud Don’t quote me on that",
+        "ko": "",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "A: I read somewhere that some dogs live as long as 20 to 25 years.",
+        "ko": "",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "B: Did you read that online?",
+        "ko": "",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "Because If you did, you should take that with a grain of salt.",
+        "ko": "",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "There’s a lot of bad information out there.",
+        "ko": "",
+        "bold_words": [],
+        "id": 28
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "<strong>I could be wrong.</strong>",
+        "ko": "(내가 틀릴 수도 있어)내 기억이나 추측에 대해 가볍게 한 발 물러설 때 문장 앞이나 뒤에 붙입니다.",
+        "bold_words": [
+          "I could be wrong."
+        ],
+        "id": 1
+      },
+      {
+        "en": "I think the meeting starts at 3, but <strong>I could be wrong.</strong>",
+        "ko": "(회의가 3시에 시작하는 걸로 아는데, 내가 틀릴 수도 있어.)",
+        "bold_words": [
+          "I could be wrong."
+        ],
+        "id": 2
+      },
+      {
+        "en": "<strong>I could be wrong, </strong>but isn’t that John’s car?",
+        "ko": "(내가 틀릴 수도 있는데, 저거 존 차 아니야?)",
+        "bold_words": [
+          "I could be wrong,"
+        ],
+        "id": 3
+      },
+      {
+        "en": "She looks like she’s in her late twenties, though<strong> I could be wrong.</strong>",
+        "ko": "(그녀는 20대 후반으로 보이는데, 아닐 수도 있어.)",
+        "bold_words": [
+          "I could be wrong."
+        ],
+        "id": 4
+      },
+      {
+        "en": "I believe the store is closed on Sundays, but <strong>I could be wrong.</strong>",
+        "ko": "(일요일에는 그 가게 문을 닫는 걸로 아는데, 틀릴 수도 있어요.)",
+        "bold_words": [
+          "I could be wrong."
+        ],
+        "id": 5
+      },
+      {
+        "en": "It’s going to rain tomorrow, or at least<strong> I could be wrong </strong>about the forecast.",
+        "ko": "(내일 비가 올 거야, 뭐 내가 일기예보를 잘못 본 걸 수도 있지만.)",
+        "bold_words": [
+          "I could be wrong"
+        ],
+        "id": 6
+      },
+      {
+        "en": "<strong>2. My understanding is (that) ~</strong>",
+        "ko": "(내가 알기로는 ~)비즈니스나 일상 대화에서 내가 파악한 사실이나 상황을 차분하게 전달할 때 사용.From what I know와 바꿔 쓸 수 있습니다.",
+        "bold_words": [
+          "2. My understanding is (that) ~"
+        ],
+        "id": 7
+      },
+      {
+        "en": "<strong>My understanding is</strong> that the project has been delayed until next month.",
+        "ko": "(내가 알기로는 그 프로젝트가 다음 달로 연기됐어.)",
+        "bold_words": [
+          "My understanding is"
+        ],
+        "id": 8
+      },
+      {
+        "en": "<strong>My understanding is </strong>they are hiring new developers right now.",
+        "ko": "(내가 알기로는 그 회사에서 지금 새 개발자들을 뽑고 있어.)",
+        "bold_words": [
+          "My understanding is"
+        ],
+        "id": 9
+      },
+      {
+        "en": "<strong>From what I know,</strong> this restaurant requires a reservation in advance.",
+        "ko": "(내가 알기로는 이 식당은 미리 예약을 해야 해.)",
+        "bold_words": [
+          "From what I know,"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>My understanding is</strong> that the ticket includes free breakfast.",
+        "ko": "(내가 알기로는 그 티켓에 무료 조식이 포함되어 있어.)",
+        "bold_words": [
+          "My understanding is"
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>My understanding is </strong>we don’t need to bring our own laptops.",
+        "ko": "(내가 알기로는 우리가 개인 노트북을 가져갈 필요가 없어.)",
+        "bold_words": [
+          "My understanding is"
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>It depends on ~</strong>",
+        "ko": "(~에 따라 달라)상황이나 조건에 따라 결과가 달라진다는 뜻",
+        "bold_words": [
+          "It depends on ~"
+        ],
+        "id": 13
+      },
+      {
+        "en": "<strong>It depends on</strong> the weather. If it’s sunny, we’ll go hiking.",
+        "ko": "(날씨에 따라 달라. 맑으면 등산 갈 거야.)",
+        "bold_words": [
+          "It depends on"
+        ],
+        "id": 14
+      },
+      {
+        "en": "The price <strong>depends on</strong> what kind of options you choose.",
+        "ko": "(가격은 어떤 옵션을 선택하느냐에 따라 달라집니다.)",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 15
+      },
+      {
+        "en": "<strong>It depends on </strong>how much time we have left.",
+        "ko": "(시간이 얼마나 남았는지에 따라 달라.)",
+        "bold_words": [
+          "It depends on"
+        ],
+        "id": 16
+      },
+      {
+        "en": "Success often <strong>depends on</strong> how hard you work.",
+        "ko": "(성공은 종종 네가 얼마나 열심히 노력하느냐에 달려 있어.)",
+        "bold_words": [
+          "depends on"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>It depends on </strong>who you ask. Everyone has a different opinion.",
+        "ko": "(누구에게 물어보느냐에 따라 달라. 다들 의견이 다르거든.)",
+        "bold_words": [
+          "It depends on"
+        ],
+        "id": 18
+      },
+      {
+        "en": "",
+        "ko": "tend to + 동사원형",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "",
+        "ko": "(~하는 편이다 / ~하는 경향이 있다) 부정형은 tend not to를 씁니다.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "I <strong>tend to</strong> wake up early even on weekends.",
+        "ko": "(나는 주말에도 일찍 일어나는 편이야.)",
+        "bold_words": [
+          "tend to"
+        ],
+        "id": 21
+      },
+      {
+        "en": "People <strong>tend to</strong> eat more when they are stressed.",
+        "ko": "(사람들은 스트레스를 받으면 더 많이 먹는 경향이 있어.)",
+        "bold_words": [
+          "tend to"
+        ],
+        "id": 22
+      },
+      {
+        "en": "Prices <strong>tend to</strong> go up during the holiday season.",
+        "ko": "(휴가철에는 물가가 오르는 경향이 있습니다.)",
+        "bold_words": [
+          "tend to"
+        ],
+        "id": 23
+      },
+      {
+        "en": "He <strong>tends to</strong> talk very fast when he gets excited.",
+        "ko": "(그는 흥분하면 말을 아주 빨리하는 편이야.)",
+        "bold_words": [
+          "tends to"
+        ],
+        "id": 24
+      },
+      {
+        "en": "I <strong>tend not to</strong> drink coffee after 4 PM.",
+        "ko": "(나는 오후 4시 이후에는 커피를 안 마시는 편이야.)",
+        "bold_words": [
+          "tend not to"
+        ],
+        "id": 25
+      },
+      {
+        "en": "<strong>Don’t quote me on that.</strong>",
+        "ko": "(내 말 그대로 믿진 마 / 정확하진 않을 수도 있어) 여러 정보나 수치를 설명한 뒤 \"내 말이 100% 공식적인 팩트라고 남한테 옮기진 마\"라고 책임을 살짝 피할 때 쓰는 아주 자연스러운 구어체",
+        "bold_words": [
+          "Don’t quote me on that."
+        ],
+        "id": 26
+      },
+      {
+        "en": "I heard they’re going to lay off 10% of the staff, but <strong>don’t quote me on that.</strong>",
+        "ko": "(직원의 10%를 해고할 거라고 들었는데, 정확하진 않아.)",
+        "bold_words": [
+          "don’t quote me on that."
+        ],
+        "id": 27
+      },
+      {
+        "en": "The flight takes about 14 hours, but <strong>don’t quote me on that.</strong>",
+        "ko": "(비행시간이 14시간 정도 걸리는데, 내 말만 믿진 마.)",
+        "bold_words": [
+          "don’t quote me on that."
+        ],
+        "id": 28
+      },
+      {
+        "en": "I think he moved to Canada last year, but <strong>don’t quote me on that.</strong>",
+        "ko": "(걔 작년에 캐나다로 이사 간 것 같은데, 확실하진 않아.)",
+        "bold_words": [
+          "don’t quote me on that."
+        ],
+        "id": 29
+      },
+      {
+        "en": "They said the tax refund will arrive in May, but <strong>don’t quote me on that.</strong>",
+        "ko": "(세금 환급이 5월에 들어온다고 하던데, 정확하진 않을 수도 있어.)",
+        "bold_words": [
+          "don’t quote me on that."
+        ],
+        "id": 30
+      },
+      {
+        "en": "This model is supposed to be waterproof, but <strong>don’t quote me on that.</strong>",
+        "ko": "(이 모델 방수 된다고 하던데, 내 말만 믿고 물에 넣진 마.)",
+        "bold_words": [
+          "don’t quote me on that."
+        ],
+        "id": 31
+      },
+      {
+        "en": "<strong>I read somewhere that ~</strong>",
+        "ko": "(어디선가 읽었는데 ~래) 정확한 출처(책, 기사, 블로그 등)가 기억나지 않지만, 읽어서 알게 된 정보를 꺼낼 때 씁니다. (들은 내용일 때는 I heard somewhere that ~으로 씁니다.)",
+        "bold_words": [
+          "I read somewhere that ~"
+        ],
+        "id": 32
+      },
+      {
+        "en": "<strong>I read somewhere tha</strong>t drinking water first thing in the morning is good for you.",
+        "ko": "(어디선가 읽었는데 아침에 일어나자마자 물 마시는 게 몸에 좋대.)",
+        "bold_words": [
+          "I read somewhere tha"
+        ],
+        "id": 33
+      },
+      {
+        "en": "<strong>I read somewhere that</strong> dark chocolate can help improve your mood.",
+        "ko": "(어디선가 읽었는데 다크초콜릿이 기분을 좋게 만드는 데 도움이 된대.)",
+        "bold_words": [
+          "I read somewhere that"
+        ],
+        "id": 34
+      },
+      {
+        "en": "<strong>I read somewhere that </strong>octopuses have three hearts.",
+        "ko": "(어디선가 읽었는데 문어는 심장이 세 개래.)",
+        "bold_words": [
+          "I read somewhere that"
+        ],
+        "id": 35
+      },
+      {
+        "en": "<strong>I read somewhere that</strong> sleeping less than six hours hurts your memory.",
+        "ko": "(어디선가 읽었는데 6시간 미만으로 자면 기억력이 나빠진대.)",
+        "bold_words": [
+          "I read somewhere that"
+        ],
+        "id": 36
+      },
+      {
+        "en": "<strong>I read somewhere that </strong>the movie was filmed entirely in Korea.",
+        "ko": "(어디선가 읽었는데 그 영화 전체가 한국에서 촬영됐대.)",
+        "bold_words": [
+          "I read somewhere that"
+        ],
+        "id": 37
+      },
+      {
+        "en": "",
+        "ko": "as [형용사/부사] as ~",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "",
+        "ko": "(길게는/많게는 ~까지, ~만큼) 수치나 정도가 예상보다 크거나 높음을 강조할 때 \"무려 ~만큼이나\"라는 느낌으로 쓰입니다.",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "Some whales can weigh<strong> as much as </strong>150 tons.",
+        "ko": "(어떤 고래들은 무게가 무려 150톤까지 나갑니다.)",
+        "bold_words": [
+          "as much as"
+        ],
+        "id": 40
+      },
+      {
+        "en": "The commute can<strong> take as long as</strong> two hours during rush hour.",
+        "ko": "(출퇴근 시간에는 통근 시간이 길게는 2시간까지 걸릴 수 있어.)",
+        "bold_words": [
+          "take as long as"
+        ],
+        "id": 41
+      },
+      {
+        "en": "Tickets for the concert cost <strong>as much as </strong>$500.",
+        "ko": "(그 콘서트 티켓은 비싸게는 500달러나 해.)",
+        "bold_words": [
+          "as much as"
+        ],
+        "id": 42
+      },
+      {
+        "en": "Temperatures here can drop <strong>as low as</strong> minus 20 degrees in winter.",
+        "ko": "(이곳의 겨울 기온은 낮게는 영하 20도까지 떨어질 수 있어.)",
+        "bold_words": [
+          "as low as"
+        ],
+        "id": 43
+      },
+      {
+        "en": "Call me <strong>as soon as</strong> you get home.",
+        "ko": "(집에 도착하자마자 전화해.)",
+        "bold_words": [
+          "as soon as"
+        ],
+        "id": 44
+      },
+      {
+        "en": "<strong>take ~ with a grain of salt</strong>",
+        "ko": "(~을 걸러서 듣다 / 너무 액면 그대로 믿지 않다)소금 한 알(a grain of salt)을 곁들여 삼키듯, 의심의 여지를 조금 남겨두고 받아들인다는 뜻 (a pinch of salt라고도 합니다.)",
+        "bold_words": [
+          "take ~ with a grain of salt"
+        ],
+        "id": 45
+      },
+      {
+        "en": "You should <strong>take </strong>his advice with <strong>a grain of salt</strong>. He tends to exaggerate.",
+        "ko": "(그 사람 조언은 좀 걸러서 들어야 해. 과장하는 경향이 있거든.)",
+        "bold_words": [
+          "take",
+          "a grain of salt"
+        ],
+        "id": 46
+      },
+      {
+        "en": "I always <strong>take</strong> online reviews with<strong> a grain of salt.</strong>",
+        "ko": "(나는 온라인 리뷰는 항상 너무 그대로 믿지 않고 걸러서 봐.)",
+        "bold_words": [
+          "take",
+          "a grain of salt."
+        ],
+        "id": 47
+      },
+      {
+        "en": "<strong>Take</strong> what she says with <strong>a grain of salt</strong>—she loves gossip.",
+        "ko": "(그녀가 하는 말은 적당히 걸러 들어. 가십거리를 엄청 좋아하거든.)",
+        "bold_words": [
+          "Take",
+          "a grain of salt"
+        ],
+        "id": 48
+      },
+      {
+        "en": "Rumors on social media should be <strong>taken with a grain of salt.</strong>",
+        "ko": "(소셜 미디어에 도는 루머는 액면 그대로 믿으면 안 됩니다.)",
+        "bold_words": [
+          "taken with a grain of salt."
+        ],
+        "id": 49
+      },
+      {
+        "en": "I<strong> took</strong> his promise with <strong>a grain of salt </strong>because he rarely keeps his word.",
+        "ko": "(그가 약속을 지키는 일이 거의 없어서 나는 그의 약속을 반신반의하며 들었어.)",
+        "bold_words": [
+          "took",
+          "a grain of salt"
+        ],
+        "id": 50
+      },
+      {
+        "en": "<strong>There’s a lot of ~ out there</strong>",
+        "ko": "(세상에/시중에 ~가 정말 많아) out there는 단순히 '저 밖에'가 아니라 '세상에, 사회에, 인터넷상에, 시장에'라는 넓은 공간을 의미.",
+        "bold_words": [
+          "There’s a lot of ~ out there"
+        ],
+        "id": 51
+      },
+      {
+        "en": "<strong>There’s a lot</strong> of fake news<strong> out there </strong>these days.",
+        "ko": "(요즘 인터넷에 가짜 뉴스가 정말 많이 떠돌아다녀.)",
+        "bold_words": [
+          "There’s a lot",
+          "out there"
+        ],
+        "id": 52
+      },
+      {
+        "en": "<strong>There are a lot </strong>of great opportunities <strong>out there</strong> if you look closely.",
+        "ko": "(잘 찾아보면 세상에는 좋은 기회들이 정말 많아.)",
+        "bold_words": [
+          "There are a lot",
+          "out there"
+        ],
+        "id": 53
+      },
+      {
+        "en": "<strong>There’s a lot of</strong> competition <strong>out there</strong> in the job market.",
+        "ko": "(취업 시장에는 경쟁자가 정말 많아.)",
+        "bold_words": [
+          "There’s a lot of",
+          "out there"
+        ],
+        "id": 54
+      },
+      {
+        "en": "<strong>There are a lot of</strong> scammers<strong> out there,</strong> so be careful with your personal info.",
+        "ko": "(세상에 사기꾼들이 정말 많으니까 개인정보 조심해.)",
+        "bold_words": [
+          "There are a lot of",
+          "out there,"
+        ],
+        "id": 55
+      },
+      {
+        "en": "<strong>There’s a lot of</strong> free content <strong>out there</strong> for learning English.",
+        "ko": "(영어 공부를 위한 무료 콘텐츠가 시중에 정말 많아.)",
+        "bold_words": [
+          "There’s a lot of",
+          "out there"
+        ],
+        "id": 56
+      }
+    ]
   }
 }
