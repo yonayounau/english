@@ -212681,5 +212681,678 @@
         "id": 39
       }
     ]
+  },
+  "2026-11-27": {
+    "name": "\" 챙기다 \"를 영어로 ?",
+    "youtube_url": "https://youtu.be/SgkWq1A_qBY",
+    "keywords": [
+      {
+        "en": "",
+        "ko": "<Don’t forget 명사/ to부정사> ~잊지마 ⇒ 챙겨",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "Hey Don’t forget your bag.",
+        "ko": "야, 너 가방 챙겨",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "Don’t forget your phone",
+        "ko": "너 핸드폰 챙겨",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "Don’t forget to take your meds, OK?",
+        "ko": "너 잊지말고 약 꼭 챙겨 먹어",
+        "bold_words": [],
+        "id": 4
+      },
+      {
+        "en": "",
+        "ko": "<make sure>꼭 뭐해라!! 꼭 챙겨라",
+        "bold_words": [],
+        "id": 5
+      },
+      {
+        "en": "Make sure you take your meds,",
+        "ko": "약을 꼭! 챙겨먹어라",
+        "bold_words": [],
+        "id": 6
+      },
+      {
+        "en": "Make sure to take your meds",
+        "ko": "약을 꼭! 챙겨먹어라",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "Don’t forget and make sure you take your meds.",
+        "ko": "잊지말고 약을 꼭 챙겨먹어라",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "You have the car keys, right?",
+        "ko": "야 너 차 열쇠 챙겼지?(질문형식) →챙기다라는 말을 굳이 사용할 필요가 없다.",
+        "bold_words": [],
+        "id": 9
+      },
+      {
+        "en": "Don’t worry. I brought an extra(one) just in case",
+        "ko": "내가 혹시 몰라서 하나 더 챙겨왔어",
+        "bold_words": [],
+        "id": 10
+      },
+      {
+        "en": "<strong>bring + just in case</strong>",
+        "ko": "(잊지 않고 했다는 것보다는 만약에 상황을 대비하기위에)",
+        "bold_words": [
+          "bring + just in case"
+        ],
+        "id": 11
+      },
+      {
+        "en": "",
+        "ko": "Don’t worry. I brought money just in case내가 혹시 몰라서 현금을 더 챙겨왔어",
+        "bold_words": [],
+        "id": 12
+      },
+      {
+        "en": "",
+        "ko": "※챙기다라는 표현을 굳이 알려고 할 필요가 없다!!! 그냥 있는 표현을 활용하자.",
+        "bold_words": [],
+        "id": 13
+      },
+      {
+        "en": "Hey, let’s take an extra external battery just in case.",
+        "ko": "야, 혹시 모르니까 하나 더 챙겨가자",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "pack은 짐을 싸는 개념이라 챙기자의 느낌보다는 짐에 포함시키자의 느낌이 강하다.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "<사람을 챙긴다/ 누구를 챙긴다.>",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<span style=\"color:#B84C75\"><strong>look out for (someone)</strong></span>",
+        "ko": "(someone)이 나오면 누구를 돌본다. 챙긴다의 의미로 쓰임. (지원군의 느낌으로,)",
+        "bold_words": [
+          "look out for (someone)"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>look out for</strong>",
+        "ko": "위협요소에 대해 조심히는 것, 위험을 조심해라 ⇒ 챙긴다.",
+        "bold_words": [
+          "look out for"
+        ],
+        "id": 18
+      },
+      {
+        "en": "Mr’ Kim? He’s a great boss. I love Mr. Kim. He always looks out for us.",
+        "ko": "그는 우리를 항상 잘 챙겨주세요.",
+        "bold_words": [],
+        "id": 19
+      },
+      {
+        "en": "My mom always looks out for me(us)",
+        "ko": "엄마는 잘 챙겨준다.",
+        "bold_words": [],
+        "id": 20
+      },
+      {
+        "en": "",
+        "ko": "make sure을 사용해서도 가능",
+        "bold_words": [],
+        "id": 21
+      },
+      {
+        "en": "He always makes sure we have what we need.",
+        "ko": "Mr.Kim은 우리가 뭐 필요한 거 있으면 항상 잘 챙겨주세요.",
+        "bold_words": [],
+        "id": 22
+      },
+      {
+        "en": "",
+        "ko": "look out for / look after / take care of / 심지어는 have(get) one's back / 모두 '챙기다'의 의미로 쓰이는데요, 맥락에 따라서는 '돌보다'의 느낌이 더 강할 때가 많은데 이것 또한 정해진 룰이 없어요.",
+        "bold_words": [],
+        "id": 23
+      },
+      {
+        "en": "",
+        "ko": "그래서 한 자리에 모아 놓고 완벽히 이해하려고 하지 말고 앞으로 영어를 많이 접하면서 이 세 표현들을 접했을 때 어떻게 쓰였는지를 잘 보시길 바랍니다",
+        "bold_words": [],
+        "id": 24
+      },
+      {
+        "en": "",
+        "ko": "또한, take care of 를 쓸 때는 강조를 해서 \"take good care of\"혹은 \"take really good care of\"처럼 쓰는 것을 추천합니다",
+        "bold_words": [],
+        "id": 25
+      },
+      {
+        "en": "I never miss that show.",
+        "ko": "나 그 방송은 꼭 챙겨 봐.",
+        "bold_words": [],
+        "id": 26
+      },
+      {
+        "en": "Don't worry. It's safe at home.(I put it in a safe place at home.)",
+        "ko": "걱정마. 내가 집에 잘 챙겨 놨어.",
+        "bold_words": [],
+        "id": 27
+      },
+      {
+        "en": "Hey, put this somewhere safe before you lose it.",
+        "ko": "야, 이거 읽어버리기 전에 잘 챙겨 놔.",
+        "bold_words": [],
+        "id": 28
+      },
+      {
+        "en": "He's so mature. He takes really good care of his little sister.",
+        "ko": "(어떤 남자 아이에 대해서) 자기가 그래도 오빠라고 동생을 엄청 챙겨.",
+        "bold_words": [],
+        "id": 29
+      },
+      {
+        "en": "You need to take care of yourself. All right?",
+        "ko": "건강 잘 챙기셔야 돼요. 아셨죠?",
+        "bold_words": [],
+        "id": 30
+      },
+      {
+        "en": "I bet he made quite a lot from that.",
+        "ko": "걔 그걸로 돈 꽤 챙겼을 걸?",
+        "bold_words": [],
+        "id": 31
+      },
+      {
+        "en": "Hey Don’t forget your bag",
+        "ko": "",
+        "bold_words": [],
+        "id": 32
+      },
+      {
+        "en": "Don’t forget your phone.",
+        "ko": "",
+        "bold_words": [],
+        "id": 33
+      },
+      {
+        "en": "Don’t forget you take your meds, OK?",
+        "ko": "",
+        "bold_words": [],
+        "id": 34
+      },
+      {
+        "en": "Make sure you take your meds",
+        "ko": "",
+        "bold_words": [],
+        "id": 35
+      },
+      {
+        "en": "Make sure to take your meds.",
+        "ko": "",
+        "bold_words": [],
+        "id": 36
+      },
+      {
+        "en": "Don’t forget and make sure you take your meds.",
+        "ko": "",
+        "bold_words": [],
+        "id": 37
+      },
+      {
+        "en": "You have the car keys right?",
+        "ko": "",
+        "bold_words": [],
+        "id": 38
+      },
+      {
+        "en": "Don’t worry. I brought an extra(one) just in case.",
+        "ko": "",
+        "bold_words": [],
+        "id": 39
+      },
+      {
+        "en": "Hey, let’s take an extra external battery just in case.",
+        "ko": "",
+        "bold_words": [],
+        "id": 40
+      },
+      {
+        "en": "Mr. Kim? He’s great boss. I love Mr.Kim.",
+        "ko": "",
+        "bold_words": [],
+        "id": 41
+      },
+      {
+        "en": "He always looks out for us.",
+        "ko": "",
+        "bold_words": [],
+        "id": 42
+      },
+      {
+        "en": "My mom always looks out for me.",
+        "ko": "",
+        "bold_words": [],
+        "id": 43
+      },
+      {
+        "en": "He always makes sure we have what we need.",
+        "ko": "",
+        "bold_words": [],
+        "id": 44
+      },
+      {
+        "en": "I never miss that show.",
+        "ko": "",
+        "bold_words": [],
+        "id": 45
+      },
+      {
+        "en": "Don’t worry. It’s safe at home( I put it in a safe Place at home.",
+        "ko": "",
+        "bold_words": [],
+        "id": 46
+      },
+      {
+        "en": "Hey, Put this somewhere safe before you lose it.",
+        "ko": "",
+        "bold_words": [],
+        "id": 47
+      },
+      {
+        "en": "He’s so mature. He takes really good care of his little sister.",
+        "ko": "",
+        "bold_words": [],
+        "id": 48
+      },
+      {
+        "en": "You need to take care of yourself all right?",
+        "ko": "",
+        "bold_words": [],
+        "id": 49
+      },
+      {
+        "en": "I bet he made quite a lot from that.",
+        "ko": "",
+        "bold_words": [],
+        "id": 50
+      }
+    ],
+    "my_sentences": [
+      {
+        "en": "The sun is really strong today. Don't forget your hat.",
+        "ko": "해가 너무 쎄다. 모자 챙겨",
+        "bold_words": [],
+        "id": 1
+      },
+      {
+        "en": "You have your sunglasses, right?",
+        "ko": "선글라스도 챙겼지?",
+        "bold_words": [],
+        "id": 2
+      },
+      {
+        "en": "Don’t worry. I brought an extra pair of sunglasses just in case.",
+        "ko": "걱정마,선글라스도 하나 더 챙겨왔어.",
+        "bold_words": [],
+        "id": 3
+      },
+      {
+        "en": "<strong>You always look out for me.</strong>",
+        "ko": "(넌 항상 날 잘 챙겨줘.)",
+        "bold_words": [
+          "You always look out for me."
+        ],
+        "id": 4
+      },
+      {
+        "en": "<strong>You really look out for me.</strong>",
+        "ko": "(넌 날 정말 잘 챙긴다.)",
+        "bold_words": [
+          "You really look out for me."
+        ],
+        "id": 5
+      },
+      {
+        "en": "<strong>Don't forget</strong>",
+        "ko": "물건이나 해야 할 일을 잊지 말고 챙기라고 가볍게 상기시킬 때 씁니다.",
+        "bold_words": [
+          "Don't forget"
+        ],
+        "id": 6
+      },
+      {
+        "en": "",
+        "ko": "Don't forget + 물건:  물건을 챙기라고 할 때",
+        "bold_words": [],
+        "id": 7
+      },
+      {
+        "en": "",
+        "ko": "Don't forget to + 동사: 행동을 챙겨 하라고 할 때",
+        "bold_words": [],
+        "id": 8
+      },
+      {
+        "en": "<strong>Don't forget</strong> your umbrella; it looks like it's going to rain.",
+        "ko": "(우산 챙겨, 비 올 것 같아.)",
+        "bold_words": [
+          "Don't forget"
+        ],
+        "id": 9
+      },
+      {
+        "en": "<strong>Don't forget</strong> your passport before you leave for the airport.",
+        "ko": "(공항으로 출발하기 전에 여권 꼭 챙겨.)",
+        "bold_words": [
+          "Don't forget"
+        ],
+        "id": 10
+      },
+      {
+        "en": "<strong>Don't forget to</strong> lock the front door when you head out.",
+        "ko": "(나갈 때 현관문 잠그는 거 잊지 마 / 잘 챙겨 잠가.)",
+        "bold_words": [
+          "Don't forget to"
+        ],
+        "id": 11
+      },
+      {
+        "en": "<strong>Don't forget to</strong> drink plenty of water throughout the day.",
+        "ko": "(하루 종일 물 많이 챙겨 마시는 거 잊지 마.)",
+        "bold_words": [
+          "Don't forget to"
+        ],
+        "id": 12
+      },
+      {
+        "en": "<strong>Don't forget to</strong> grab your lunch from the fridge.",
+        "ko": "(냉장고에서 점심 도시락 챙겨 가는 거 잊지 마.)",
+        "bold_words": [
+          "Don't forget to"
+        ],
+        "id": 13
+      },
+      {
+        "en": "",
+        "ko": "Make sure (that) + 주어 + 동사 / Make sure to + 동사원형",
+        "bold_words": [],
+        "id": 14
+      },
+      {
+        "en": "",
+        "ko": "회화에서는 that을 생략하고 Make sure you + 동사 형태로 가장 많이 쓰며, 남을 챙겨줄 때도 make sure someone has ~로 활용할 수 있습니다.",
+        "bold_words": [],
+        "id": 15
+      },
+      {
+        "en": "",
+        "ko": "Make sure you bring a jacket because it gets chilly at night. (밤에 쌀쌀해지니까 재킷 꼭 챙겨 와.)",
+        "bold_words": [],
+        "id": 16
+      },
+      {
+        "en": "<strong>Make sure to</strong> charge your phone fully before the trip.",
+        "ko": "(여행 가기 전에 핸드폰 100% 충전해 두는 거 꼭 챙겨.)",
+        "bold_words": [
+          "Make sure to"
+        ],
+        "id": 17
+      },
+      {
+        "en": "<strong>Make sure you</strong> eat breakfast before taking that medicine.",
+        "ko": "(그 약 먹기 전에 아침밥 꼭 챙겨 먹어.)",
+        "bold_words": [
+          "Make sure you"
+        ],
+        "id": 18
+      },
+      {
+        "en": "She always <strong>makes sure</strong> everyone feels welcome at the party.",
+        "ko": "(그녀는 파티에서 모두가 환영받는다고 느끼도록 항상 잘 챙긴다.)",
+        "bold_words": [
+          "makes sure"
+        ],
+        "id": 19
+      },
+      {
+        "en": "<strong>Make sure you</strong> have all your belongings before getting off the train.",
+        "ko": "(기차에서 내리기 전에 소지품 다 챙겼는지 꼭 확인해.)",
+        "bold_words": [
+          "Make sure you"
+        ],
+        "id": 20
+      },
+      {
+        "en": "<strong>bring / take ~ just in case</strong>",
+        "ko": "잊지 않고 챙겼다는 느낌보다, 만약의 사태나 혹시 모를 상황에 대비해 여분으로 챙길 때 씁니다.",
+        "bold_words": [
+          "bring / take ~ just in case"
+        ],
+        "id": 21
+      },
+      {
+        "en": "<strong>bring</strong>",
+        "ko": "말하는 사람 쪽으로 가져올 때",
+        "bold_words": [
+          "bring"
+        ],
+        "id": 22
+      },
+      {
+        "en": "<strong>take</strong>",
+        "ko": "다른 곳으로 가져갈 때",
+        "bold_words": [
+          "take"
+        ],
+        "id": 23
+      },
+      {
+        "en": "I <strong>brought</strong> an extra charger <strong>just in case</strong> your battery dies.",
+        "ko": "(네 배터리 닳을까 봐 혹시 몰라서 충전기 하나 더 챙겨 왔어.)",
+        "bold_words": [
+          "brought",
+          "just in case"
+        ],
+        "id": 24
+      },
+      {
+        "en": "Let's <strong>take</strong> some snacks <strong>just in case</strong> we get hungry on the road.",
+        "ko": "(가는 길에 배고플지 모르니까 간식 좀 챙겨 가자.)",
+        "bold_words": [
+          "take",
+          "just in case"
+        ],
+        "id": 25
+      },
+      {
+        "en": "I <strong>brought</strong> a pair of sunglasses <strong>just in case</strong> it gets too sunny.",
+        "ko": "(햇빛이 너무 강할까 봐 혹시 몰라서 선글라스 챙겨 왔어.)",
+        "bold_words": [
+          "brought",
+          "just in case"
+        ],
+        "id": 26
+      },
+      {
+        "en": "You should <strong>take</strong> some painkillers <strong>just in case</strong> you get a headache.",
+        "ko": "(두통 생길지도 모르니까 진통제 좀 챙겨 가.)",
+        "bold_words": [
+          "take",
+          "just in case"
+        ],
+        "id": 27
+      },
+      {
+        "en": "I always <strong>bring</strong> a spare shirt to work <strong>just in case</strong> I spill coffee on myself.",
+        "ko": "(커피 쏟을까 봐 혹시 몰라서 회사에 여벌 셔츠를 항상 챙겨 다녀.)",
+        "bold_words": [
+          "bring",
+          "just in case"
+        ],
+        "id": 28
+      },
+      {
+        "en": "<strong>look out for (someone)</strong>",
+        "ko": "누군가에게 불이익이나 위험이 생기지 않도록 뒤에서 든든하게 지켜봐 주고 챙겨준다는 뉘앙스. '지원군' 같은 느낌이 강합니다.",
+        "bold_words": [
+          "look out for (someone)"
+        ],
+        "id": 29
+      },
+      {
+        "en": "Thanks for always <strong>looking out for</strong> me at work.",
+        "ko": "(직장에서 항상 저를 잘 챙겨주셔서 감사합니다.)",
+        "bold_words": [
+          "looking out for"
+        ],
+        "id": 30
+      },
+      {
+        "en": "As the oldest brother, he always <strong>looks out for</strong> his younger siblings.",
+        "ko": "(맏형으로서 그는 항상 동생들을 잘 챙긴다.)",
+        "bold_words": [
+          "looks out for"
+        ],
+        "id": 31
+      },
+      {
+        "en": "Good friends <strong>look out for</strong> each other during tough times.",
+        "ko": "(좋은 친구들은 힘든 시기에 서로를 잘 챙겨준다.)",
+        "bold_words": [
+          "look out for"
+        ],
+        "id": 32
+      },
+      {
+        "en": "My senior coworker really <strong>looked out for</strong> me when I was new.",
+        "ko": "(내가 신입이었을 때 사수가 나를 정말 잘 챙겨줬다.)",
+        "bold_words": [
+          "looked out for"
+        ],
+        "id": 33
+      },
+      {
+        "en": "Don't worry about the meeting; I'll <strong>look out for</strong> your interests.",
+        "ko": "(회의 걱정은 마, 네 입장을 잘 챙겨줄게.)",
+        "bold_words": [
+          "look out for"
+        ],
+        "id": 34
+      },
+      {
+        "en": "<strong>take (good / really good) care of (someone / oneself)</strong>",
+        "ko": "가장 보편적으로 사람이나 건강을 정성껏 돌보고 챙긴다는 뜻입니다.",
+        "bold_words": [
+          "take (good / really good) care of (someone / oneself)"
+        ],
+        "id": 35
+      },
+      {
+        "en": "You've been working too hard lately. Please <strong>take good care of</strong> yourself.",
+        "ko": "(요즘 너무 무리해서 일하더라. 건강 좀 잘 챙겨.)",
+        "bold_words": [
+          "take good care of"
+        ],
+        "id": 36
+      },
+      {
+        "en": "My host family <strong>took really good care of</strong> me while I was studying abroad.",
+        "ko": "(유학하는 동안 홈스테이 가족이 나를 엄청 잘 챙겨주셨어.)",
+        "bold_words": [
+          "took really good care of"
+        ],
+        "id": 37
+      },
+      {
+        "en": "Don't worry about your dog; I'll <strong>take good care of</strong> him while you're away.",
+        "ko": "(강아지 걱정 마, 네가 없는 동안 내가 잘 챙겨줄게.)",
+        "bold_words": [
+          "take good care of"
+        ],
+        "id": 38
+      },
+      {
+        "en": "She <strong>takes really good care of</strong> her skin, so she always looks glowing.",
+        "ko": "(그녀는 피부 관리를 정말 잘 챙겨서 늘 피부가 빛이 나.)",
+        "bold_words": [
+          "takes really good care of"
+        ],
+        "id": 39
+      },
+      {
+        "en": "He <strong>takes good care of</strong> his team members, so everyone respects him.",
+        "ko": "(그는 팀원들을 잘 챙겨서 모두가 그를 존경해.)",
+        "bold_words": [
+          "takes good care of"
+        ],
+        "id": 40
+      },
+      {
+        "en": "<strong>put ~ somewhere safe / never miss</strong>",
+        "ko": "귀중품을 잃어버리지 않게 잘 챙겨 둔다고 할 때는 safe를 활용하고, 드라마나 운동 등을 빼먹지 않고 챙긴다고 할 때는 never miss를 씁니다.",
+        "bold_words": [
+          "put ~ somewhere safe / never miss"
+        ],
+        "id": 41
+      },
+      {
+        "en": "<strong>Put</strong> this cash <strong>somewhere safe</strong> so you don't lose it.",
+        "ko": "(잃어버리지 않게 이 현금 안전한 곳에 잘 챙겨 놔.)",
+        "bold_words": [
+          "Put",
+          "somewhere safe"
+        ],
+        "id": 42
+      },
+      {
+        "en": "Don't worry about the contract; I <strong>put it somewhere safe</strong> in my desk.",
+        "ko": "(계약서 걱정 마, 내 책상 안 안전한 곳에 잘 챙겨 뒀어.)",
+        "bold_words": [
+          "put it somewhere safe"
+        ],
+        "id": 43
+      },
+      {
+        "en": "I <strong>never miss</strong> a single episode of that drama.",
+        "ko": "(나는 그 드라마를 한 회도 안 빼놓고 꼭 챙겨 봐.)",
+        "bold_words": [
+          "never miss"
+        ],
+        "id": 44
+      },
+      {
+        "en": "He <strong>never misses</strong> his morning workout, no matter how busy he is.",
+        "ko": "(그는 아무리 바빠도 아침 운동은 꼭 챙겨서 해.)",
+        "bold_words": [
+          "never misses"
+        ],
+        "id": 45
+      },
+      {
+        "en": "Make sure you <strong>put</strong> your jewelry <strong>somewhere safe</strong> before going swimming.",
+        "ko": "(수영하러 들어가기 전에 액세서리 안전한 곳에 잘 챙겨 둬.)",
+        "bold_words": [
+          "put",
+          "somewhere safe"
+        ],
+        "id": 46
+      }
+    ]
   }
 }
